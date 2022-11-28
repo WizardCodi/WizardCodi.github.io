@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WizardCodi.github.io/</id>
     <title>CodiVFX Blog</title>
-    <updated>2022-11-28T11:57:58.914Z</updated>
+    <updated>2022-11-28T14:32:02.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WizardCodi.github.io/"/>
     <link rel="self" href="https://WizardCodi.github.io/atom.xml"/>
@@ -11,21 +11,64 @@
     <icon>https://WizardCodi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, CodiVFX Blog</rights>
     <entry>
-        <title type="html"><![CDATA[这是另一篇测试文章]]></title>
+        <title type="html"><![CDATA[UE5特效练习3]]></title>
+        <id>https://WizardCodi.github.io/post/ue5-te-xiao-lian-xi-3/</id>
+        <link href="https://WizardCodi.github.io/post/ue5-te-xiao-lian-xi-3/">
+        </link>
+        <updated>2022-11-28T14:24:26.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="练习目的">练习目的：</h1>
+<p>① 空间吸入的扭曲效果<br>
+② 急促的吸收-爆发节奏</p>
+<p><video src="https://videofile.magesbox.com/028eaff07247484d931cedcbd95226cb/f07194c1099b4f559e9decbfaadd07f5-96a07458ad4848ddcc533474523ec328-hd.mp4"
+controls="controls"><br>
+不支持视频<br>
+</video></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早期作品(仅图片)]]></title>
+        <id>https://WizardCodi.github.io/post/zao-qi-zuo-pin-jin-tu-pian/</id>
+        <link href="https://WizardCodi.github.io/post/zao-qi-zuo-pin-jin-tu-pian/">
+        </link>
+        <updated>2022-11-28T14:15:01.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://WizardCodi.github.io//post-images/1669645118399.png" alt="" loading="lazy"><br>
+<img src="https://WizardCodi.github.io//post-images/1669645123252.png" alt="" loading="lazy"><br>
+<img src="https://WizardCodi.github.io//post-images/1669645128672.png" alt="" loading="lazy"><br>
+<img src="https://WizardCodi.github.io//post-images/1669645132574.png" alt="" loading="lazy"><br>
+<img src="https://WizardCodi.github.io//post-images/1669645136089.png" alt="" loading="lazy"><br>
+<img src="https://WizardCodi.github.io//post-images/1669645140139.png" alt="" loading="lazy"><br>
+<img src="https://WizardCodi.github.io//post-images/1669645146458.png" alt="" loading="lazy"><br>
+<img src="https://WizardCodi.github.io//post-images/1669645149811.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UE5特效练习2]]></title>
         <id>https://WizardCodi.github.io/post/zhe-shi-ling-yi-pian-ce-shi-wen-zhang/</id>
         <link href="https://WizardCodi.github.io/post/zhe-shi-ling-yi-pian-ce-shi-wen-zhang/">
         </link>
         <updated>2022-11-28T10:11:43.000Z</updated>
-        <content type="html"><![CDATA[<p>测试</p>
+        <content type="html"><![CDATA[<h1 id="练习目的">练习目的：</h1>
+<p>① 圆柱形魔幻感能量罩的表现<br>
+② 符文条带的表现</p>
+<p><video src="https://videofile.magesbox.com/7fc8d077d3834ba0a4ace27dba919b19/d091d01ddad14bed98cff07f5678fd1f-6820f61d806982c8e55cd88f6d62a3ea-hd.mp4"
+controls="controls"><br>
+不支持视频<br>
+</video></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这是一篇测试文章]]></title>
+        <title type="html"><![CDATA[UE5特效练习1]]></title>
         <id>https://WizardCodi.github.io/post/ce-shi-wen-zhang/</id>
         <link href="https://WizardCodi.github.io/post/ce-shi-wen-zhang/">
         </link>
         <updated>2022-11-28T04:31:25.000Z</updated>
-        <content type="html"><![CDATA[<p>测试文章</p>
+        <content type="html"><![CDATA[<h1 id="练习目的">练习目的：</h1>
+<p>① 黑洞的表现<br>
+② 吸收-爆开的节奏表现</p>
+<p><video src="https://videofile.magesbox.com/8a32436f6c68442981d2a22e7f5cf10c/8bde17fa82b44af4a23025368771634f-371153e7d1140c9aa27e8fdf8021cd6a-hd.mp4"
+controls="controls"><br>
+不支持视频<br>
+</video></p>
 ]]></content>
     </entry>
 </feed>
