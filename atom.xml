@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://WizardCodi.github.io/</id>
+    <id>http://localhost:4000</id>
     <title>CodiVFX Blog</title>
-    <updated>2022-11-28T07:14:09.811Z</updated>
+    <updated>2022-11-28T11:48:55.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://WizardCodi.github.io/"/>
-    <link rel="self" href="https://WizardCodi.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>Codi的VFX日常作品与技术向游戏美术学习笔记记录站</subtitle>
-    <logo>https://WizardCodi.github.io/images/avatar.png</logo>
-    <icon>https://WizardCodi.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, CodiVFX Blog</rights>
     <entry>
+        <title type="html"><![CDATA[这是另一篇测试文章]]></title>
+        <id>http://localhost:4000/post/zhe-shi-ling-yi-pian-ce-shi-wen-zhang/</id>
+        <link href="http://localhost:4000/post/zhe-shi-ling-yi-pian-ce-shi-wen-zhang/">
+        </link>
+        <updated>2022-11-28T10:11:43.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[这是一篇测试文章]]></title>
-        <id>https://WizardCodi.github.io/post/ce-shi-wen-zhang/</id>
-        <link href="https://WizardCodi.github.io/post/ce-shi-wen-zhang/">
+        <id>http://localhost:4000/post/ce-shi-wen-zhang/</id>
+        <link href="http://localhost:4000/post/ce-shi-wen-zhang/">
         </link>
         <updated>2022-11-28T04:31:25.000Z</updated>
         <content type="html"><![CDATA[<p>测试文章</p>
