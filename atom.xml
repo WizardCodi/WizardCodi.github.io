@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WizardCodi.github.io/</id>
     <title>CodiVFX Blog</title>
-    <updated>2022-11-28T14:32:02.972Z</updated>
+    <updated>2022-11-29T18:40:13.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WizardCodi.github.io/"/>
     <link rel="self" href="https://WizardCodi.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://WizardCodi.github.io/images/avatar.png</logo>
     <icon>https://WizardCodi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, CodiVFX Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Niagara模块学习笔记1]]></title>
+        <id>https://WizardCodi.github.io/post/niagara-mo-kuai-xue-xi-bi-ji-1/</id>
+        <link href="https://WizardCodi.github.io/post/niagara-mo-kuai-xue-xi-bi-ji-1/">
+        </link>
+        <updated>2022-11-29T17:55:21.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://WizardCodi.github.io//post-images/1669744610735.png" alt="" loading="lazy"></figure>
+<h2 id="spawn-per-unit">Spawn Per Unit</h2>
+<h4 id="作用使得发射器每移动指定距离则释放一个粒子适合用于制作拖尾">作用：使得发射器每移动指定距离则释放一个粒子，适合用于制作拖尾</h4>
+<p>参数：<br>
+Spawn Spacing：发射器移动距离间隔<br>
+Max Movement Threshold：设置移动距离阈值，超过阈值则不释放粒子，可用于玩家TP时避免释放随身的粒子。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蓝图学习笔记-关于向目标平移的实现的思路]]></title>
+        <id>https://WizardCodi.github.io/post/lan-tu-xue-xi-bi-ji-guan-yu-xiang-mu-biao-ping-yi-de-shi-xian-de-si-lu/</id>
+        <link href="https://WizardCodi.github.io/post/lan-tu-xue-xi-bi-ji-guan-yu-xiang-mu-biao-ping-yi-de-shi-xian-de-si-lu/">
+        </link>
+        <updated>2022-11-29T17:44:41.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://WizardCodi.github.io//post-images/1669743958521.png" alt="" loading="lazy"><br>
+变量解释：Intial Location(初始位置) Target Location(目标位置)<br>
+使用Lerp节点配合Timeline功能（Timeline中起点值为0，重点值为1）实现一个Actor向指定目标位置移动的效果，采用Lerp的方式使得整个过程十分可控。<br>
+通过修改timeline可间接调整移动的速度曲线，也可以调整过程中移动的前后方向。同时由于lerp的特性，使得此方法的复用性也极强。<br>
+且使用timeline的Finished可取巧判断出Actor已达到目标位置并做出相关处理。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UE5特效练习3]]></title>
         <id>https://WizardCodi.github.io/post/ue5-te-xiao-lian-xi-3/</id>

@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
-<title>早期作品(仅图片) | CodiVFX Blog</title>
+<title>蓝图学习笔记-关于向目标平移的实现的思路 | CodiVFX Blog</title>
 <link rel="shortcut icon" href="https://WizardCodi.github.io//favicon.ico?v=1669747208210">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 <link rel="stylesheet" href="https://WizardCodi.github.io//styles/main.css" type='text/css' media='all'>
@@ -125,36 +125,33 @@
     <div id="loop-container" class="loop-container">
       <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-standard-2 tag-tagalicious tag-travel entry full-without-featured odd excerpt-1">
         
-          <div class='featured-image lazy lazy-bg-image' data-background="https://WizardCodi.github.io//post-images/zao-qi-zuo-pin-jin-tu-pian.png">
+          <div class='featured-image lazy lazy-bg-image' data-background="https://WizardCodi.github.io//post-images/lan-tu-xue-xi-bi-ji-guan-yu-xiang-mu-biao-ping-yi-de-shi-xian-de-si-lu.png">
           </div>
         
 
         <div class="entry-meta">
-          <span class="date">· 2022-11-28 ·</span> <span> / </span>
+          <span class="date">· 2022-11-30 ·</span> <span> / </span>
           <span class="author">
             <a href="https://WizardCodi.github.io/" title="" rel="author"> Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a></a>
           </span>
           
             <span class="category">
                     <span> / </span>
-                    <a href="https://WizardCodi.github.io/tag/fY3zg8xGF/">练习作品</a>
+                    <a href="https://WizardCodi.github.io/tag/U_bHpB0Hi/">笔记</a>
                 </span>
           
         </div>
         <div class='entry-header'>
-          <h1 class='entry-title'>早期作品(仅图片)</h1>
+          <h1 class='entry-title'>蓝图学习笔记-关于向目标平移的实现的思路</h1>
         </div>
         <div class="entry-container">
           <div class="entry-content">
             <article>
-              <p><img src="https://WizardCodi.github.io//post-images/1669645118399.png" alt="" loading="lazy"><br>
-<img src="https://WizardCodi.github.io//post-images/1669645123252.png" alt="" loading="lazy"><br>
-<img src="https://WizardCodi.github.io//post-images/1669645128672.png" alt="" loading="lazy"><br>
-<img src="https://WizardCodi.github.io//post-images/1669645132574.png" alt="" loading="lazy"><br>
-<img src="https://WizardCodi.github.io//post-images/1669645136089.png" alt="" loading="lazy"><br>
-<img src="https://WizardCodi.github.io//post-images/1669645140139.png" alt="" loading="lazy"><br>
-<img src="https://WizardCodi.github.io//post-images/1669645146458.png" alt="" loading="lazy"><br>
-<img src="https://WizardCodi.github.io//post-images/1669645149811.png" alt="" loading="lazy"></p>
+              <p><img src="https://WizardCodi.github.io//post-images/1669743958521.png" alt="" loading="lazy"><br>
+变量解释：Intial Location(初始位置) Target Location(目标位置)<br>
+使用Lerp节点配合Timeline功能（Timeline中起点值为0，重点值为1）实现一个Actor向指定目标位置移动的效果，采用Lerp的方式使得整个过程十分可控。<br>
+通过修改timeline可间接调整移动的速度曲线，也可以调整过程中移动的前后方向。同时由于lerp的特性，使得此方法的复用性也极强。<br>
+且使用timeline的Finished可取巧判断出Actor已达到目标位置并做出相关处理。</p>
 
             </article>
           </div>
@@ -210,7 +207,7 @@
             <nav class="navigation pagination" role="navigation">
               <h2 class="screen-reader-text">Posts navigation</h2>
               <div class="nav-links">
-                <a class="next page-numbers" href="https://WizardCodi.github.io/post/zhe-shi-ling-yi-pian-ce-shi-wen-zhang/">下一篇->UE5特效练习2</a>
+                <a class="next page-numbers" href="https://WizardCodi.github.io/post/ue5-te-xiao-lian-xi-3/">下一篇->UE5特效练习3</a>
               </div>
             </nav>
           
