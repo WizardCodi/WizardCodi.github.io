@@ -8605,7 +8605,7 @@ hr {
     width: 50%;
 }*/
 
-.spotlight.style1:nth-child(even) {
+.spotlight.style1:nth-child(2) {
 	-moz-flex-direction: row-reverse;
 	-webkit-flex-direction: row-reverse;
 	-ms-flex-direction: row-reverse;
