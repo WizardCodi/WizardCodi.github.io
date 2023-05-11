@@ -8623,6 +8623,10 @@ article.wrapper.style1 > .inner img {
 	width: 100%;
 }
 
+article.wrapper.style1 > .inner video {
+	width: 100%;
+}
+
 article.wrapper.style1 .highlight {
   overflow: auto;
 }
