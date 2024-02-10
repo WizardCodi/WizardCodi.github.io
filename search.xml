@@ -1,24 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>公专要点-行政执法能力-询问查证</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="询问"><a href="#询问" class="headerlink" title="询问"></a>询问</h2><p>询问笔录交由被询问人核对时，确认无误后被询问人应逐页签名或按指印。</p>
-<h2 id="传唤"><a href="#传唤" class="headerlink" title="传唤"></a>传唤</h2><p><strong>在询问笔录中注明嫌疑人到案经过、时间和离开时间。</strong><br><strong>当场传唤事后不需要补证。</strong><br>传唤时间（最长24h）从嫌疑人到案起计算。<br>要将原因和依据告知被传唤人，并通知其家属原因、住所。</p>
+    <title>公专要点-行政执法能力-受案管辖</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%8F%97%E6%A1%88%E7%AE%A1%E8%BE%96/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="受案"><a href="#受案" class="headerlink" title="受案"></a>受案</h1><h2 id="案件来源"><a href="#案件来源" class="headerlink" title="案件来源"></a>案件来源</h2><p>报案、控告、群众扭送、投案、其它国家机关移送、日常执勤发现、上级交办等。<strong>其中报案、控告、举报可口头可书面。</strong></p>
+<h2 id="网上登记"><a href="#网上登记" class="headerlink" title="网上登记"></a>网上登记</h2><p>无论哪种来源，均需要网上接报案登记。例外情况：</p>
+<ol>
+<li>涉及国家机密</li>
+<li>重复报案、案件正在办理或已经办结。</li>
+</ol>
 <span id="more"></span>
 
-<h3 id="强制传唤"><a href="#强制传唤" class="headerlink" title="强制传唤"></a>强制传唤</h3><p>批准：县级以上公机<strong>办案部门负责人</strong><br>条件：</p>
-<ol>
-<li>已经经过传唤</li>
-<li>对象无正当理由拒传、逃传。<br><strong>需要文书《行政强制决定书》</strong><br><strong>当场实施行政强制措施，需要在24h内向所属机关报告。</strong>若限制自由则回单位后要立即报告，并补文书。</li>
-</ol>
-<h3 id="刑事传唤"><a href="#刑事传唤" class="headerlink" title="刑事传唤"></a>刑事传唤</h3><p>时间：12h➡️24h<br>无强制传唤，对应措施为拘传。<strong>拘传不能补证和手续，拘传必须带证。</strong><br><strong>可不通知家属。</strong></p>
-<h3 id="异地传唤"><a href="#异地传唤" class="headerlink" title="异地传唤"></a>异地传唤</h3><p>协作地公机协助将嫌疑人传唤到其所在市县的指定地点或到其住所&#x2F;单位。<br><strong>需要三证齐全：办案协作函、警察证、传唤证。</strong></p>
-<h3 id="关于未成年人"><a href="#关于未成年人" class="headerlink" title="关于未成年人"></a>关于未成年人</h3><p>通知其父母&#x2F;其他监护人到场。若此二者无法到场，则通知其他成年亲属或所在学校、单位、居住地基层组织或未成年人保护组织代表到场。</p>
+<h2 id="案件审查"><a href="#案件审查" class="headerlink" title="案件审查"></a>案件审查</h2><h3 id="属于本单位管辖"><a href="#属于本单位管辖" class="headerlink" title="属于本单位管辖"></a>属于本单位管辖</h3><p>立即调查处理，作<strong>受案登记表和受案回执</strong>（受案回执接收对象不是移送案件的国家机关），接收证据则出具<strong>接收证据清单</strong><br>受案审查期限：24h ➡️ 3d</p>
 <blockquote>
-<p>未成年的判定：依据《公安机关办理行政案件程序规定》为未满18岁，依据《治安管理处罚法》为未满16岁。</p>
+<p>刑事案件先受案再立案（3d➡️7d➡️县级以上公机批准可30d）</p>
 </blockquote>
-<h3 id="关于特殊人群"><a href="#关于特殊人群" class="headerlink" title="关于特殊人群"></a>关于特殊人群</h3><p>对于聋哑人和语言不通者，需要在询问笔录中注明情况和翻译人的姓名住址、单位、联系方式</p>
+<p>若不属于公安职责范围内或属于公安职责范围内但不属于本单位管辖的，<strong>不作受案登记表，在网上注明相关情况。</strong></p>
+<h3 id="属于其它公安管辖"><a href="#属于其它公安管辖" class="headerlink" title="属于其它公安管辖"></a>属于其它公安管辖</h3><p>一般情况：作<strong>移送案件通知书</strong>，告知报案人、控告人、举报人、扭送人、投案人。<br>移送时间：受理后24h内<br>移送管辖后，询问查证时间（8h➡️情况复杂可能拘留的24h）和扣押等措施的期限重新计算。</p>
+<h4 id="需要先采取处置措施再移送的情形："><a href="#需要先采取处置措施再移送的情形：" class="headerlink" title="需要先采取处置措施再移送的情形："></a>需要先采取处置措施再移送的情形：</h4><ol>
+<li>正在实施危害行为</li>
+<li>正在实施违法行为或现行犯被扭送</li>
+<li>在逃嫌疑人已被抓获&#x2F;发现</li>
+<li>有人员伤亡需要立刻救治的</li>
+</ol>
+<h3 id="不属公安管辖"><a href="#不属公安管辖" class="headerlink" title="不属公安管辖"></a>不属公安管辖</h3><ol>
+<li>口头告知</li>
+<li>书面告知：<strong>《不予调查处理告知书》</strong></li>
+</ol>
+<h1 id="管辖"><a href="#管辖" class="headerlink" title="管辖"></a>管辖</h1><h2 id="级别管辖"><a href="#级别管辖" class="headerlink" title="级别管辖"></a>级别管辖</h2><ol>
+<li>受案级别管辖：县级以上公安机关可以管所有，<strong>派出所除涉外案件以外</strong>大部分案件均可管辖</li>
+<li>处罚权级别管辖：派出所有权决定<strong>警告、500元以下罚款</strong>处罚</li>
+</ol>
+<h2 id="地域管辖"><a href="#地域管辖" class="headerlink" title="地域管辖"></a>地域管辖</h2><h3 id="原则：由违法行为地公安机关优先管辖"><a href="#原则：由违法行为地公安机关优先管辖" class="headerlink" title="原则：由违法行为地公安机关优先管辖"></a>原则：由违法行为地公安机关优先管辖</h3><p>由行为人居住地公安机关管辖更适宜亦可，例外情况：<br><strong>卖淫 嫖娼 赌博 毒品相关案件只能由行为地公安机关管辖。</strong></p>
+<blockquote>
+<p>口诀：<strong>黄赌毒行为地管辖</strong>，且不适用于当场处罚。</p>
+</blockquote>
+<p><strong>违法行为地包括：行为发生地、结果发生地。</strong><br>居住地包括：户籍所在地、<strong>经常居住地（离开户籍所在地后连续居住一年以上的地区。医院就医除外。）</strong></p>
+<p>吸毒管辖的例外：发现地公安机关可按照违法行为发生地原则予以管辖。但如果实际发生地公机已对相关人员处理的，发现地公机不得对同一行为作出处理决定。</p>
+<p><strong>行驶中的客车上发生的行政案件，由案发后客车最初停靠地公机管辖</strong>；必要时始发地、途经地、到达地公机亦可。</p>
+<h2 id="共同管辖"><a href="#共同管辖" class="headerlink" title="共同管辖"></a>共同管辖</h2><p><strong>多个公机对同一案件都有管辖权时，由最初受理地公机管辖</strong>，必要时可由主要违法行为地公机管辖。</p>
+<h2 id="网络违法管辖"><a href="#网络违法管辖" class="headerlink" title="网络违法管辖"></a>网络违法管辖</h2><p><strong>沾边就可管</strong>（服务器所在地、网络接入地、网站建立者或管理者所在地、被侵害的网络及其运营者所在地、违法行为人&#x2F;被侵害人使用的网络及其运营者所在地、被侵害人被侵害时所在地、财产遭受损失地）</p>
+<p>境外赌博：通过网络方式参与境外赌博的，由行为人所在地公机管辖。若赴境外参与赌博且输赢结算地在国内的，由结算地公机管辖。</p>
+<h2 id="专门管辖"><a href="#专门管辖" class="headerlink" title="专门管辖"></a>专门管辖</h2><p>指发生在特殊区域内的行政案件，由铁路、民航、海关缉私公机管辖。<br><strong>倒卖、伪造、变造火车票的，由最初受理的铁路或地方公机管辖。</strong>必要时可移送主要违法行为发生地。</p>
+<h2 id="指定管辖"><a href="#指定管辖" class="headerlink" title="指定管辖"></a>指定管辖</h2><p><strong>多个公机对管辖发生争议，协商不成的报请共同上级公机指定管辖</strong><br>重大复杂案件，上级公机可直接指定管辖或直接办理。</p>
 ]]></content>
       <categories>
         <category>笔记</category>
@@ -61,6 +85,62 @@
 <li>嫌疑人死亡的</li>
 <li>其它情形</li>
 </ol>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公专</tag>
+        <tag>行政执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-行政执法能力-勘验检查</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%8B%98%E9%AA%8C%E6%A3%80%E6%9F%A5/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="检查"><a href="#检查" class="headerlink" title="检查"></a>检查</h2><h3 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h3><p><strong>对与违法行为有关的场所、物品、人身进行检查。</strong></p>
+<span id="more"></span>
+
+<h3 id="要点"><a href="#要点" class="headerlink" title="要点"></a>要点</h3><p>确有必要立即检查时不需要出示检查证，事后<strong>不需补证</strong>。</p>
+<p>对不同的检查对象的规定：</p>
+<ol>
+<li>对妇女身体：除非此人十分危险，否则原则上应由女性<strong>工作人员</strong>进行。</li>
+<li>对卖淫嫖娼人员：由医生进行（不分男女）。</li>
+<li>对涉嫌吸毒人员：应进行吸毒检测。对拒绝受检的，经县级以上公机或派出所负责人批准可强制检测。对女性由女性工作人员进行。</li>
+</ol>
+<p>检查场所中<strong>要有检查人或见证人在场</strong>（见证人不能是民警&#x2F;辅警。证人可以）。</p>
+<p>检查时的全程录像可代替书面检查笔录。</p>
+<p>鉴定费用由公机承担，当事人自行鉴定的除外。</p>
+<p>治安案件鉴定期间不计入办案时间，刑事案件需计入。（精神病除外）</p>
+<h2 id="辨认"><a href="#辨认" class="headerlink" title="辨认"></a>辨认</h2><p>辨认违法嫌疑人时，<strong>被辨认人不可少于七人</strong>，若使用照片辨认，<strong>不得少于十人照片</strong>。<br>辨认物品时，<strong>混杂的同类物品不得少于五件</strong>，尸体不受限。</p>
+<p><strong>辨认由办案民警和辨认人签名</strong>、按指印，必要时录音录像。</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公专</tag>
+        <tag>行政执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-行政执法能力-询问查证</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="询问"><a href="#询问" class="headerlink" title="询问"></a>询问</h2><p>询问笔录交由被询问人核对时，确认无误后被询问人应逐页签名或按指印。</p>
+<h2 id="传唤"><a href="#传唤" class="headerlink" title="传唤"></a>传唤</h2><p><strong>在询问笔录中注明嫌疑人到案经过、时间和离开时间。</strong><br><strong>当场传唤事后不需要补证。</strong><br>传唤时间（最长24h）从嫌疑人到案起计算。<br>要将原因和依据告知被传唤人，并通知其家属原因、住所。</p>
+<span id="more"></span>
+
+<h3 id="强制传唤"><a href="#强制传唤" class="headerlink" title="强制传唤"></a>强制传唤</h3><p>批准：县级以上公机<strong>办案部门负责人</strong><br>条件：</p>
+<ol>
+<li>已经经过传唤</li>
+<li>对象无正当理由拒传、逃传。<br><strong>需要文书《行政强制决定书》</strong><br><strong>当场实施行政强制措施，需要在24h内向所属机关报告。</strong>若限制自由则回单位后要立即报告，并补文书。</li>
+</ol>
+<h3 id="刑事传唤"><a href="#刑事传唤" class="headerlink" title="刑事传唤"></a>刑事传唤</h3><p>时间：12h➡️24h<br>无强制传唤，对应措施为拘传。<strong>拘传不能补证和手续，拘传必须带证。</strong><br><strong>可不通知家属。</strong></p>
+<h3 id="异地传唤"><a href="#异地传唤" class="headerlink" title="异地传唤"></a>异地传唤</h3><p>协作地公机协助将嫌疑人传唤到其所在市县的指定地点或到其住所&#x2F;单位。<br><strong>需要三证齐全：办案协作函、警察证、传唤证。</strong></p>
+<h3 id="关于未成年人"><a href="#关于未成年人" class="headerlink" title="关于未成年人"></a>关于未成年人</h3><p>通知其父母&#x2F;其他监护人到场。若此二者无法到场，则通知其他成年亲属或所在学校、单位、居住地基层组织或未成年人保护组织代表到场。</p>
+<blockquote>
+<p>未成年的判定：依据《公安机关办理行政案件程序规定》为未满18岁，依据《治安管理处罚法》为未满16岁。</p>
+</blockquote>
+<h3 id="关于特殊人群"><a href="#关于特殊人群" class="headerlink" title="关于特殊人群"></a>关于特殊人群</h3><p>对于聋哑人和语言不通者，需要在询问笔录中注明情况和翻译人的姓名住址、单位、联系方式</p>
 ]]></content>
       <categories>
         <category>笔记</category>
@@ -206,31 +286,15 @@
       </tags>
   </entry>
   <entry>
-    <title>公专要点-行政执法能力-勘验检查</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%8B%98%E9%AA%8C%E6%A3%80%E6%9F%A5/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="检查"><a href="#检查" class="headerlink" title="检查"></a>检查</h2><h3 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h3><p><strong>对与违法行为有关的场所、物品、人身进行检查。</strong></p>
-<span id="more"></span>
-
-<h3 id="要点"><a href="#要点" class="headerlink" title="要点"></a>要点</h3><p>确有必要立即检查时不需要出示检查证，事后<strong>不需补证</strong>。</p>
-<p>对不同的检查对象的规定：</p>
-<ol>
-<li>对妇女身体：除非此人十分危险，否则原则上应由女性<strong>工作人员</strong>进行。</li>
-<li>对卖淫嫖娼人员：由医生进行（不分男女）。</li>
-<li>对涉嫌吸毒人员：应进行吸毒检测。对拒绝受检的，经县级以上公机或派出所负责人批准可强制检测。对女性由女性工作人员进行。</li>
-</ol>
-<p>检查场所中<strong>要有检查人或见证人在场</strong>（见证人不能是民警&#x2F;辅警。证人可以）。</p>
-<p>检查时的全程录像可代替书面检查笔录。</p>
-<p>鉴定费用由公机承担，当事人自行鉴定的除外。</p>
-<p>治安案件鉴定期间不计入办案时间，刑事案件需计入。（精神病除外）</p>
-<h2 id="辨认"><a href="#辨认" class="headerlink" title="辨认"></a>辨认</h2><p>辨认违法嫌疑人时，<strong>被辨认人不可少于七人</strong>，若使用照片辨认，<strong>不得少于十人照片</strong>。<br>辨认物品时，<strong>混杂的同类物品不得少于五件</strong>，尸体不受限。</p>
-<p><strong>辨认由办案民警和辨认人签名</strong>、按指印，必要时录音录像。</p>
-]]></content>
+    <title>公专要点-刑事执法能力-正当防卫与紧急避险</title>
+    <url>/2023/12/06/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E4%B8%8E%E7%B4%A7%E6%80%A5%E9%81%BF%E9%99%A9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
       <categories>
         <category>笔记</category>
       </categories>
       <tags>
         <tag>公专</tag>
-        <tag>行政执法能力</tag>
+        <tag>刑事执法能力</tag>
       </tags>
   </entry>
   <entry>
@@ -296,58 +360,6 @@
       <tags>
         <tag>公专</tag>
         <tag>刑事执法能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>公专要点-行政执法能力-受案管辖</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%8F%97%E6%A1%88%E7%AE%A1%E8%BE%96/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="受案"><a href="#受案" class="headerlink" title="受案"></a>受案</h1><h2 id="案件来源"><a href="#案件来源" class="headerlink" title="案件来源"></a>案件来源</h2><p>报案、控告、群众扭送、投案、其它国家机关移送、日常执勤发现、上级交办等。<strong>其中报案、控告、举报可口头可书面。</strong></p>
-<h2 id="网上登记"><a href="#网上登记" class="headerlink" title="网上登记"></a>网上登记</h2><p>无论哪种来源，均需要网上接报案登记。例外情况：</p>
-<ol>
-<li>涉及国家机密</li>
-<li>重复报案、案件正在办理或已经办结。</li>
-</ol>
-<span id="more"></span>
-
-<h2 id="案件审查"><a href="#案件审查" class="headerlink" title="案件审查"></a>案件审查</h2><h3 id="属于本单位管辖"><a href="#属于本单位管辖" class="headerlink" title="属于本单位管辖"></a>属于本单位管辖</h3><p>立即调查处理，作<strong>受案登记表和受案回执</strong>（受案回执接收对象不是移送案件的国家机关），接收证据则出具<strong>接收证据清单</strong><br>受案审查期限：24h ➡️ 3d</p>
-<blockquote>
-<p>刑事案件先受案再立案（3d➡️7d➡️县级以上公机批准可30d）</p>
-</blockquote>
-<p>若不属于公安职责范围内或属于公安职责范围内但不属于本单位管辖的，<strong>不作受案登记表，在网上注明相关情况。</strong></p>
-<h3 id="属于其它公安管辖"><a href="#属于其它公安管辖" class="headerlink" title="属于其它公安管辖"></a>属于其它公安管辖</h3><p>一般情况：作<strong>移送案件通知书</strong>，告知报案人、控告人、举报人、扭送人、投案人。<br>移送时间：受理后24h内<br>移送管辖后，询问查证时间（8h➡️情况复杂可能拘留的24h）和扣押等措施的期限重新计算。</p>
-<h4 id="需要先采取处置措施再移送的情形："><a href="#需要先采取处置措施再移送的情形：" class="headerlink" title="需要先采取处置措施再移送的情形："></a>需要先采取处置措施再移送的情形：</h4><ol>
-<li>正在实施危害行为</li>
-<li>正在实施违法行为或现行犯被扭送</li>
-<li>在逃嫌疑人已被抓获&#x2F;发现</li>
-<li>有人员伤亡需要立刻救治的</li>
-</ol>
-<h3 id="不属公安管辖"><a href="#不属公安管辖" class="headerlink" title="不属公安管辖"></a>不属公安管辖</h3><ol>
-<li>口头告知</li>
-<li>书面告知：<strong>《不予调查处理告知书》</strong></li>
-</ol>
-<h1 id="管辖"><a href="#管辖" class="headerlink" title="管辖"></a>管辖</h1><h2 id="级别管辖"><a href="#级别管辖" class="headerlink" title="级别管辖"></a>级别管辖</h2><ol>
-<li>受案级别管辖：县级以上公安机关可以管所有，<strong>派出所除涉外案件以外</strong>大部分案件均可管辖</li>
-<li>处罚权级别管辖：派出所有权决定<strong>警告、500元以下罚款</strong>处罚</li>
-</ol>
-<h2 id="地域管辖"><a href="#地域管辖" class="headerlink" title="地域管辖"></a>地域管辖</h2><h3 id="原则：由违法行为地公安机关优先管辖"><a href="#原则：由违法行为地公安机关优先管辖" class="headerlink" title="原则：由违法行为地公安机关优先管辖"></a>原则：由违法行为地公安机关优先管辖</h3><p>由行为人居住地公安机关管辖更适宜亦可，例外情况：<br><strong>卖淫 嫖娼 赌博 毒品相关案件只能由行为地公安机关管辖。</strong></p>
-<blockquote>
-<p>口诀：<strong>黄赌毒行为地管辖</strong>，且不适用于当场处罚。</p>
-</blockquote>
-<p><strong>违法行为地包括：行为发生地、结果发生地。</strong><br>居住地包括：户籍所在地、<strong>经常居住地（离开户籍所在地后连续居住一年以上的地区。医院就医除外。）</strong></p>
-<p>吸毒管辖的例外：发现地公安机关可按照违法行为发生地原则予以管辖。但如果实际发生地公机已对相关人员处理的，发现地公机不得对同一行为作出处理决定。</p>
-<p><strong>行驶中的客车上发生的行政案件，由案发后客车最初停靠地公机管辖</strong>；必要时始发地、途经地、到达地公机亦可。</p>
-<h2 id="共同管辖"><a href="#共同管辖" class="headerlink" title="共同管辖"></a>共同管辖</h2><p><strong>多个公机对同一案件都有管辖权时，由最初受理地公机管辖</strong>，必要时可由主要违法行为地公机管辖。</p>
-<h2 id="网络违法管辖"><a href="#网络违法管辖" class="headerlink" title="网络违法管辖"></a>网络违法管辖</h2><p><strong>沾边就可管</strong>（服务器所在地、网络接入地、网站建立者或管理者所在地、被侵害的网络及其运营者所在地、违法行为人&#x2F;被侵害人使用的网络及其运营者所在地、被侵害人被侵害时所在地、财产遭受损失地）</p>
-<p>境外赌博：通过网络方式参与境外赌博的，由行为人所在地公机管辖。若赴境外参与赌博且输赢结算地在国内的，由结算地公机管辖。</p>
-<h2 id="专门管辖"><a href="#专门管辖" class="headerlink" title="专门管辖"></a>专门管辖</h2><p>指发生在特殊区域内的行政案件，由铁路、民航、海关缉私公机管辖。<br><strong>倒卖、伪造、变造火车票的，由最初受理的铁路或地方公机管辖。</strong>必要时可移送主要违法行为发生地。</p>
-<h2 id="指定管辖"><a href="#指定管辖" class="headerlink" title="指定管辖"></a>指定管辖</h2><p><strong>多个公机对管辖发生争议，协商不成的报请共同上级公机指定管辖</strong><br>重大复杂案件，上级公机可直接指定管辖或直接办理。</p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公专</tag>
-        <tag>行政执法能力</tag>
       </tags>
   </entry>
 </search>
