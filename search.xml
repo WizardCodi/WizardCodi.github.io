@@ -1,35 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>公专要点-行政执法能力-勘验检查</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%8B%98%E9%AA%8C%E6%A3%80%E6%9F%A5/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="检查"><a class="markdownIt-Anchor" href="#检查"></a> 检查</h2>
-<h3 id="定义"><a class="markdownIt-Anchor" href="#定义"></a> 定义</h3>
-<p><strong>对与违法行为有关的场所、物品、人身进行检查。</strong></p>
+    <title>Codi的特效学习过程</title>
+    <url>/2024/02/10/experience/vfx_learn/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
+<p>这篇文章我来分享一下我从高二开始到现在是如何学习3D游戏特效的，以及游戏特效设计这份职业的一些情况。本篇内容均为基于国内行业状况给出的结论，<strong>国外情况未必适用</strong>。<br />
+希望能够帮助到一些想要入行或刚开始学的朋友来顺利入门～</p>
+</blockquote>
+<h2 id="职业情况"><a class="markdownIt-Anchor" href="#职业情况"></a> 职业情况</h2>
+<h3 id="工作内容"><a class="markdownIt-Anchor" href="#工作内容"></a> 工作内容</h3>
+<p><strong>游戏特效设计师（VFX Artist）这份职业主要负责各种游戏中的视觉特效的设计与制作。</strong><br />
+举几个例子：比如游戏中角色的技能特效、场景中的特效如火堆/飞沙走石/雨雪等、各种装饰饰品和时装上的特效效果。<br />
+下面我放一个视频，是我的老师SilenceMoon早期在堡垒之夜项目工作期间的工作作品集，可以作为参考：<br />
+<video width="640" height="360" controls><br />
+<source src="/videos/vfx/silencemoon.mp4" type="video/mp4"><br />
+</video></p>
 <span id="more"></span>
-<h3 id="要点"><a class="markdownIt-Anchor" href="#要点"></a> 要点</h3>
-<p>确有必要立即检查时不需要出示检查证，事后<strong>不需补证</strong>。</p>
-<p>对不同的检查对象的规定：</p>
+<blockquote>
+<p>视频引用已征得本人同意。相关链接：<br />
+<a href="https://www.youtube.com/@silencemoon1936">作者Youtube空间</a> <a href="https://space.bilibili.com/929884?spm_id_from=333.337.0.0">作者Bilibili空间</a> <a href="https://realtime.xyz">作者课程网站</a></p>
+</blockquote>
+<p><strong>另外还有一个国内特效交流论坛网站（魔法盒），在业内比较流行。</strong><br />
+你可以在这个网站里面看到非常多大佬的作品，上面有一些课程也很不错。<br />
+<a href="https://www.magesbox.com">链接</a><br />
+<strong>国外的相关交流网站推荐（全球知名）：ArtStation</strong><br />
+这并不是一个以特效为主的网站，而是囊括了几乎所有的CG艺术。游戏特效只是其中的一个板块。<br />
+<strong>需要科学上网才能访问。</strong><br />
+<a href="https://www.artstation.com/?sort_by=community&amp;dimension=all">链接</a></p>
+<h3 id="职业特点"><a class="markdownIt-Anchor" href="#职业特点"></a> 职业特点</h3>
+<p><strong>相对于其它的美术岗位，特效需要学习的内容偏多一些，需要掌握比较多方面的知识，并且具有一定的技术性，不单单是美术。</strong><br />
+不单单要掌握引擎中的粒子系统，还要掌握建模、贴图制作，以及一些动画相关基本功，可能还需要掌握Shader制作、Houdini。<br />
+如果掌握一定的编程思维的话（只是编程思维，不一定要会编程），有时对学习特效也会有一定的帮助。<br />
+同时有时也要求有一些数学能力，尤其是<strong>向量相关知识</strong>，在特效中是非常常用到的。<br />
+另外，无论是在软件操作上和查阅资料上，都会经常需要用到英语。</p>
+<blockquote>
+<p><strong>听到这些你是否被吓到了呢？其实这些反而并不需要很担心。为什么？</strong><br />
+<strong>英语能力</strong>？<br />
+这个真的不用太担心，<strong>不要对英语产生惧怕心理</strong>。觉得自己英语词汇量少，打开纯英文的软件啥都看不懂？放心，即使英语词汇量高的人，在零基础的情况下，第一次打开软件与你的感受也是一样的。<strong>因为日常英语的应用与专业上英语的应用还是有些区别的。不需要纠结你是否能看懂软件中那些英语的意思，只需要能理解软件中的一些名词指的是啥、有什么用即可</strong>，这些课程中都会教。<br />
+举个例子，在你初学PS的时候，如果没有做事先了解，你知道“钢笔”工具的用途吗？和你从中文词义上理解的“钢笔”相符吗？英语也是一样的。<br />
+但这并不是你放弃学习英语的理由。如果你选择要做这一行，最好还是认真学习一下英语，绝对是会有很多帮助的。<br />
+<strong>数学能力</strong>？<br />
+在学习课程的过程中都会教给你的，而且<strong>不要将这里的数学与高中数学题甚至是高数题相提并论</strong>，完全不是一个维度的东西。<br />
+即使你的数学能力较差，通常也不会影响理解课程中的内容。而<strong>只要吃透了课程中的内容，其实这方面就没什么大问题了</strong>。<br />
+<strong>编程思维</strong>？<br />
+如果实在是担心这方面，那可以选择Unity3D方向的特效。这只是针对虚幻引擎特效方向的说法。但其实在一些课程中，会潜移默化的培养你的编程思维的，所以这是最不需要担心的东西。<strong>你做的是美术工作，不是技术工作</strong></p>
+</blockquote>
+<p><strong>技术能力只是决定你能实现的效果种类数量，美术能力才决定你制作出的特效的美观程度。</strong><br />
+但无论如何，特效总归到底是一份美术岗位，<strong>美术永远是第一位，技术只是辅助，找工作最在意的永远是你的美术能力</strong>。<br />
+我从开始学习特效到现在，几乎不会见到有人抱怨自己技术能力的不足，更多的是审美不足。</p>
+<blockquote>
+<p>另外还有一种岗位叫<strong>技术美术</strong>（Technical Artist，简称<strong>TA</strong>），在这个岗位下存在一个分支叫做特效向技术美术（Technical VFX Artist）。这类岗位的工作内容与特效较为相似（特效也被称为是技术美术的入门）。<strong>如果你认为你的美术能力偏弱，但是技术能力比较强，比如擅长数学、编程等，想做特效的话也可以考虑选择这份职业。</strong></p>
+</blockquote>
+<p><strong>有些公司分工较为明确</strong>，特效美术就只负责美术相关工作，特效的技术相关工作由TA负责，<strong>但有些公司分工较为模糊</strong>，部分特效技术相关工作也会由特效美术来完成，甚至部分公司将此二者混杂在了一起。<strong>据我所知，腾讯、网易都属于是分工较为明确的，而EpicGames中则分工非常模糊</strong>。</p>
+<p><strong>游戏特效相对而言不太考验画技</strong>，但是最好有素描、色彩的基本功。但是这也取决于特效的风格。<br />
+一般而言，<strong>越写实的特效越重技术，越卡通的特效越重美术</strong>。在写实特效中很少需要绘制内容，而在卡通特效中经常需要绘制一些简单的贴图。</p>
+<h3 id="职业优缺点"><a class="markdownIt-Anchor" href="#职业优缺点"></a> 职业优缺点</h3>
+<h4 id="优点"><a class="markdownIt-Anchor" href="#优点"></a> 优点：</h4>
+<ul>
+<li><strong>不太挑学历，更看重能力</strong>，不用担心自己学历低而影响找工作，也没有必要去挤破头考研。能力够强时甚至工作机会会自己找上门来。</li>
+<li><strong>工资偏高</strong>。在研发大厂中通常游戏特效师的工资都能达到或接近月薪两三万左右的水平。资深的特效师，月薪也可能达到四～五万。在一般研发公司中，月薪破万也较为常见。但如果是做外包或外派，工资相对研发公司会低一些，少数月薪三四千的公司也是存在的，</li>
+<li>相对于其它行业而言，<strong>没有很重的人情世故</strong>。像工作上的酒局这种东西比较少见。相对也比较自由，没有很多条条框框。</li>
+</ul>
+<h4 id="缺点"><a class="markdownIt-Anchor" href="#缺点"></a> 缺点：</h4>
+<ul>
+<li><strong>行业内卷十分严重</strong>，许多新人也都非常的卷，如果不是校招，通常都会要求有几年的工作经验（除非水平非常过人），达到高级、资深的资历。需要把握好校招的机会。</li>
+<li>有些公司、项目在某些时期<strong>加班会比较严重</strong>。</li>
+<li><strong>工作不稳定</strong>，容易因行业环境变化而导致被裁员，需要保持好核心竞争力。</li>
+<li><strong>工作比较年轻化</strong>，需要时刻保持学习，跟进行业新潮流新技术，<strong>否则35岁甚至30岁之后就可能面临裁员风险</strong>。</li>
+</ul>
+<h4 id="入行建议"><a class="markdownIt-Anchor" href="#入行建议"></a> 入行建议：</h4>
 <ol>
-<li>对妇女身体：除非此人十分危险，否则原则上应由女性<strong>工作人员</strong>进行。</li>
-<li>对卖淫嫖娼人员：由医生进行（不分男女）。</li>
-<li>对涉嫌吸毒人员：应进行吸毒检测。对拒绝受检的，经县级以上公机或派出所负责人批准可强制检测。对女性由女性工作人员进行。</li>
+<li>最好是<strong>真心热爱游戏与游戏特效再做这一行</strong>，否则我认为比较难在这一行待下去的。</li>
+<li><strong>时刻保持学习热情</strong>，进入这一行就意味着你要学习非常多的内容，并且可能经常需要学习新知识。</li>
 </ol>
-<p>检查场所中<strong>要有检查人或见证人在场</strong>（见证人不能是民警/辅警。证人可以）。</p>
-<p>检查时的全程录像可代替书面检查笔录。</p>
-<p>鉴定费用由公机承担，当事人自行鉴定的除外。</p>
-<p>治安案件鉴定期间不计入办案时间，刑事案件需计入。（精神病除外）</p>
-<h2 id="辨认"><a class="markdownIt-Anchor" href="#辨认"></a> 辨认</h2>
-<p>辨认违法嫌疑人时，<strong>被辨认人不可少于七人</strong>，若使用照片辨认，<strong>不得少于十人照片</strong>。<br />
-辨认物品时，<strong>混杂的同类物品不得少于五件</strong>，尸体不受限。</p>
-<p><strong>辨认由办案民警和辨认人签名</strong>、按指印，必要时录音录像。</p>
+<h2 id="我是如何学习特效的"><a class="markdownIt-Anchor" href="#我是如何学习特效的"></a> 我是如何学习特效的</h2>
+<h3 id="课程"><a class="markdownIt-Anchor" href="#课程"></a> 课程</h3>
+<p>即使学校里设有相关课程，也<strong>不要指望学校能教给你多少东西</strong>。<br />
+<strong>如果你准备学习特效，最好的方式还是报课</strong>，会为你省很多事，避免走很多弯路，这是我亲身的体验。</p>
+<p>课程的选择非常重要，市面上有很多的特效课程，但是质量参差不齐，尤其是<strong>有些线下机构，收着上万的学费，其实教的内容还不如几千的网课</strong>。<br />
+在你要选择一个课程的时候，做好充足的调查，要<strong>明确课程里面的主要内容是否适合你现阶段学习、美术风格是否是你需要或想要学习的、使用的软件是否是你想用的等等，以及课程的风评</strong>（判断清楚水军评价与真实学员评价）</p>
+<p>我所使用的软件主要是<strong>虚幻引擎（UnrealEngine）</strong><br />
+下面我分享一下我所看的一些课程（没有收钱），如果大家也想要使用这款软件进行特效或游戏制作，可以考虑一下这几个课程。</p>
+<ol>
+<li><strong>SilenceMoon（人称月神）课程系列</strong><br />
+<a href="https://www.aboutcg.org/courseDetails/77/introduce">一期</a> <a href="https://www.aboutcg.org/courseDetails/156/introduce">二期</a> <a href="https://www.realtime.xyz/moon">三期</a><br />
+<strong>月神的课程特点：比较侧重于技术，会有意的培养编程思维。课程内容比较有知识深度，会讲比较多的底层原理。</strong><br />
+购买建议：
+<ul>
+<li>一期的课程内容有点过时，但是基础知识讲的非常详细</li>
+<li>三期内容放在现阶段仍然比较先进，但基础知识讲的比较简略</li>
+<li><strong>如果是新手，不考虑其他老师的课程的话，建议先看一期（可以只看基础部分），再看三期。</strong></li>
+<li><strong>个人观点：第三期课程几乎是现阶段虚幻引擎游戏特效师必学课程</strong>。<br />
+另外，第三期的课程直播售后至今仍在保持，每周日都会直播点评学员作业或个人作品。</li>
+</ul>
+</li>
+<li><strong>Allen（人称A佬）课程</strong><br />
+<a href="https://www.magesbox.com/course/detail/course_id/10010">链接</a><br />
+<strong>A佬课程特点：比较侧重于美术，风格是国内以及韩国写实游戏中非常流行的风格。</strong><br />
+课程内容涉及的主要技术略微过时，但仍然非常建议学习，毕竟他的课程核心在于美术而不在于技术。<br />
+购买建议：
+<ul>
+<li>基础部分虽然不及月神一期讲的那样详细，但仍然比较适合零基础新手学习。<strong>可以先来学习这个课程，再学习月神三期课程。</strong></li>
+</ul>
+</li>
+</ol>
+<p>课程教的其实还算是一些相对比较基本的东西，还是要看自己是否能灵活的运用其中的知识。<br />
+<strong>除了课程之外，B站、Youtube也会有非常多零散的小教程，会教一些小效果的实现原理。从这些小教程里也能学到很多东西。</strong></p>
+<h3 id="其它你要学习的东西"><a class="markdownIt-Anchor" href="#其它你要学习的东西"></a> 其它你要学习的东西</h3>
+<p><strong>除了上面写的游戏引擎之外，还有一个非常重要的要学习的就是建模与贴图绘制。</strong></p>
+<ul>
+<li>建模：游戏行业内目前比较流行使用的软件是3dsmax，其它的还可以用Maya、Blender、Houdini。</li>
+<li>贴图制作：Photoshop（必学）、Substance Designer（非常建议学习）、Houdini、AfterEffects。<br />
+<strong>不过学习特效的前期也可以不用学这些。在课程里面会提供相关的模型与贴图资源，学习课程时不需要自己进行模型与贴图制作。</strong><br />
+但是一旦要开始独立创作，这两项内容是非常重要的。<br />
+学习这些内容的话，在BiliBili找免费的教程视频看即可，通常找播放量比较高的来看问题都不会很大。</li>
+</ul>
+<h3 id="学习过程"><a class="markdownIt-Anchor" href="#学习过程"></a> 学习过程</h3>
+<h4 id="不要一直跟案例"><a class="markdownIt-Anchor" href="#不要一直跟案例"></a> 不要一直跟案例</h4>
+<p>我在学习课程的时候，不太喜欢跟着课程去做案例效果。<strong>我通常会把课程案例中所涉及的知识进行吸收之后，直接自己设计特效来制作。</strong><br />
+因为<strong>制作的案例效果非常不适合用于找工作</strong>（因为太多人都做过了，烂大街了，而且也体现不了自己的设计能力）。<br />
+当然，如果自己没有很多设计想法的话，前期还是需要跟着课程做案例的。但是后期一定要开始自己设计特效进行制作，<strong>不要一直做案例！</strong><br />
+如果到了后期还是没什么想法，可以选择去<strong>临摹其他大佬的作品。临摹的作品也是可以用来找工作的。</strong></p>
+<h4 id="多去观察-参考"><a class="markdownIt-Anchor" href="#多去观察-参考"></a> 多去观察、参考</h4>
+<p><strong>在学习的过程中，需要多去看其他人的作品，以及各个游戏中的特效效果，以扩充自己大脑中的素材库。</strong><br />
+当发现自己认为不错的或感兴趣的作品时，可以收藏起来，便于日后反复观看，也可以下载下来，逐帧慢放观察。<br />
+观察是非常重要的，只有多去观察他人的作品，等到自己独立创作时，才能有更多的想法，不至于想不出内容来。</p>
+<p>在观察的过程中，可以尝试去思考以下内容：</p>
+<ol>
+<li>作者为什么在这个地方采取这样的设计？</li>
+<li>这个地方的原理会是什么？</li>
+<li>为什么要采取这样的配色来表达这个主题？</li>
+<li><strong>这个特效由哪些层次组成？</strong></li>
+</ol>
+<p>寻找他人作品来看的时候，可以在b站搜寻其他人的作品集，也可以在<a href="https://www.magesbox.com">魔法盒</a>中直接看。如果能科学上网，也可以到Youtube或Artstation中去寻找。</p>
+<p>另外附上本人的BiliBili以及魔法盒空间链接。我的作品均会发布在魔法盒上，部分作品不会发布在B站。但是我的所有教程内容均只在Bilibili发布，<strong>偶尔也会在Bilibili直播做特效。</strong><br />
+<a href="https://space.bilibili.com/402284936?spm_id_from=333.1007.0.0">B站链接</a> <a href="https://www.magesbox.com/member/31931">魔法盒链接</a></p>
+<h4 id="不要闭门造车"><a class="markdownIt-Anchor" href="#不要闭门造车"></a> 不要闭门造车</h4>
+<p>制作特效的过程其实是挺容易自我感觉良好的（至少我是这样），所以非常<strong>需要在做完一个作品时，把它分享给其他的业内人，甚至是外行人去寻求建议</strong>。很有可能你认为自己做的很好的特效，在其他人看来会发现很多问题。</p>
+<p>在获取建议后，也要思考这条建议的合理性、可行性。如果认为确实合理且可行再采纳。但是<strong>无论是否能够采纳，都记得给为你提供建议的人说声谢谢，这是基本的礼貌～</strong></p>
+<p>这里分享一下<strong>我自己的特效交流群</strong>，在学习的时候可以把作品视频发在我的群里，大家都还是很乐于提出建议的～<br />
+<strong>QQ群号：743166590</strong><br />
+我在B站直播特效制作的时候，也会在我的群里发布直播通知。</p>
+<p>另外许多业内大佬也都有自己的交流群，并且群里面人也都很多，通常群号都可以在它们的B站空间和视频简介、评论区里找到。<br />
+这里再分享一些其他业内大佬的B站空间链接：</p>
+<ul>
+<li><a href="https://space.bilibili.com/929884?spm_id_from=333.337.0.0">SilenceMoon，人称月神</a></li>
+<li><a href="https://space.bilibili.com/146946971?spm_id_from=333.337.search-card.all.click">Allen，人称A佬</a></li>
+<li><a href="https://space.bilibili.com/31282759?spm_id_from=333.337.0.0">Haley，人称H佬</a></li>
+<li><a href="https://space.bilibili.com/136959476?spm_id_from=333.337.0.0">浮士德，人称浮佬</a></li>
+<li><a href="https://space.bilibili.com/4214251/">DDDDDD，人称D佬</a><br />
+还有很多大佬，这里不再列举。</li>
+</ul>
+<h4 id="总结"><a class="markdownIt-Anchor" href="#总结"></a> 总结</h4>
+<p>本篇分享就到此结束了。</p>
+<p>最后还是要强调一下：<br />
+<strong>在学习特效的路上，一定要保持对新知识的好奇心！千万不要满足于把课程学完，另外切忌闭门造车。</strong></p>
 ]]></content>
       <categories>
-        <category>笔记</category>
+        <category>经验分享</category>
       </categories>
       <tags>
-        <tag>公安专业知识</tag>
-        <tag>行政执法能力</tag>
+        <tag>特效</tag>
+        <tag>美术</tag>
+        <tag>游戏美术</tag>
+        <tag>经验分享</tag>
       </tags>
   </entry>
   <entry>
@@ -231,442 +365,8 @@ Bilibili：</p>
         <tag>特效</tag>
         <tag>美术</tag>
         <tag>游戏美术</tag>
+        <tag>经验分享</tag>
         <tag>求职</tag>
-        <tag>经验分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Codi的特效学习过程</title>
-    <url>/2024/02/10/experience/vfx_learn/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
-<p>这篇文章我来分享一下我从高二开始到现在是如何学习3D游戏特效的，以及游戏特效设计这份职业的一些情况。本篇内容均为基于国内行业状况给出的结论，<strong>国外情况未必适用</strong>。<br />
-希望能够帮助到一些想要入行或刚开始学的朋友来顺利入门～</p>
-</blockquote>
-<h2 id="职业情况"><a class="markdownIt-Anchor" href="#职业情况"></a> 职业情况</h2>
-<h3 id="工作内容"><a class="markdownIt-Anchor" href="#工作内容"></a> 工作内容</h3>
-<p><strong>游戏特效设计师（VFX Artist）这份职业主要负责各种游戏中的视觉特效的设计与制作。</strong><br />
-举几个例子：比如游戏中角色的技能特效、场景中的特效如火堆/飞沙走石/雨雪等、各种装饰饰品和时装上的特效效果。<br />
-下面我放一个视频，是我的老师SilenceMoon早期在堡垒之夜项目工作期间的工作作品集，可以作为参考：<br />
-<video width="640" height="360" controls><br />
-<source src="/videos/vfx/silencemoon.mp4" type="video/mp4"><br />
-</video></p>
-<span id="more"></span>
-<blockquote>
-<p>视频引用已征得本人同意。相关链接：<br />
-<a href="https://www.youtube.com/@silencemoon1936">作者Youtube空间</a> <a href="https://space.bilibili.com/929884?spm_id_from=333.337.0.0">作者Bilibili空间</a> <a href="https://realtime.xyz">作者课程网站</a></p>
-</blockquote>
-<p><strong>另外还有一个国内特效交流论坛网站（魔法盒），在业内比较流行。</strong><br />
-你可以在这个网站里面看到非常多大佬的作品，上面有一些课程也很不错。<br />
-<a href="https://www.magesbox.com">链接</a><br />
-<strong>国外的相关交流网站推荐（全球知名）：ArtStation</strong><br />
-这并不是一个以特效为主的网站，而是囊括了几乎所有的CG艺术。游戏特效只是其中的一个板块。<br />
-<strong>需要科学上网才能访问。</strong><br />
-<a href="https://www.artstation.com/?sort_by=community&amp;dimension=all">链接</a></p>
-<h3 id="职业特点"><a class="markdownIt-Anchor" href="#职业特点"></a> 职业特点</h3>
-<p><strong>相对于其它的美术岗位，特效需要学习的内容偏多一些，需要掌握比较多方面的知识，并且具有一定的技术性，不单单是美术。</strong><br />
-不单单要掌握引擎中的粒子系统，还要掌握建模、贴图制作，以及一些动画相关基本功，可能还需要掌握Shader制作、Houdini。<br />
-如果掌握一定的编程思维的话（只是编程思维，不一定要会编程），有时对学习特效也会有一定的帮助。<br />
-同时有时也要求有一些数学能力，尤其是<strong>向量相关知识</strong>，在特效中是非常常用到的。<br />
-另外，无论是在软件操作上和查阅资料上，都会经常需要用到英语。</p>
-<blockquote>
-<p><strong>听到这些你是否被吓到了呢？其实这些反而并不需要很担心。为什么？</strong><br />
-<strong>英语能力</strong>？<br />
-这个真的不用太担心，<strong>不要对英语产生惧怕心理</strong>。觉得自己英语词汇量少，打开纯英文的软件啥都看不懂？放心，即使英语词汇量高的人，在零基础的情况下，第一次打开软件与你的感受也是一样的。<strong>因为日常英语的应用与专业上英语的应用还是有些区别的。不需要纠结你是否能看懂软件中那些英语的意思，只需要能理解软件中的一些名词指的是啥、有什么用即可</strong>，这些课程中都会教。<br />
-举个例子，在你初学PS的时候，如果没有做事先了解，你知道“钢笔”工具的用途吗？和你从中文词义上理解的“钢笔”相符吗？英语也是一样的。<br />
-但这并不是你放弃学习英语的理由。如果你选择要做这一行，最好还是认真学习一下英语，绝对是会有很多帮助的。<br />
-<strong>数学能力</strong>？<br />
-在学习课程的过程中都会教给你的，而且<strong>不要将这里的数学与高中数学题甚至是高数题相提并论</strong>，完全不是一个维度的东西。<br />
-即使你的数学能力较差，通常也不会影响理解课程中的内容。而<strong>只要吃透了课程中的内容，其实这方面就没什么大问题了</strong>。<br />
-<strong>编程思维</strong>？<br />
-如果实在是担心这方面，那可以选择Unity3D方向的特效。这只是针对虚幻引擎特效方向的说法。但其实在一些课程中，会潜移默化的培养你的编程思维的，所以这是最不需要担心的东西。<strong>你做的是美术工作，不是技术工作</strong></p>
-</blockquote>
-<p><strong>技术能力只是决定你能实现的效果种类数量，美术能力才决定你制作出的特效的美观程度。</strong><br />
-但无论如何，特效总归到底是一份美术岗位，<strong>美术永远是第一位，技术只是辅助，找工作最在意的永远是你的美术能力</strong>。<br />
-我从开始学习特效到现在，几乎不会见到有人抱怨自己技术能力的不足，更多的是审美不足。</p>
-<blockquote>
-<p>另外还有一种岗位叫<strong>技术美术</strong>（Technical Artist，简称<strong>TA</strong>），在这个岗位下存在一个分支叫做特效向技术美术（Technical VFX Artist）。这类岗位的工作内容与特效较为相似（特效也被称为是技术美术的入门）。<strong>如果你认为你的美术能力偏弱，但是技术能力比较强，比如擅长数学、编程等，想做特效的话也可以考虑选择这份职业。</strong></p>
-</blockquote>
-<p><strong>有些公司分工较为明确</strong>，特效美术就只负责美术相关工作，特效的技术相关工作由TA负责，<strong>但有些公司分工较为模糊</strong>，部分特效技术相关工作也会由特效美术来完成，甚至部分公司将此二者混杂在了一起。<strong>据我所知，腾讯、网易都属于是分工较为明确的，而EpicGames中则分工非常模糊</strong>。</p>
-<p><strong>游戏特效相对而言不太考验画技</strong>，但是最好有素描、色彩的基本功。但是这也取决于特效的风格。<br />
-一般而言，<strong>越写实的特效越重技术，越卡通的特效越重美术</strong>。在写实特效中很少需要绘制内容，而在卡通特效中经常需要绘制一些简单的贴图。</p>
-<h3 id="职业优缺点"><a class="markdownIt-Anchor" href="#职业优缺点"></a> 职业优缺点</h3>
-<h4 id="优点"><a class="markdownIt-Anchor" href="#优点"></a> 优点：</h4>
-<ul>
-<li><strong>不太挑学历，更看重能力</strong>，不用担心自己学历低而影响找工作，也没有必要去挤破头考研。能力够强时甚至工作机会会自己找上门来。</li>
-<li><strong>工资偏高</strong>。在研发大厂中通常游戏特效师的工资都能达到或接近月薪两三万左右的水平。资深的特效师，月薪也可能达到四～五万。在一般研发公司中，月薪破万也较为常见。但如果是做外包或外派，工资相对研发公司会低一些，少数月薪三四千的公司也是存在的，</li>
-<li>相对于其它行业而言，<strong>没有很重的人情世故</strong>。像工作上的酒局这种东西比较少见。相对也比较自由，没有很多条条框框。</li>
-</ul>
-<h4 id="缺点"><a class="markdownIt-Anchor" href="#缺点"></a> 缺点：</h4>
-<ul>
-<li><strong>行业内卷十分严重</strong>，许多新人也都非常的卷，如果不是校招，通常都会要求有几年的工作经验（除非水平非常过人），达到高级、资深的资历。需要把握好校招的机会。</li>
-<li>有些公司、项目在某些时期<strong>加班会比较严重</strong>。</li>
-<li><strong>工作不稳定</strong>，容易因行业环境变化而导致被裁员，需要保持好核心竞争力。</li>
-<li><strong>工作比较年轻化</strong>，需要时刻保持学习，跟进行业新潮流新技术，<strong>否则35岁甚至30岁之后就可能面临裁员风险</strong>。</li>
-</ul>
-<h4 id="入行建议"><a class="markdownIt-Anchor" href="#入行建议"></a> 入行建议：</h4>
-<ol>
-<li>最好是<strong>真心热爱游戏与游戏特效再做这一行</strong>，否则我认为比较难在这一行待下去的。</li>
-<li><strong>时刻保持学习热情</strong>，进入这一行就意味着你要学习非常多的内容，并且可能经常需要学习新知识。</li>
-</ol>
-<h2 id="我是如何学习特效的"><a class="markdownIt-Anchor" href="#我是如何学习特效的"></a> 我是如何学习特效的</h2>
-<h3 id="课程"><a class="markdownIt-Anchor" href="#课程"></a> 课程</h3>
-<p>即使学校里设有相关课程，也<strong>不要指望学校能教给你多少东西</strong>。<br />
-<strong>如果你准备学习特效，最好的方式还是报课</strong>，会为你省很多事，避免走很多弯路，这是我亲身的体验。</p>
-<p>课程的选择非常重要，市面上有很多的特效课程，但是质量参差不齐，尤其是<strong>有些线下机构，收着上万的学费，其实教的内容还不如几千的网课</strong>。<br />
-在你要选择一个课程的时候，做好充足的调查，要<strong>明确课程里面的主要内容是否适合你现阶段学习、美术风格是否是你需要或想要学习的、使用的软件是否是你想用的等等，以及课程的风评</strong>（判断清楚水军评价与真实学员评价）</p>
-<p>我所使用的软件主要是<strong>虚幻引擎（UnrealEngine）</strong><br />
-下面我分享一下我所看的一些课程（没有收钱），如果大家也想要使用这款软件进行特效或游戏制作，可以考虑一下这几个课程。</p>
-<ol>
-<li><strong>SilenceMoon（人称月神）课程系列</strong><br />
-<a href="https://www.aboutcg.org/courseDetails/77/introduce">一期</a> <a href="https://www.aboutcg.org/courseDetails/156/introduce">二期</a> <a href="https://www.realtime.xyz/moon">三期</a><br />
-<strong>月神的课程特点：比较侧重于技术，会有意的培养编程思维。课程内容比较有知识深度，会讲比较多的底层原理。</strong><br />
-购买建议：
-<ul>
-<li>一期的课程内容有点过时，但是基础知识讲的非常详细</li>
-<li>三期内容放在现阶段仍然比较先进，但基础知识讲的比较简略</li>
-<li><strong>如果是新手，不考虑其他老师的课程的话，建议先看一期（可以只看基础部分），再看三期。</strong></li>
-<li><strong>个人观点：第三期课程几乎是现阶段虚幻引擎游戏特效师必学课程</strong>。<br />
-另外，第三期的课程直播售后至今仍在保持，每周日都会直播点评学员作业或个人作品。</li>
-</ul>
-</li>
-<li><strong>Allen（人称A佬）课程</strong><br />
-<a href="https://www.magesbox.com/course/detail/course_id/10010">链接</a><br />
-<strong>A佬课程特点：比较侧重于美术，风格是国内以及韩国写实游戏中非常流行的风格。</strong><br />
-课程内容涉及的主要技术略微过时，但仍然非常建议学习，毕竟他的课程核心在于美术而不在于技术。<br />
-购买建议：
-<ul>
-<li>基础部分虽然不及月神一期讲的那样详细，但仍然比较适合零基础新手学习。<strong>可以先来学习这个课程，再学习月神三期课程。</strong></li>
-</ul>
-</li>
-</ol>
-<p>课程教的其实还算是一些相对比较基本的东西，还是要看自己是否能灵活的运用其中的知识。<br />
-<strong>除了课程之外，B站、Youtube也会有非常多零散的小教程，会教一些小效果的实现原理。从这些小教程里也能学到很多东西。</strong></p>
-<h3 id="其它你要学习的东西"><a class="markdownIt-Anchor" href="#其它你要学习的东西"></a> 其它你要学习的东西</h3>
-<p><strong>除了上面写的游戏引擎之外，还有一个非常重要的要学习的就是建模与贴图绘制。</strong></p>
-<ul>
-<li>建模：游戏行业内目前比较流行使用的软件是3dsmax，其它的还可以用Maya、Blender、Houdini。</li>
-<li>贴图制作：Photoshop（必学）、Substance Designer（非常建议学习）、Houdini、AfterEffects。<br />
-<strong>不过学习特效的前期也可以不用学这些。在课程里面会提供相关的模型与贴图资源，学习课程时不需要自己进行模型与贴图制作。</strong><br />
-但是一旦要开始独立创作，这两项内容是非常重要的。<br />
-学习这些内容的话，在BiliBili找免费的教程视频看即可，通常找播放量比较高的来看问题都不会很大。</li>
-</ul>
-<h3 id="学习过程"><a class="markdownIt-Anchor" href="#学习过程"></a> 学习过程</h3>
-<h4 id="不要一直跟案例"><a class="markdownIt-Anchor" href="#不要一直跟案例"></a> 不要一直跟案例</h4>
-<p>我在学习课程的时候，不太喜欢跟着课程去做案例效果。<strong>我通常会把课程案例中所涉及的知识进行吸收之后，直接自己设计特效来制作。</strong><br />
-因为<strong>制作的案例效果非常不适合用于找工作</strong>（因为太多人都做过了，烂大街了，而且也体现不了自己的设计能力）。<br />
-当然，如果自己没有很多设计想法的话，前期还是需要跟着课程做案例的。但是后期一定要开始自己设计特效进行制作，<strong>不要一直做案例！</strong><br />
-如果到了后期还是没什么想法，可以选择去<strong>临摹其他大佬的作品。临摹的作品也是可以用来找工作的。</strong></p>
-<h4 id="多去观察-参考"><a class="markdownIt-Anchor" href="#多去观察-参考"></a> 多去观察、参考</h4>
-<p><strong>在学习的过程中，需要多去看其他人的作品，以及各个游戏中的特效效果，以扩充自己大脑中的素材库。</strong><br />
-当发现自己认为不错的或感兴趣的作品时，可以收藏起来，便于日后反复观看，也可以下载下来，逐帧慢放观察。<br />
-观察是非常重要的，只有多去观察他人的作品，等到自己独立创作时，才能有更多的想法，不至于想不出内容来。</p>
-<p>在观察的过程中，可以尝试去思考以下内容：</p>
-<ol>
-<li>作者为什么在这个地方采取这样的设计？</li>
-<li>这个地方的原理会是什么？</li>
-<li>为什么要采取这样的配色来表达这个主题？</li>
-<li><strong>这个特效由哪些层次组成？</strong></li>
-</ol>
-<p>寻找他人作品来看的时候，可以在b站搜寻其他人的作品集，也可以在<a href="https://www.magesbox.com">魔法盒</a>中直接看。如果能科学上网，也可以到Youtube或Artstation中去寻找。</p>
-<p>另外附上本人的BiliBili以及魔法盒空间链接。我的作品均会发布在魔法盒上，部分作品不会发布在B站。但是我的所有教程内容均只在Bilibili发布，<strong>偶尔也会在Bilibili直播做特效。</strong><br />
-<a href="https://space.bilibili.com/402284936?spm_id_from=333.1007.0.0">B站链接</a> <a href="https://www.magesbox.com/member/31931">魔法盒链接</a></p>
-<h4 id="不要闭门造车"><a class="markdownIt-Anchor" href="#不要闭门造车"></a> 不要闭门造车</h4>
-<p>制作特效的过程其实是挺容易自我感觉良好的（至少我是这样），所以非常<strong>需要在做完一个作品时，把它分享给其他的业内人，甚至是外行人去寻求建议</strong>。很有可能你认为自己做的很好的特效，在其他人看来会发现很多问题。</p>
-<p>在获取建议后，也要思考这条建议的合理性、可行性。如果认为确实合理且可行再采纳。但是<strong>无论是否能够采纳，都记得给为你提供建议的人说声谢谢，这是基本的礼貌～</strong></p>
-<p>这里分享一下<strong>我自己的特效交流群</strong>，在学习的时候可以把作品视频发在我的群里，大家都还是很乐于提出建议的～<br />
-<strong>QQ群号：743166590</strong><br />
-我在B站直播特效制作的时候，也会在我的群里发布直播通知。</p>
-<p>另外许多业内大佬也都有自己的交流群，并且群里面人也都很多，通常群号都可以在它们的B站空间和视频简介、评论区里找到。<br />
-这里再分享一些其他业内大佬的B站空间链接：</p>
-<ul>
-<li><a href="https://space.bilibili.com/929884?spm_id_from=333.337.0.0">SilenceMoon，人称月神</a></li>
-<li><a href="https://space.bilibili.com/146946971?spm_id_from=333.337.search-card.all.click">Allen，人称A佬</a></li>
-<li><a href="https://space.bilibili.com/31282759?spm_id_from=333.337.0.0">Haley，人称H佬</a></li>
-<li><a href="https://space.bilibili.com/136959476?spm_id_from=333.337.0.0">浮士德，人称浮佬</a></li>
-<li><a href="https://space.bilibili.com/4214251/">DDDDDD，人称D佬</a><br />
-还有很多大佬，这里不再列举。</li>
-</ul>
-<h4 id="总结"><a class="markdownIt-Anchor" href="#总结"></a> 总结</h4>
-<p>本篇分享就到此结束了。</p>
-<p>最后还是要强调一下：<br />
-<strong>在学习特效的路上，一定要保持对新知识的好奇心！千万不要满足于把课程学完，另外切忌闭门造车。</strong></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>特效</tag>
-        <tag>美术</tag>
-        <tag>游戏美术</tag>
-        <tag>经验分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>公专要点-行政执法能力-执行</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E6%89%A7%E8%A1%8C/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="拘留执行"><a class="markdownIt-Anchor" href="#拘留执行"></a> 拘留执行</h2>
-<h3 id="异地拘留"><a class="markdownIt-Anchor" href="#异地拘留"></a> 异地拘留</h3>
-<p>在异地被抓获或有必要在异地拘留所执行的，经异地拘留所主管公机批准可在异地执行。</p>
-<p>若同时被拘留和强制隔离戒毒，在形式上先拘留，之后再强制隔离戒毒。拘留期限包含入强制隔离期限。</p>
-<span id="more"></span>
-<blockquote>
-<p>补充：社区戒毒与强制隔离戒毒<br />
-社区戒毒：三年 强制隔离戒毒：二年（可延长一年）</p>
-</blockquote>
-<h3 id="暂缓拘留"><a class="markdownIt-Anchor" href="#暂缓拘留"></a> 暂缓拘留</h3>
-<p>被处罚人对拘留决定不服，提起复议或诉讼，可向相应公机提出暂缓行政拘留的申请<br />
-决定：公机在24h内作出决定。<br />
-条件：</p>
-<ol>
-<li>不致发生社会危险</li>
-<li>被处罚人要有担保人或按每日200元的标准缴纳保证金。<br />
-担保人条件：
-<ol>
-<li>与本案无牵连</li>
-<li>享有政治权利</li>
-<li>在当地有常住户口和固定住所</li>
-<li>有能力履行担保义务<br />
-文书：《暂缓执行行政拘留决定书》，一式三份，一份被执行人，一份附卷，一份拘留所。</li>
-</ol>
-</li>
-</ol>
-<h2 id="结案与终止调查"><a class="markdownIt-Anchor" href="#结案与终止调查"></a> 结案与终止调查</h2>
-<h4 id="结案"><a class="markdownIt-Anchor" href="#结案"></a> 结案</h4>
-<ol>
-<li>不予处罚</li>
-<li>调解</li>
-<li>作出处罚决定</li>
-<li>转刑事</li>
-<li>执行对象灭失、死亡</li>
-</ol>
-<h4 id="终止调查"><a class="markdownIt-Anchor" href="#终止调查"></a> 终止调查</h4>
-<ol>
-<li>没有违法事实的</li>
-<li>过追究失效的</li>
-<li>嫌疑人死亡的</li>
-<li>其它情形</li>
-</ol>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>行政执法能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>公专要点-行政执法能力-受案与管辖</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%8F%97%E6%A1%88%E7%AE%A1%E8%BE%96/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="受案"><a class="markdownIt-Anchor" href="#受案"></a> 受案</h1>
-<h2 id="案件来源"><a class="markdownIt-Anchor" href="#案件来源"></a> 案件来源</h2>
-<p>报案、控告、群众扭送、投案、其它国家机关移送、日常执勤发现、上级交办等。<strong>其中报案、控告、举报可口头可书面。</strong></p>
-<h2 id="网上登记"><a class="markdownIt-Anchor" href="#网上登记"></a> 网上登记</h2>
-<p>无论哪种来源，均需要网上接报案登记。例外情况：</p>
-<ol>
-<li>涉及国家机密</li>
-<li>重复报案、案件正在办理或已经办结。</li>
-</ol>
-<span id="more"></span>
-<h2 id="案件审查"><a class="markdownIt-Anchor" href="#案件审查"></a> 案件审查</h2>
-<h3 id="属于本单位管辖"><a class="markdownIt-Anchor" href="#属于本单位管辖"></a> 属于本单位管辖</h3>
-<p>立即调查处理，作<strong>受案登记表和受案回执</strong>（受案回执接收对象不是移送案件的国家机关），接收证据则出具<strong>接收证据清单</strong><br />
-受案审查期限：24h ➡️ 3d</p>
-<blockquote>
-<p>刑事案件先受案再立案（3d➡️7d➡️县级以上公机批准可30d）<br />
-接收证据清单是治安案件，接收证据<strong>材料</strong>清单是刑事案件</p>
-</blockquote>
-<p>若不属于公安职责范围内或属于公安职责范围内但不属于本单位管辖的，<strong>不作受案登记表，在网上注明相关情况。</strong></p>
-<h3 id="属于其它公安管辖"><a class="markdownIt-Anchor" href="#属于其它公安管辖"></a> 属于其它公安管辖</h3>
-<p>一般情况：作<strong>移送案件通知书</strong>，告知报案人、控告人、举报人、扭送人、投案人。<br />
-移送时间：受理后24h内<br />
-移送管辖后，询问查证时间（8h➡️情况复杂可能拘留的24h）和扣押等措施的期限重新计算。</p>
-<h4 id="需要先采取处置措施再移送的情形"><a class="markdownIt-Anchor" href="#需要先采取处置措施再移送的情形"></a> 需要先采取处置措施再移送的情形：</h4>
-<ol>
-<li>正在实施危害行为</li>
-<li>正在实施违法行为或现行犯被扭送</li>
-<li>在逃嫌疑人已被抓获/发现</li>
-<li>有人员伤亡需要立刻救治的</li>
-</ol>
-<h3 id="不属公安管辖"><a class="markdownIt-Anchor" href="#不属公安管辖"></a> 不属公安管辖</h3>
-<ol>
-<li>口头告知</li>
-<li>书面告知：<strong>《不予调查处理告知书》</strong></li>
-</ol>
-<h1 id="管辖"><a class="markdownIt-Anchor" href="#管辖"></a> 管辖</h1>
-<h2 id="级别管辖"><a class="markdownIt-Anchor" href="#级别管辖"></a> 级别管辖</h2>
-<ol>
-<li>受案级别管辖：县级以上公安机关可以管所有，<strong>派出所除涉外案件以外</strong>大部分案件均可管辖</li>
-<li>处罚权级别管辖：派出所有权决定<strong>警告、500元以下罚款</strong>处罚</li>
-</ol>
-<h2 id="地域管辖"><a class="markdownIt-Anchor" href="#地域管辖"></a> 地域管辖</h2>
-<h3 id="原则由违法行为地公安机关优先管辖"><a class="markdownIt-Anchor" href="#原则由违法行为地公安机关优先管辖"></a> 原则：由违法行为地公安机关优先管辖</h3>
-<p>由行为人居住地公安机关管辖更适宜亦可，例外情况：<br />
-<strong>卖淫 嫖娼 赌博 毒品相关案件只能由行为地公安机关管辖。</strong></p>
-<blockquote>
-<p>口诀：<strong>黄赌毒行为地管辖</strong>，且不适用于当场处罚。</p>
-</blockquote>
-<p><strong>违法行为地包括：行为发生地、结果发生地。</strong><br />
-居住地包括：户籍所在地、<strong>经常居住地（离开户籍所在地后连续居住一年以上的地区。医院就医除外。）</strong></p>
-<p>吸毒管辖的例外：发现地公安机关可按照违法行为发生地原则予以管辖。但如果实际发生地公机已对相关人员处理的，发现地公机不得对同一行为作出处理决定。</p>
-<p><strong>行驶中的客车上发生的行政案件，由案发后客车最初停靠地公机管辖</strong>；必要时始发地、途经地、到达地公机亦可。</p>
-<h2 id="共同管辖"><a class="markdownIt-Anchor" href="#共同管辖"></a> 共同管辖</h2>
-<p><strong>多个公机对同一案件都有管辖权时，由最初受理地公机管辖</strong>，必要时可由主要违法行为地公机管辖。</p>
-<h2 id="网络违法管辖"><a class="markdownIt-Anchor" href="#网络违法管辖"></a> 网络违法管辖</h2>
-<p><strong>沾边就可管</strong>（服务器所在地、网络接入地、网站建立者或管理者所在地、被侵害的网络及其运营者所在地、违法行为人/被侵害人使用的网络及其运营者所在地、被侵害人被侵害时所在地、财产遭受损失地）</p>
-<p>境外赌博：通过网络方式参与境外赌博的，由行为人所在地公机管辖。若赴境外参与赌博且输赢结算地在国内的，由结算地公机管辖。</p>
-<h2 id="专门管辖"><a class="markdownIt-Anchor" href="#专门管辖"></a> 专门管辖</h2>
-<p>指发生在特殊区域内的行政案件，由铁路、民航、海关缉私公机管辖。<br />
-**倒卖、伪造、变造火车票的，由最初受理的铁路或地方公机管辖。**必要时可移送主要违法行为发生地。</p>
-<h2 id="指定管辖"><a class="markdownIt-Anchor" href="#指定管辖"></a> 指定管辖</h2>
-<p><strong>多个公机对管辖发生争议，协商不成的报请共同上级公机指定管辖</strong><br />
-重大复杂案件，上级公机可直接指定管辖或直接办理。</p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>行政执法能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>公专要点-行政执法能力-询问查证</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="询问"><a class="markdownIt-Anchor" href="#询问"></a> 询问</h2>
-<p>询问笔录交由被询问人核对时，确认无误后被询问人应逐页签名或按指印。</p>
-<h2 id="传唤"><a class="markdownIt-Anchor" href="#传唤"></a> 传唤</h2>
-<p><strong>在询问笔录中注明嫌疑人到案经过、时间和离开时间。</strong><br />
-<strong>当场传唤事后不需要补证。</strong><br />
-传唤时间（最长24h）从嫌疑人到案起计算。<br />
-要将原因和依据告知被传唤人，并通知其家属原因、住所。</p>
-<span id="more"></span>
-<h3 id="强制传唤"><a class="markdownIt-Anchor" href="#强制传唤"></a> 强制传唤</h3>
-<p>批准：县级以上公机<strong>办案部门负责人</strong><br />
-条件：</p>
-<ol>
-<li>已经经过传唤</li>
-<li>对象无正当理由拒传、逃传。<br />
-<strong>需要文书《行政强制决定书》</strong><br />
-**当场实施行政强制措施，需要在24h内向所属机关报告。**若限制自由则回单位后要立即报告，并补文书。</li>
-</ol>
-<h3 id="刑事传唤"><a class="markdownIt-Anchor" href="#刑事传唤"></a> 刑事传唤</h3>
-<p>时间：12h➡️24h<br />
-无强制传唤，对应措施为拘传。<strong>拘传不能补证和手续，拘传必须带证。</strong><br />
-<strong>可不通知家属。</strong></p>
-<h3 id="异地传唤"><a class="markdownIt-Anchor" href="#异地传唤"></a> 异地传唤</h3>
-<p>协作地公机协助将嫌疑人传唤到其所在市县的指定地点或到其住所/单位。<br />
-<strong>需要三证齐全：办案协作函、警察证、传唤证。</strong></p>
-<h3 id="关于未成年人"><a class="markdownIt-Anchor" href="#关于未成年人"></a> 关于未成年人</h3>
-<p>通知其父母/其他监护人到场。若此二者无法到场，则通知其他成年亲属或所在学校、单位、居住地基层组织或未成年人保护组织代表到场。</p>
-<blockquote>
-<p>未成年的判定：依据《公安机关办理行政案件程序规定》为未满18岁，依据《治安管理处罚法》为未满16岁。</p>
-</blockquote>
-<h3 id="关于特殊人群"><a class="markdownIt-Anchor" href="#关于特殊人群"></a> 关于特殊人群</h3>
-<p>对于聋哑人和语言不通者，需要在询问笔录中注明情况和翻译人的姓名住址、单位、联系方式</p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>行政执法能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>公专要点-行政执法能力-治安调解</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E6%B2%BB%E5%AE%89%E8%B0%83%E8%A7%A3/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="适用情形"><a class="markdownIt-Anchor" href="#适用情形"></a> 适用情形</h2>
-<p><strong>针对民间纠纷且情节较轻的（违反治安管理）</strong>：</p>
-<ol>
-<li>亲友、邻里、同事、在校生之间的琐事引起的</li>
-<li>行为人的侵害行为系由被侵害人事前的过错引起的</li>
-<li>其它适用调解处理更易化解矛盾的</li>
-</ol>
-<span id="more"></span>
-<h2 id="不适用情形"><a class="markdownIt-Anchor" href="#不适用情形"></a> 不适用情形</h2>
-<ol>
-<li>雇凶伤害他人</li>
-<li>结伙斗殴或其它寻衅滋事</li>
-<li>三次以上违反治安管理</li>
-<li>调解过程中当事人又针对对方实施违法行为</li>
-<li>调解时嫌疑人逃跑</li>
-<li>其它情形</li>
-</ol>
-<h2 id="调解协议书"><a class="markdownIt-Anchor" href="#调解协议书"></a> 调解协议书</h2>
-<p><strong>一式三份，双方当事人各一份，调解机关留一份。</strong><br />
-若当事人基本情况、违法事实、协议内容在现场录音录像中明确有记录，可不作调解协议书。</p>
-<h2 id="其它要点"><a class="markdownIt-Anchor" href="#其它要点"></a> 其它要点</h2>
-<p>被侵害人可委托他人参加调解，需要向公安机关提交委托书。<br />
-<strong>调解一般为一次。一次不成的可再次调解。</strong><br />
-损害赔偿调解不成的，告知当事人向法院提起民事诉讼。</p>
-<h3 id="期限"><a class="markdownIt-Anchor" href="#期限"></a> 期限</h3>
-<p>第一次：三日内<br />
-第二次：七日<br />
-<strong>伤情鉴定时间不算在内。</strong></p>
-<h3 id="协议履行"><a class="markdownIt-Anchor" href="#协议履行"></a> 协议履行</h3>
-<p>履行协议：不再处罚，结案。<br />
-不履行协议：应罚则罚，可诉讼。</p>
-<h3 id="调解案件"><a class="markdownIt-Anchor" href="#调解案件"></a> 调解案件</h3>
-<p>办案期限：从调解未达成协议或协议不履行之日计算。</p>
-<h2 id="刑事公诉案件和解"><a class="markdownIt-Anchor" href="#刑事公诉案件和解"></a> 刑事公诉案件和解</h2>
-<h4 id="情形"><a class="markdownIt-Anchor" href="#情形"></a> 情形</h4>
-<ol>
-<li>民间纠纷，可能判三年以下的</li>
-<li>过失犯罪，可能判七年以下的</li>
-<li>嫌犯五年内曾故意犯罪的除外</li>
-</ol>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>行政执法能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>公专要点-行政执法能力-简易程序</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E7%AE%80%E6%98%93%E7%A8%8B%E5%BA%8F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="定义"><a class="markdownIt-Anchor" href="#定义"></a> 定义</h2>
-<p>当场决定（处罚决定），当场送达（行政处罚决定书），当场收缴并提供收缴物品清单（有违禁品的话），当场收缴不需先扣押。<br />
-黄赌毒不适用于当场处罚。（传播淫秽信息不算在内）</p>
-<span id="more"></span>
-<h2 id="当场处罚"><a class="markdownIt-Anchor" href="#当场处罚"></a> 当场处罚</h2>
-<h3 id="处罚内容"><a class="markdownIt-Anchor" href="#处罚内容"></a> 处罚内容</h3>
-<p>罚款：200元以下对个人，3000以下对组织或法人，<strong>不当场取走</strong> 警告：书面警告<br />
-罚款在三十五日内提交，逾期每日加处3%，加处罚款数额不超本金。</p>
-<h4 id="当场处罚决定书"><a class="markdownIt-Anchor" href="#当场处罚决定书"></a> 当场处罚决定书</h4>
-<p>一式两份，一份被处罚人，一份公机备案。有被侵害人的话，复印一份送达被侵害人。</p>
-<h3 id="实施顺序"><a class="markdownIt-Anchor" href="#实施顺序"></a> 实施顺序</h3>
-<ol>
-<li>表明执法身份</li>
-<li>收集证据</li>
-<li>口头告知行为人拟作出处罚决定的内容于事实、理由、依据，告知其有陈述权、申辩权。</li>
-<li>听取陈述、申辩</li>
-<li>填写当场处罚决定书并当场交付被处罚人。</li>
-<li>当场收缴罚款的，同时填写罚款收据并交付。</li>
-</ol>
-<h3 id="24h原则"><a class="markdownIt-Anchor" href="#24h原则"></a> 24h原则</h3>
-<p>**民警当场作出处罚决定后，在24h内将决定书送达所属公机备案。**例外：交警为二日内。<br />
-在旅客列车、民航飞机、水上作出决定的，在返回后的24h内上交备案。</p>
-<h2 id="当场收缴"><a class="markdownIt-Anchor" href="#当场收缴"></a> 当场收缴</h2>
-<h3 id="情形"><a class="markdownIt-Anchor" href="#情形"></a> 情形</h3>
-<ol>
-<li>50元以下的</li>
-<li>被处罚人向指定银行缴纳确有困难，经被处罚人提出。</li>
-<li>被处罚人在当地无固定住所，不当场收缴后难以执行。</li>
-</ol>
-<h3 id="2日原则"><a class="markdownIt-Anchor" href="#2日原则"></a> 2日原则</h3>
-<p><strong>收款后2日内上交，在水上或车上收缴的在返回后2日内上交</strong>。公机收款后2日内交入指定银行</p>
-<p><strong>当场处罚的罚款不当场收走，与当场收缴相反。</strong></p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>行政执法能力</tag>
       </tags>
   </entry>
   <entry>
@@ -682,34 +382,62 @@ Bilibili：</p>
 <h1 id="重点内容"><a class="markdownIt-Anchor" href="#重点内容"></a> 重点内容：</h1>
 <p>全面依法治国的法治之魂：</p>
 <ul>
-<li>党的领导<br />
-中国特色社会主义最本质的特征</li>
-<li>党的领导<br />
-社会主义法治最根本的保证</li>
-<li>党的领导<br />
-全面推进依法治国的重点任务和主体工程</li>
-<li><strong>建设法治政府（不是法治社会）</strong><br />
-社会主义民主政治的本质特征</li>
-<li>人民当家做主<br />
-党领导人民治理国家的基本方略</li>
-<li>依法治国<br />
-推进全面依法治国的根本目的</li>
-<li>依法保障人民权益<br />
-社会主义法治理念的核心内容</li>
-<li>依法治国<br />
-社会主义法治理念的本质要求</li>
-<li>执法为民<br />
-社会主义法治理念的价值追求</li>
-<li>公平正义<br />
-社会主义法治理念的重要使命</li>
-<li>服务大局<br />
-社会主义法治理念的根本保证</li>
-<li>党的领导<br />
-法治的生命线、治国理政的基本方式、国家治理体系和治理能力的重要依托：</li>
-<li>法治<br />
-实现全面推进依法治国总目标的最根本保证</li>
-<li>党的领导<br />
-中国特色社会主义法治体系的根本制度基础</li>
+<li>党的领导</li>
+</ul>
+<p>中国特色社会主义最本质的特征</p>
+<ul>
+<li>党的领导</li>
+</ul>
+<p>社会主义法治最根本的保证</p>
+<ul>
+<li>党的领导</li>
+</ul>
+<p>全面推进依法治国的重点任务和主体工程</p>
+<ul>
+<li><strong>建设法治政府（不是法治社会）</strong></li>
+</ul>
+<p>社会主义民主政治的本质特征</p>
+<ul>
+<li>人民当家做主</li>
+</ul>
+<p>党领导人民治理国家的基本方略</p>
+<ul>
+<li>依法治国</li>
+</ul>
+<p>推进全面依法治国的根本目的</p>
+<ul>
+<li>依法保障人民权益</li>
+</ul>
+<p>社会主义法治理念的核心内容</p>
+<ul>
+<li>依法治国</li>
+</ul>
+<p>社会主义法治理念的本质要求</p>
+<ul>
+<li>执法为民</li>
+</ul>
+<p>社会主义法治理念的价值追求</p>
+<ul>
+<li>公平正义</li>
+</ul>
+<p>社会主义法治理念的重要使命</p>
+<ul>
+<li>服务大局</li>
+</ul>
+<p>社会主义法治理念的根本保证</p>
+<ul>
+<li>党的领导</li>
+</ul>
+<p>法治的生命线、治国理政的基本方式、国家治理体系和治理能力的重要依托：</p>
+<ul>
+<li>法治</li>
+</ul>
+<p>实现全面推进依法治国总目标的最根本保证</p>
+<ul>
+<li>党的领导</li>
+</ul>
+<p>中国特色社会主义法治体系的根本制度基础</p>
+<ul>
 <li>中国特色社会主义制度</li>
 </ul>
 <p>全面推进依法治国的根本制度保障</p>
@@ -786,159 +514,143 @@ Bilibili：</p>
       </tags>
   </entry>
   <entry>
-    <title>公专要点-行政执法能力-行政处理决定</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E8%A1%8C%E6%94%BF%E5%A4%84%E7%90%86%E5%86%B3%E5%AE%9A/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
-<p>本篇内容存在省略。</p>
-</blockquote>
-<h2 id="行政处罚"><a class="markdownIt-Anchor" href="#行政处罚"></a> 行政处罚</h2>
-<p>一般处罚都是由县级以上公机作出。警告和500以下罚款为派出所。</p>
-<p>一人有两种以上违法行为的，合并执行，制作一份决定书即可。<br />
-一案有多个行为人的，分别决定，制一式多份决定书。</p>
+    <title>公专要点-法律基础知识-民法典</title>
+    <url>/2024/04/17/ga/%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E6%B0%91%E6%B3%95%E5%85%B8/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="基本规定"><a class="markdownIt-Anchor" href="#基本规定"></a> 基本规定</h2>
+<p><strong>基本原则：公平、诚信、守法与公序良俗、绿色、自愿。</strong><br />
+作用：调整平等主体的自然人、法人和非法人组织之间的人身关系和财产关系。</p>
 <span id="more"></span>
-<h3 id="罚款不同于罚金"><a class="markdownIt-Anchor" href="#罚款不同于罚金"></a> 罚款（不同于罚金）</h3>
-<h4 id="范围"><a class="markdownIt-Anchor" href="#范围"></a> 范围</h4>
-<ol>
-<li>个人罚最高：5000</li>
-<li>个人可听证：2000</li>
-<li>派出所最高：500</li>
-<li>适用简易程序：200</li>
-<li>当场收缴（无异议）：50<br />
-15日内到银行交，逾期每日加处3%，加处金额不得超过本金。</li>
-</ol>
-<h3 id="行政拘留"><a class="markdownIt-Anchor" href="#行政拘留"></a> 行政拘留</h3>
-<p>最长15天，多项违法行为合并执行的不超过20天。<br />
-文书：行政处罚决定书。刑拘的文书是拘留证。<strong>行政拘留无拘留证。</strong><br />
-不送拘留所执行的情形：</p>
-<ol>
-<li>已满14未满16的</li>
-<li>已满16未满18岁的，且为初犯</li>
-<li>70岁及以上的</li>
-<li>孕妇或哺乳期妇女</li>
-</ol>
-<h3 id="吊销公机发放的许可证"><a class="markdownIt-Anchor" href="#吊销公机发放的许可证"></a> 吊销公机发放的许可证</h3>
-<p>许可证指特种行业许可（旅馆、典当、印章、废品回收…）、枪支管理工作许可等。<br />
-<strong>营业执照不属于该范围。</strong></p>
-<h3 id="从轻减轻不予处罚从重"><a class="markdownIt-Anchor" href="#从轻减轻不予处罚从重"></a> 从轻/减轻/不予处罚/从重</h3>
-<h4 id="从轻减轻不予处罚的情形"><a class="markdownIt-Anchor" href="#从轻减轻不予处罚的情形"></a> 从轻减轻/不予处罚的情形：</h4>
-<ol>
-<li>主动消除或减轻后果，取得被害人谅解</li>
-<li>受胁迫或诱骗的</li>
-<li>盲人或<strong>又聋又哑</strong>的。</li>
-</ol>
-<h4 id="从重的情形"><a class="markdownIt-Anchor" href="#从重的情形"></a> 从重的情形</h4>
-<ol>
-<li>6个月内曾受治安处罚或一年内因同类（同类指大类，如“治安管理”“出入境管理”）行为受两次以上公安行政处罚的。</li>
-<li>刑罚执行完毕三个月内或在缓刑期间</li>
-<li>阻碍民警执行公务</li>
-</ol>
-<h4 id="关于减轻处罚"><a class="markdownIt-Anchor" href="#关于减轻处罚"></a> 关于减轻处罚：</h4>
-<p>规定拘留并处罚款：可单独降拘留、单独降罚款、拘留罚款同时降、单独拘留，不可单独罚款。<br />
-规定拘留<strong>可以</strong>并处罚款：只降拘留，不再罚款。</p>
-<h2 id="追溯时效"><a class="markdownIt-Anchor" href="#追溯时效"></a> 追溯时效</h2>
-<p>违反治安管理行为的：六个月。<br />
-其它违法行为：二年。<br />
-期限计算：从违法发生日起计算。持续性违法行为从结束日起算</p>
-<h2 id="办案期限"><a class="markdownIt-Anchor" href="#办案期限"></a> 办案期限</h2>
-<p>三十日，经上级公机批准可延长三十日<br />
-无限延长期限：行为人逃跑、不明等客观因素导致案件在法定期限内无法作出行政处理决定的。</p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>行政执法能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>公专要点-行政执法能力-证据保全</title>
-    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E8%AF%81%E6%8D%AE%E4%BF%9D%E5%85%A8/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="先行登记保存"><a class="markdownIt-Anchor" href="#先行登记保存"></a> 先行登记保存</h2>
-<p>证据可能灭失或以后难以取得的情况下，经公机<strong>办案部门负责人</strong>批准，可先行登记保存</p>
-<h2 id="要点"><a class="markdownIt-Anchor" href="#要点"></a> 要点</h2>
-<p>文书：<strong>《证据保全决定书》附《证据保全清单》</strong><br />
-期限：三十日，经县级以上公机负责人批准可延长三十日</p>
-<span id="more"></span>
-<h3 id="扣押-收缴-追缴的关系与区别"><a class="markdownIt-Anchor" href="#扣押-收缴-追缴的关系与区别"></a> 扣押、收缴、追缴的关系与区别</h3>
-<p>扣押是收缴与追缴的前置程序。<br />
-<strong>无没收的说法</strong><br />
-扣押与现场挂钩，收缴/追缴不是。收缴/追缴在《行政处罚决定书》中体现。</p>
-<h4 id="收缴"><a class="markdownIt-Anchor" href="#收缴"></a> 收缴</h4>
-<p>对象：违禁品或非法财物。如黄赌毒作案工具、伪造/变造的票、证等、实施毒品违法行为的资金。<br />
-<strong>特例：嫖资属追缴的范围。</strong><br />
-决定：县级以上公机决定。<br />
-派出所可收缴的范围：违禁品、管制器具、吸食/注射毒品的工具、500元以下非法财物，且当事人无异议。</p>
-<h4 id="追缴"><a class="markdownIt-Anchor" href="#追缴"></a> 追缴</h4>
-<p>对象：违法所得。如盗窃所得物。<br />
-决定：县级以上公机。<br />
-派出所可收缴范围：应退还被害人的财物。</p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>行政执法能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>公专要点-法律基础知识-人民警察法</title>
-    <url>/2024/04/17/ga/%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%E6%B3%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
-<p>该部分内容存在大量省略</p>
-</blockquote>
-<h1 id="总则"><a class="markdownIt-Anchor" href="#总则"></a> 总则</h1>
-<h2 id="任务和范围"><a class="markdownIt-Anchor" href="#任务和范围"></a> 任务和范围</h2>
-<h3 id="任务"><a class="markdownIt-Anchor" href="#任务"></a> 任务</h3>
-<ol>
-<li>维护国家安全</li>
-<li>维护社会治安秩序</li>
-<li>保护公民人身安全、人身自由、合法财产</li>
-<li>保护公共财产</li>
-<li>预防、制止和惩治违法犯罪活动</li>
-</ol>
-<span id="more"></span>
-<h3 id="种类"><a class="markdownIt-Anchor" href="#种类"></a> 种类</h3>
+<h2 id="自然人"><a class="markdownIt-Anchor" href="#自然人"></a> 自然人</h2>
+<h3 id="民事权利能力和民事行为能力"><a class="markdownIt-Anchor" href="#民事权利能力和民事行为能力"></a> 民事权利能力和民事行为能力</h3>
+<p><strong>胎儿无民事权利能力，特例：设计遗产继承、接受赠与等胎儿利益保护的，胎儿视为具有民事权利能力。</strong><br />
+无民事行为能力：</p>
 <ul>
-<li>公安警</li>
-<li>国安警</li>
-<li>司法警</li>
-<li>狱警</li>
+<li><strong>8岁以下</strong></li>
+<li>全疯</li>
 </ul>
-<h3 id="活动准则"><a class="markdownIt-Anchor" href="#活动准则"></a> 活动准则</h3>
-<p>人民警察以宪法和法律为活动准则</p>
-<h1 id="职权"><a class="markdownIt-Anchor" href="#职权"></a> 职权</h1>
-<h2 id="职责"><a class="markdownIt-Anchor" href="#职责"></a> 职责</h2>
+<p>限制民事行为能力：</p>
+<ul>
+<li><strong>8 ～ 18岁</strong></li>
+<li>半疯</li>
+<li>解释：
+<ul>
+<li>其法定代理人代理或经其法定代理人同意、追认。</li>
+<li><strong>实施纯获利益的民事法律行为。</strong></li>
+<li>实施与其智力、精神状况相适应的民事法律能力。</li>
+</ul>
+</li>
+</ul>
+<p>完全民事行为能力：</p>
+<ul>
+<li><strong>18岁+</strong></li>
+<li><strong>16～18且以自己的劳动收入作为主要生活来源。</strong><br />
+住所：</li>
+<li><strong>经常居所定义：离开居住地连续居住一年以上的。</strong></li>
+</ul>
+<h2 id="监护"><a class="markdownIt-Anchor" href="#监护"></a> 监护</h2>
+<h3 id="未成年父母失去监护能力"><a class="markdownIt-Anchor" href="#未成年父母失去监护能力"></a> 未成年父母失去监护能力</h3>
+<p>由下列有监护能力的人依序担任：</p>
+<ul>
+<li>祖父母、外祖父母</li>
+<li>兄弟姐妹</li>
+<li>其他（<strong>需要经过未成年人所在地的居民委员会、村民委员会或民政部门同意</strong>）</li>
+</ul>
+<h3 id="无-限制民事行为能力的成年人"><a class="markdownIt-Anchor" href="#无-限制民事行为能力的成年人"></a> 无、限制民事行为能力的成年人</h3>
+<p>由下列有监护能力的人依序担任：</p>
+<ul>
+<li>配偶</li>
+<li>父母、子女</li>
+<li>其他近亲属</li>
+<li>其他（<strong>需要经过未成年人所在地的居民委员会、村民委员会或民政部门同意</strong>）</li>
+</ul>
+<h3 id="意定监护"><a class="markdownIt-Anchor" href="#意定监护"></a> 意定监护</h3>
+<p><strong>意定监护 &gt; 法定监护</strong></p>
+<h3 id="指定监护"><a class="markdownIt-Anchor" href="#指定监护"></a> 指定监护</h3>
+<p>定义：法院根据个人或组织（<strong>不包括公安</strong>）申请，撤销其监护人资格，并安排必要的临时监护措施。<br />
+条件：监护人出现如下情形之一</p>
+<ol>
+<li>严重损害被监护人身心健康</li>
+<li>急于履行监护职责，导致被监护人处于危困状态</li>
+<li>实施严重侵害被监护人合法权益的其他行为</li>
+</ol>
+<h2 id="宣告失踪-死亡"><a class="markdownIt-Anchor" href="#宣告失踪-死亡"></a> 宣告失踪、死亡</h2>
+<h3 id="失踪"><a class="markdownIt-Anchor" href="#失踪"></a> 失踪</h3>
+<p><strong>条件：失踪满2年</strong><br />
+申请：利害关系人（有人身关系或财产关系）<br />
+<strong>宣告：人民法院（宣告三个月）</strong><br />
+财产代管：</p>
+<ul>
+<li>配偶</li>
+<li>成年子女</li>
+<li>没有前款规定的人、前款规定无代管能力的、有异议的，由法院指定人代管</li>
+</ul>
+<p>撤销：失踪人重新出现，经过本人或利害关系人申请<br />
+婚姻：失踪人与其配偶婚姻关系仍存在</p>
+<h3 id="死亡"><a class="markdownIt-Anchor" href="#死亡"></a> 死亡</h3>
+<p>条件：失踪达到一定年限</p>
+<ul>
+<li><strong>普通情况：4年</strong></li>
+<li><strong>意外情况：2年</strong></li>
+<li>因意外情况下落不明的，经有关机关证明此人不可能生存的，可不受期限限制</li>
+<li>申请：经利害关系人申请（宣死&gt;宣失）</li>
+<li><strong>宣告：法院（宣告一年、三个月，分别对应普通情况与意外情况）</strong></li>
+<li>日期：
+<ul>
+<li>情形1：判决作出之日为死亡日</li>
+<li>情形2：意外事件发生时为死亡日</li>
+</ul>
+</li>
+<li><strong>宣告死亡等同于生理死亡，婚姻、监护等身份关系终止，财产作为遗产被继承</strong></li>
+<li>撤销：同宣告失踪</li>
+<li><strong>婚姻：中止。但撤销后可自动恢复，其配偶已再婚或声明不愿恢复的除外。</strong></li>
+</ul>
+<h2 id="法人"><a class="markdownIt-Anchor" href="#法人"></a> 法人</h2>
+<h3 id="一般规定"><a class="markdownIt-Anchor" href="#一般规定"></a> 一般规定</h3>
+<p>法人以其主要办事机构所在地为住所</p>
+<h3 id="营利法人"><a class="markdownIt-Anchor" href="#营利法人"></a> 营利法人</h3>
+<p>以取得利润并分配给股东等出资人为目的成立的法人（以盈利为目的）<br />
+包括有限责任公司，股份有限公司和其他企业法人等。</p>
+<h3 id="非营利法人"><a class="markdownIt-Anchor" href="#非营利法人"></a> 非营利法人</h3>
+<p>为公益目的或其他非营利目的成立（也可以营利）<br />
+包括事业单位、社会团体、基金会、社会服务机构等。</p>
+<h3 id="特别法人"><a class="markdownIt-Anchor" href="#特别法人"></a> 特别法人</h3>
+<p>包括机关法人、农村集体经济组织法人、城镇农村的合作经济组织法人、基层群众性自治组织法人（居委会、村委会）等。</p>
+<h3 id="非法人组织"><a class="markdownIt-Anchor" href="#非法人组织"></a> 非法人组织</h3>
+<ul>
+<li>个人独资企业</li>
+<li>合伙企业（例：律师事务所）</li>
+<li>农村承包经营户</li>
+<li><strong>不具有法人资格的专业服务机构：非营利民办学校、民办文化馆、医院、养老院、博物馆等。</strong></li>
+</ul>
+<h2 id="民事权利"><a class="markdownIt-Anchor" href="#民事权利"></a> 民事权利</h2>
+<p>自然人享有生命权、身体权、健康权、姓名权、肖像权、名誉权、荣誉权、隐私权、婚姻自主权。</p>
+<h2 id="民事法律行为"><a class="markdownIt-Anchor" href="#民事法律行为"></a> 民事法律行为</h2>
+<h3 id="民事法律行为的效力"><a class="markdownIt-Anchor" href="#民事法律行为的效力"></a> 民事法律行为的效力</h3>
+<h4 id="无效的民事法律行为"><a class="markdownIt-Anchor" href="#无效的民事法律行为"></a> 无效的民事法律行为</h4>
 <blockquote>
 <p>该部分内容存在省略</p>
 </blockquote>
 <ol>
-<li>实行消防监督</li>
-<li>管理集会、游行、示威活动</li>
-<li>对判处拘役、剥夺政治权利的罪犯执行刑罚</li>
+<li>违反法律、行政法规的强制性规定</li>
+<li><strong>以合法形式掩盖非法目的</strong></li>
+<li>恶意串通损害国家、集体、他人利益</li>
+<li>违反公序良俗原则</li>
+<li><strong>不当的免责条款</strong></li>
 </ol>
-<p>公安派出所可以负责日常的消防监督检查，开展消防宣传教育</p>
-<blockquote>
-<p>关于刑罚的执行：</p>
-<ul>
-<li>公安机关：拘役、剥夺政治权利、驱逐出境、余期三月以下有期徒刑</li>
-<li>人民法院：无罪、免刑、罚金、没收财产、死刑立即执行（口诀：无罪无罚，要钱要命）</li>
-<li>监狱：有期、无期、死刑（缓2年以上的）</li>
-</ul>
-</blockquote>
-<h2 id="盘问-检查权"><a class="markdownIt-Anchor" href="#盘问-检查权"></a> 盘问、检查权</h2>
-<p>经盘问、检查，有下列情形之一的，可继续盘问（立即通知其家属或所在单位）</p>
+<h4 id="可撤销的民事法律行为"><a class="markdownIt-Anchor" href="#可撤销的民事法律行为"></a> 可撤销的民事法律行为</h4>
 <ol>
-<li>被指控犯罪</li>
-<li>有现场作案嫌疑</li>
-<li>有作案嫌疑身份不明的</li>
-<li>携带的物品可能是赃物的</li>
+<li>重大误解</li>
+<li>欺诈</li>
+<li>胁迫</li>
+<li>显失公平</li>
 </ol>
-<h2 id="武器使用权"><a class="markdownIt-Anchor" href="#武器使用权"></a> 武器使用权</h2>
-<p>武器指致命性警用武器（主要有手枪、冲锋枪、步枪、机枪、防暴枪）</p>
-<h2 id="现场管制权"><a class="markdownIt-Anchor" href="#现场管制权"></a> 现场管制权</h2>
-<p><strong>现场管制由上级公安机关和同级人民政府双重审批</strong></p>
+<p>因紧急避险造成损害的，由引起险情发生的人承担民事责任（<strong>因自然原因的除外</strong>）</p>
+<p>因保护他人权益导致自己收到损害的，由侵权人承担民事责任。<strong>若无侵权人、侵权人逃逸或无力承担民事责任，受害人请求补偿，受益人应当补偿。</strong><br />
+因自愿实施紧急救助行为造成受助人损害的，救助人不承担民事责任</p>
+<h2 id="诉讼时效"><a class="markdownIt-Anchor" href="#诉讼时效"></a> 诉讼时效</h2>
+<p>向人民法院请求保护民事权利的诉讼时效期限为三年。<br />
+诉讼时效期限自权利人知道或应当知道权利受到损害之日起算。<br />
+自权利受到损害之日起超过二十年的，法院不予保护。</p>
 ]]></content>
       <categories>
         <category>笔记</category>
@@ -1158,143 +870,62 @@ I --> I5[文化权利和自由]</pre>
       </tags>
   </entry>
   <entry>
-    <title>公专要点-法律基础知识-民法典</title>
-    <url>/2024/04/17/ga/%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E6%B0%91%E6%B3%95%E5%85%B8/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="基本规定"><a class="markdownIt-Anchor" href="#基本规定"></a> 基本规定</h2>
-<p><strong>基本原则：公平、诚信、守法与公序良俗、绿色、自愿。</strong><br />
-作用：调整平等主体的自然人、法人和非法人组织之间的人身关系和财产关系。</p>
-<span id="more"></span>
-<h2 id="自然人"><a class="markdownIt-Anchor" href="#自然人"></a> 自然人</h2>
-<h3 id="民事权利能力和民事行为能力"><a class="markdownIt-Anchor" href="#民事权利能力和民事行为能力"></a> 民事权利能力和民事行为能力</h3>
-<p><strong>胎儿无民事权利能力，特例：设计遗产继承、接受赠与等胎儿利益保护的，胎儿视为具有民事权利能力。</strong><br />
-无民事行为能力：</p>
-<ul>
-<li><strong>8岁以下</strong></li>
-<li>全疯</li>
-</ul>
-<p>限制民事行为能力：</p>
-<ul>
-<li><strong>8 ～ 18岁</strong></li>
-<li>半疯</li>
-<li>解释：
-<ul>
-<li>其法定代理人代理或经其法定代理人同意、追认。</li>
-<li><strong>实施纯获利益的民事法律行为。</strong></li>
-<li>实施与其智力、精神状况相适应的民事法律能力。</li>
-</ul>
-</li>
-</ul>
-<p>完全民事行为能力：</p>
-<ul>
-<li><strong>18岁+</strong></li>
-<li><strong>16～18且以自己的劳动收入作为主要生活来源。</strong><br />
-住所：</li>
-<li><strong>经常居所定义：离开居住地连续居住一年以上的。</strong></li>
-</ul>
-<h2 id="监护"><a class="markdownIt-Anchor" href="#监护"></a> 监护</h2>
-<h3 id="未成年父母失去监护能力"><a class="markdownIt-Anchor" href="#未成年父母失去监护能力"></a> 未成年父母失去监护能力</h3>
-<p>由下列有监护能力的人依序担任：</p>
-<ul>
-<li>祖父母、外祖父母</li>
-<li>兄弟姐妹</li>
-<li>其他（<strong>需要经过未成年人所在地的居民委员会、村民委员会或民政部门同意</strong>）</li>
-</ul>
-<h3 id="无-限制民事行为能力的成年人"><a class="markdownIt-Anchor" href="#无-限制民事行为能力的成年人"></a> 无、限制民事行为能力的成年人</h3>
-<p>由下列有监护能力的人依序担任：</p>
-<ul>
-<li>配偶</li>
-<li>父母、子女</li>
-<li>其他近亲属</li>
-<li>其他（<strong>需要经过未成年人所在地的居民委员会、村民委员会或民政部门同意</strong>）</li>
-</ul>
-<h3 id="意定监护"><a class="markdownIt-Anchor" href="#意定监护"></a> 意定监护</h3>
-<p><strong>意定监护 &gt; 法定监护</strong></p>
-<h3 id="指定监护"><a class="markdownIt-Anchor" href="#指定监护"></a> 指定监护</h3>
-<p>定义：法院根据个人或组织（<strong>不包括公安</strong>）申请，撤销其监护人资格，并安排必要的临时监护措施。<br />
-条件：监护人出现如下情形之一</p>
+    <title>公专要点-法律基础知识-人民警察法</title>
+    <url>/2024/04/17/ga/%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%E6%B3%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
+<p>该部分内容存在大量省略</p>
+</blockquote>
+<h1 id="总则"><a class="markdownIt-Anchor" href="#总则"></a> 总则</h1>
+<h2 id="任务和范围"><a class="markdownIt-Anchor" href="#任务和范围"></a> 任务和范围</h2>
+<h3 id="任务"><a class="markdownIt-Anchor" href="#任务"></a> 任务</h3>
 <ol>
-<li>严重损害被监护人身心健康</li>
-<li>急于履行监护职责，导致被监护人处于危困状态</li>
-<li>实施严重侵害被监护人合法权益的其他行为</li>
+<li>维护国家安全</li>
+<li>维护社会治安秩序</li>
+<li>保护公民人身安全、人身自由、合法财产</li>
+<li>保护公共财产</li>
+<li>预防、制止和惩治违法犯罪活动</li>
 </ol>
-<h2 id="宣告失踪-死亡"><a class="markdownIt-Anchor" href="#宣告失踪-死亡"></a> 宣告失踪、死亡</h2>
-<h3 id="失踪"><a class="markdownIt-Anchor" href="#失踪"></a> 失踪</h3>
-<p><strong>条件：失踪满2年</strong><br />
-申请：利害关系人（有人身关系或财产关系）<br />
-<strong>宣告：人民法院（宣告三个月）</strong><br />
-财产代管：</p>
+<span id="more"></span>
+<h3 id="种类"><a class="markdownIt-Anchor" href="#种类"></a> 种类</h3>
 <ul>
-<li>配偶</li>
-<li>成年子女</li>
-<li>没有前款规定的人、前款规定无代管能力的、有异议的，由法院指定人代管</li>
+<li>公安警</li>
+<li>国安警</li>
+<li>司法警</li>
+<li>狱警</li>
 </ul>
-<p>撤销：失踪人重新出现，经过本人或利害关系人申请<br />
-婚姻：失踪人与其配偶婚姻关系仍存在</p>
-<h3 id="死亡"><a class="markdownIt-Anchor" href="#死亡"></a> 死亡</h3>
-<p>条件：失踪达到一定年限</p>
-<ul>
-<li><strong>普通情况：4年</strong></li>
-<li><strong>意外情况：2年</strong></li>
-<li>因意外情况下落不明的，经有关机关证明此人不可能生存的，可不受期限限制</li>
-<li>申请：经利害关系人申请（宣死&gt;宣失）</li>
-<li><strong>宣告：法院（宣告一年、三个月，分别对应普通情况与意外情况）</strong></li>
-<li>日期：
-<ul>
-<li>情形1：判决作出之日为死亡日</li>
-<li>情形2：意外事件发生时为死亡日</li>
-</ul>
-</li>
-<li><strong>宣告死亡等同于生理死亡，婚姻、监护等身份关系终止，财产作为遗产被继承</strong></li>
-<li>撤销：同宣告失踪</li>
-<li><strong>婚姻：中止。但撤销后可自动恢复，其配偶已再婚或声明不愿恢复的除外。</strong></li>
-</ul>
-<h2 id="法人"><a class="markdownIt-Anchor" href="#法人"></a> 法人</h2>
-<h3 id="一般规定"><a class="markdownIt-Anchor" href="#一般规定"></a> 一般规定</h3>
-<p>法人以其主要办事机构所在地为住所</p>
-<h3 id="营利法人"><a class="markdownIt-Anchor" href="#营利法人"></a> 营利法人</h3>
-<p>以取得利润并分配给股东等出资人为目的成立的法人（以盈利为目的）<br />
-包括有限责任公司，股份有限公司和其他企业法人等。</p>
-<h3 id="非营利法人"><a class="markdownIt-Anchor" href="#非营利法人"></a> 非营利法人</h3>
-<p>为公益目的或其他非营利目的成立（也可以营利）<br />
-包括事业单位、社会团体、基金会、社会服务机构等。</p>
-<h3 id="特别法人"><a class="markdownIt-Anchor" href="#特别法人"></a> 特别法人</h3>
-<p>包括机关法人、农村集体经济组织法人、城镇农村的合作经济组织法人、基层群众性自治组织法人（居委会、村委会）等。</p>
-<h3 id="非法人组织"><a class="markdownIt-Anchor" href="#非法人组织"></a> 非法人组织</h3>
-<ul>
-<li>个人独资企业</li>
-<li>合伙企业（例：律师事务所）</li>
-<li>农村承包经营户</li>
-<li><strong>不具有法人资格的专业服务机构：非营利民办学校、民办文化馆、医院、养老院、博物馆等。</strong></li>
-</ul>
-<h2 id="民事权利"><a class="markdownIt-Anchor" href="#民事权利"></a> 民事权利</h2>
-<p>自然人享有生命权、身体权、健康权、姓名权、肖像权、名誉权、荣誉权、隐私权、婚姻自主权。</p>
-<h2 id="民事法律行为"><a class="markdownIt-Anchor" href="#民事法律行为"></a> 民事法律行为</h2>
-<h3 id="民事法律行为的效力"><a class="markdownIt-Anchor" href="#民事法律行为的效力"></a> 民事法律行为的效力</h3>
-<h4 id="无效的民事法律行为"><a class="markdownIt-Anchor" href="#无效的民事法律行为"></a> 无效的民事法律行为</h4>
+<h3 id="活动准则"><a class="markdownIt-Anchor" href="#活动准则"></a> 活动准则</h3>
+<p>人民警察以宪法和法律为活动准则</p>
+<h1 id="职权"><a class="markdownIt-Anchor" href="#职权"></a> 职权</h1>
+<h2 id="职责"><a class="markdownIt-Anchor" href="#职责"></a> 职责</h2>
 <blockquote>
 <p>该部分内容存在省略</p>
 </blockquote>
 <ol>
-<li>违反法律、行政法规的强制性规定</li>
-<li><strong>以合法形式掩盖非法目的</strong></li>
-<li>恶意串通损害国家、集体、他人利益</li>
-<li>违反公序良俗原则</li>
-<li><strong>不当的免责条款</strong></li>
+<li>实行消防监督</li>
+<li>管理集会、游行、示威活动</li>
+<li>对判处拘役、剥夺政治权利的罪犯执行刑罚</li>
 </ol>
-<h4 id="可撤销的民事法律行为"><a class="markdownIt-Anchor" href="#可撤销的民事法律行为"></a> 可撤销的民事法律行为</h4>
+<p>公安派出所可以负责日常的消防监督检查，开展消防宣传教育</p>
+<blockquote>
+<p>关于刑罚的执行：</p>
+<ul>
+<li>公安机关：拘役、剥夺政治权利、驱逐出境、余期三月以下有期徒刑</li>
+<li>人民法院：无罪、免刑、罚金、没收财产、死刑立即执行（口诀：无罪无罚，要钱要命）</li>
+<li>监狱：有期、无期、死刑（缓2年以上的）</li>
+</ul>
+</blockquote>
+<h2 id="盘问-检查权"><a class="markdownIt-Anchor" href="#盘问-检查权"></a> 盘问、检查权</h2>
+<p>经盘问、检查，有下列情形之一的，可继续盘问（立即通知其家属或所在单位）</p>
 <ol>
-<li>重大误解</li>
-<li>欺诈</li>
-<li>胁迫</li>
-<li>显失公平</li>
+<li>被指控犯罪</li>
+<li>有现场作案嫌疑</li>
+<li>有作案嫌疑身份不明的</li>
+<li>携带的物品可能是赃物的</li>
 </ol>
-<p>因紧急避险造成损害的，由引起险情发生的人承担民事责任（<strong>因自然原因的除外</strong>）</p>
-<p>因保护他人权益导致自己收到损害的，由侵权人承担民事责任。<strong>若无侵权人、侵权人逃逸或无力承担民事责任，受害人请求补偿，受益人应当补偿。</strong><br />
-因自愿实施紧急救助行为造成受助人损害的，救助人不承担民事责任</p>
-<h2 id="诉讼时效"><a class="markdownIt-Anchor" href="#诉讼时效"></a> 诉讼时效</h2>
-<p>向人民法院请求保护民事权利的诉讼时效期限为三年。<br />
-诉讼时效期限自权利人知道或应当知道权利受到损害之日起算。<br />
-自权利受到损害之日起超过二十年的，法院不予保护。</p>
+<h2 id="武器使用权"><a class="markdownIt-Anchor" href="#武器使用权"></a> 武器使用权</h2>
+<p>武器指致命性警用武器（主要有手枪、冲锋枪、步枪、机枪、防暴枪）</p>
+<h2 id="现场管制权"><a class="markdownIt-Anchor" href="#现场管制权"></a> 现场管制权</h2>
+<p><strong>现场管制由上级公安机关和同级人民政府双重审批</strong></p>
 ]]></content>
       <categories>
         <category>笔记</category>
@@ -1502,6 +1133,29 @@ F --> H</pre>
       </tags>
   </entry>
   <entry>
+    <title>公专要点-法律基础知识-监察法</title>
+    <url>/2024/04/17/ga/%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%9B%91%E5%AF%9F%E6%B3%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="总则"><a class="markdownIt-Anchor" href="#总则"></a> 总则</h1>
+<p>监察委对所有行使公权力的公职人员进行监察，调查职务违法和职务犯罪。<br />
+监察委依照法律规定独立行使监察权，不受行政机关、社会团体和个人干涉。<br />
+与审判、检查、执法部门互相配合、互相制约。</p>
+<span id="more"></span>
+<h1 id="监察机关及其职责"><a class="markdownIt-Anchor" href="#监察机关及其职责"></a> 监察机关及其职责</h1>
+<p><strong>国家监察委由全国人大产生，主任由全国人大选举</strong><br />
+<strong>主任连续任职不得超过两届</strong><br />
+上级监察委领导（不是指导）下级监察委<br />
+地方各级监察委由本级人大产生，<strong>其主任每届任期同本级人大每届任期相同</strong><br />
+职责：监督、调查、处置。</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>法律基础知识</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>公专要点-法律基础知识-行政法</title>
     <url>/2024/04/17/ga/%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E8%A1%8C%E6%94%BF%E6%B3%95/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="行政法基本原则"><a class="markdownIt-Anchor" href="#行政法基本原则"></a> 行政法基本原则</h1>
@@ -1669,6 +1323,650 @@ D --> E[救济途径]</pre>
       <tags>
         <tag>公安专业知识</tag>
         <tag>法律基础知识</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-行政执法能力-勘验检查</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%8B%98%E9%AA%8C%E6%A3%80%E6%9F%A5/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="检查"><a class="markdownIt-Anchor" href="#检查"></a> 检查</h2>
+<h3 id="定义"><a class="markdownIt-Anchor" href="#定义"></a> 定义</h3>
+<p><strong>对与违法行为有关的场所、物品、人身进行检查。</strong></p>
+<span id="more"></span>
+<h3 id="要点"><a class="markdownIt-Anchor" href="#要点"></a> 要点</h3>
+<p>确有必要立即检查时不需要出示检查证，事后<strong>不需补证</strong>。</p>
+<p>对不同的检查对象的规定：</p>
+<ol>
+<li>对妇女身体：除非此人十分危险，否则原则上应由女性<strong>工作人员</strong>进行。</li>
+<li>对卖淫嫖娼人员：由医生进行（不分男女）。</li>
+<li>对涉嫌吸毒人员：应进行吸毒检测。对拒绝受检的，经县级以上公机或派出所负责人批准可强制检测。对女性由女性工作人员进行。</li>
+</ol>
+<p>检查场所中<strong>要有检查人或见证人在场</strong>（见证人不能是民警/辅警。证人可以）。</p>
+<p>检查时的全程录像可代替书面检查笔录。</p>
+<p>鉴定费用由公机承担，当事人自行鉴定的除外。</p>
+<p>治安案件鉴定期间不计入办案时间，刑事案件需计入。（精神病除外）</p>
+<h2 id="辨认"><a class="markdownIt-Anchor" href="#辨认"></a> 辨认</h2>
+<p>辨认违法嫌疑人时，<strong>被辨认人不可少于七人</strong>，若使用照片辨认，<strong>不得少于十人照片</strong>。<br />
+辨认物品时，<strong>混杂的同类物品不得少于五件</strong>，尸体不受限。</p>
+<p><strong>辨认由办案民警和辨认人签名</strong>、按指印，必要时录音录像。</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>行政执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-行政执法能力-询问查证</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="询问"><a class="markdownIt-Anchor" href="#询问"></a> 询问</h2>
+<p>询问笔录交由被询问人核对时，确认无误后被询问人应逐页签名或按指印。</p>
+<h2 id="传唤"><a class="markdownIt-Anchor" href="#传唤"></a> 传唤</h2>
+<p><strong>在询问笔录中注明嫌疑人到案经过、时间和离开时间。</strong><br />
+<strong>当场传唤事后不需要补证。</strong><br />
+传唤时间（最长24h）从嫌疑人到案起计算。<br />
+要将原因和依据告知被传唤人，并通知其家属原因、住所。</p>
+<span id="more"></span>
+<h3 id="强制传唤"><a class="markdownIt-Anchor" href="#强制传唤"></a> 强制传唤</h3>
+<p>批准：县级以上公机<strong>办案部门负责人</strong><br />
+条件：</p>
+<ol>
+<li>已经经过传唤</li>
+<li>对象无正当理由拒传、逃传。<br />
+<strong>需要文书《行政强制决定书》</strong><br />
+**当场实施行政强制措施，需要在24h内向所属机关报告。**若限制自由则回单位后要立即报告，并补文书。</li>
+</ol>
+<h3 id="刑事传唤"><a class="markdownIt-Anchor" href="#刑事传唤"></a> 刑事传唤</h3>
+<p>时间：12h➡️24h<br />
+无强制传唤，对应措施为拘传。<strong>拘传不能补证和手续，拘传必须带证。</strong><br />
+<strong>可不通知家属。</strong></p>
+<h3 id="异地传唤"><a class="markdownIt-Anchor" href="#异地传唤"></a> 异地传唤</h3>
+<p>协作地公机协助将嫌疑人传唤到其所在市县的指定地点或到其住所/单位。<br />
+<strong>需要三证齐全：办案协作函、警察证、传唤证。</strong></p>
+<h3 id="关于未成年人"><a class="markdownIt-Anchor" href="#关于未成年人"></a> 关于未成年人</h3>
+<p>通知其父母/其他监护人到场。若此二者无法到场，则通知其他成年亲属或所在学校、单位、居住地基层组织或未成年人保护组织代表到场。</p>
+<blockquote>
+<p>未成年的判定：依据《公安机关办理行政案件程序规定》为未满18岁，依据《治安管理处罚法》为未满16岁。</p>
+</blockquote>
+<h3 id="关于特殊人群"><a class="markdownIt-Anchor" href="#关于特殊人群"></a> 关于特殊人群</h3>
+<p>对于聋哑人和语言不通者，需要在询问笔录中注明情况和翻译人的姓名住址、单位、联系方式</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>行政执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-行政执法能力-受案与管辖</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%8F%97%E6%A1%88%E7%AE%A1%E8%BE%96/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="受案"><a class="markdownIt-Anchor" href="#受案"></a> 受案</h1>
+<h2 id="案件来源"><a class="markdownIt-Anchor" href="#案件来源"></a> 案件来源</h2>
+<p>报案、控告、群众扭送、投案、其它国家机关移送、日常执勤发现、上级交办等。<strong>其中报案、控告、举报可口头可书面。</strong></p>
+<h2 id="网上登记"><a class="markdownIt-Anchor" href="#网上登记"></a> 网上登记</h2>
+<p>无论哪种来源，均需要网上接报案登记。例外情况：</p>
+<ol>
+<li>涉及国家机密</li>
+<li>重复报案、案件正在办理或已经办结。</li>
+</ol>
+<span id="more"></span>
+<h2 id="案件审查"><a class="markdownIt-Anchor" href="#案件审查"></a> 案件审查</h2>
+<h3 id="属于本单位管辖"><a class="markdownIt-Anchor" href="#属于本单位管辖"></a> 属于本单位管辖</h3>
+<p>立即调查处理，作<strong>受案登记表和受案回执</strong>（受案回执接收对象不是移送案件的国家机关），接收证据则出具<strong>接收证据清单</strong><br />
+受案审查期限：24h ➡️ 3d</p>
+<blockquote>
+<p>刑事案件先受案再立案（3d➡️7d➡️县级以上公机批准可30d）<br />
+接收证据清单是治安案件，接收证据<strong>材料</strong>清单是刑事案件</p>
+</blockquote>
+<p>若不属于公安职责范围内或属于公安职责范围内但不属于本单位管辖的，<strong>不作受案登记表，在网上注明相关情况。</strong></p>
+<h3 id="属于其它公安管辖"><a class="markdownIt-Anchor" href="#属于其它公安管辖"></a> 属于其它公安管辖</h3>
+<p>一般情况：作<strong>移送案件通知书</strong>，告知报案人、控告人、举报人、扭送人、投案人。<br />
+移送时间：受理后24h内<br />
+移送管辖后，询问查证时间（8h➡️情况复杂可能拘留的24h）和扣押等措施的期限重新计算。</p>
+<h4 id="需要先采取处置措施再移送的情形"><a class="markdownIt-Anchor" href="#需要先采取处置措施再移送的情形"></a> 需要先采取处置措施再移送的情形：</h4>
+<ol>
+<li>正在实施危害行为</li>
+<li>正在实施违法行为或现行犯被扭送</li>
+<li>在逃嫌疑人已被抓获/发现</li>
+<li>有人员伤亡需要立刻救治的</li>
+</ol>
+<h3 id="不属公安管辖"><a class="markdownIt-Anchor" href="#不属公安管辖"></a> 不属公安管辖</h3>
+<ol>
+<li>口头告知</li>
+<li>书面告知：<strong>《不予调查处理告知书》</strong></li>
+</ol>
+<h1 id="管辖"><a class="markdownIt-Anchor" href="#管辖"></a> 管辖</h1>
+<h2 id="级别管辖"><a class="markdownIt-Anchor" href="#级别管辖"></a> 级别管辖</h2>
+<ol>
+<li>受案级别管辖：县级以上公安机关可以管所有，<strong>派出所除涉外案件以外</strong>大部分案件均可管辖</li>
+<li>处罚权级别管辖：派出所有权决定<strong>警告、500元以下罚款</strong>处罚</li>
+</ol>
+<h2 id="地域管辖"><a class="markdownIt-Anchor" href="#地域管辖"></a> 地域管辖</h2>
+<h3 id="原则由违法行为地公安机关优先管辖"><a class="markdownIt-Anchor" href="#原则由违法行为地公安机关优先管辖"></a> 原则：由违法行为地公安机关优先管辖</h3>
+<p>由行为人居住地公安机关管辖更适宜亦可，例外情况：<br />
+<strong>卖淫 嫖娼 赌博 毒品相关案件只能由行为地公安机关管辖。</strong></p>
+<blockquote>
+<p>口诀：<strong>黄赌毒行为地管辖</strong>，且不适用于当场处罚。</p>
+</blockquote>
+<p><strong>违法行为地包括：行为发生地、结果发生地。</strong><br />
+居住地包括：户籍所在地、<strong>经常居住地（离开户籍所在地后连续居住一年以上的地区。医院就医除外。）</strong></p>
+<p>吸毒管辖的例外：发现地公安机关可按照违法行为发生地原则予以管辖。但如果实际发生地公机已对相关人员处理的，发现地公机不得对同一行为作出处理决定。</p>
+<p><strong>行驶中的客车上发生的行政案件，由案发后客车最初停靠地公机管辖</strong>；必要时始发地、途经地、到达地公机亦可。</p>
+<h2 id="共同管辖"><a class="markdownIt-Anchor" href="#共同管辖"></a> 共同管辖</h2>
+<p><strong>多个公机对同一案件都有管辖权时，由最初受理地公机管辖</strong>，必要时可由主要违法行为地公机管辖。</p>
+<h2 id="网络违法管辖"><a class="markdownIt-Anchor" href="#网络违法管辖"></a> 网络违法管辖</h2>
+<p><strong>沾边就可管</strong>（服务器所在地、网络接入地、网站建立者或管理者所在地、被侵害的网络及其运营者所在地、违法行为人/被侵害人使用的网络及其运营者所在地、被侵害人被侵害时所在地、财产遭受损失地）</p>
+<p>境外赌博：通过网络方式参与境外赌博的，由行为人所在地公机管辖。若赴境外参与赌博且输赢结算地在国内的，由结算地公机管辖。</p>
+<h2 id="专门管辖"><a class="markdownIt-Anchor" href="#专门管辖"></a> 专门管辖</h2>
+<p>指发生在特殊区域内的行政案件，由铁路、民航、海关缉私公机管辖。<br />
+**倒卖、伪造、变造火车票的，由最初受理的铁路或地方公机管辖。**必要时可移送主要违法行为发生地。</p>
+<h2 id="指定管辖"><a class="markdownIt-Anchor" href="#指定管辖"></a> 指定管辖</h2>
+<p><strong>多个公机对管辖发生争议，协商不成的报请共同上级公机指定管辖</strong><br />
+重大复杂案件，上级公机可直接指定管辖或直接办理。</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>行政执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-行政执法能力-执行</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E6%89%A7%E8%A1%8C/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="拘留执行"><a class="markdownIt-Anchor" href="#拘留执行"></a> 拘留执行</h2>
+<h3 id="异地拘留"><a class="markdownIt-Anchor" href="#异地拘留"></a> 异地拘留</h3>
+<p>在异地被抓获或有必要在异地拘留所执行的，经异地拘留所主管公机批准可在异地执行。</p>
+<p>若同时被拘留和强制隔离戒毒，在形式上先拘留，之后再强制隔离戒毒。拘留期限包含入强制隔离期限。</p>
+<span id="more"></span>
+<blockquote>
+<p>补充：社区戒毒与强制隔离戒毒<br />
+社区戒毒：三年 强制隔离戒毒：二年（可延长一年）</p>
+</blockquote>
+<h3 id="暂缓拘留"><a class="markdownIt-Anchor" href="#暂缓拘留"></a> 暂缓拘留</h3>
+<p>被处罚人对拘留决定不服，提起复议或诉讼，可向相应公机提出暂缓行政拘留的申请<br />
+决定：公机在24h内作出决定。<br />
+条件：</p>
+<ol>
+<li>不致发生社会危险</li>
+<li>被处罚人要有担保人或按每日200元的标准缴纳保证金。<br />
+担保人条件：
+<ol>
+<li>与本案无牵连</li>
+<li>享有政治权利</li>
+<li>在当地有常住户口和固定住所</li>
+<li>有能力履行担保义务<br />
+文书：《暂缓执行行政拘留决定书》，一式三份，一份被执行人，一份附卷，一份拘留所。</li>
+</ol>
+</li>
+</ol>
+<h2 id="结案与终止调查"><a class="markdownIt-Anchor" href="#结案与终止调查"></a> 结案与终止调查</h2>
+<h4 id="结案"><a class="markdownIt-Anchor" href="#结案"></a> 结案</h4>
+<ol>
+<li>不予处罚</li>
+<li>调解</li>
+<li>作出处罚决定</li>
+<li>转刑事</li>
+<li>执行对象灭失、死亡</li>
+</ol>
+<h4 id="终止调查"><a class="markdownIt-Anchor" href="#终止调查"></a> 终止调查</h4>
+<ol>
+<li>没有违法事实的</li>
+<li>过追究失效的</li>
+<li>嫌疑人死亡的</li>
+<li>其它情形</li>
+</ol>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>行政执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-行政执法能力-治安调解</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E6%B2%BB%E5%AE%89%E8%B0%83%E8%A7%A3/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="适用情形"><a class="markdownIt-Anchor" href="#适用情形"></a> 适用情形</h2>
+<p><strong>针对民间纠纷且情节较轻的（违反治安管理）</strong>：</p>
+<ol>
+<li>亲友、邻里、同事、在校生之间的琐事引起的</li>
+<li>行为人的侵害行为系由被侵害人事前的过错引起的</li>
+<li>其它适用调解处理更易化解矛盾的</li>
+</ol>
+<span id="more"></span>
+<h2 id="不适用情形"><a class="markdownIt-Anchor" href="#不适用情形"></a> 不适用情形</h2>
+<ol>
+<li>雇凶伤害他人</li>
+<li>结伙斗殴或其它寻衅滋事</li>
+<li>三次以上违反治安管理</li>
+<li>调解过程中当事人又针对对方实施违法行为</li>
+<li>调解时嫌疑人逃跑</li>
+<li>其它情形</li>
+</ol>
+<h2 id="调解协议书"><a class="markdownIt-Anchor" href="#调解协议书"></a> 调解协议书</h2>
+<p><strong>一式三份，双方当事人各一份，调解机关留一份。</strong><br />
+若当事人基本情况、违法事实、协议内容在现场录音录像中明确有记录，可不作调解协议书。</p>
+<h2 id="其它要点"><a class="markdownIt-Anchor" href="#其它要点"></a> 其它要点</h2>
+<p>被侵害人可委托他人参加调解，需要向公安机关提交委托书。<br />
+<strong>调解一般为一次。一次不成的可再次调解。</strong><br />
+损害赔偿调解不成的，告知当事人向法院提起民事诉讼。</p>
+<h3 id="期限"><a class="markdownIt-Anchor" href="#期限"></a> 期限</h3>
+<p>第一次：三日内<br />
+第二次：七日<br />
+<strong>伤情鉴定时间不算在内。</strong></p>
+<h3 id="协议履行"><a class="markdownIt-Anchor" href="#协议履行"></a> 协议履行</h3>
+<p>履行协议：不再处罚，结案。<br />
+不履行协议：应罚则罚，可诉讼。</p>
+<h3 id="调解案件"><a class="markdownIt-Anchor" href="#调解案件"></a> 调解案件</h3>
+<p>办案期限：从调解未达成协议或协议不履行之日计算。</p>
+<h2 id="刑事公诉案件和解"><a class="markdownIt-Anchor" href="#刑事公诉案件和解"></a> 刑事公诉案件和解</h2>
+<h4 id="情形"><a class="markdownIt-Anchor" href="#情形"></a> 情形</h4>
+<ol>
+<li>民间纠纷，可能判三年以下的</li>
+<li>过失犯罪，可能判七年以下的</li>
+<li>嫌犯五年内曾故意犯罪的除外</li>
+</ol>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>行政执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-行政执法能力-简易程序</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E7%AE%80%E6%98%93%E7%A8%8B%E5%BA%8F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="定义"><a class="markdownIt-Anchor" href="#定义"></a> 定义</h2>
+<p>当场决定（处罚决定），当场送达（行政处罚决定书），当场收缴并提供收缴物品清单（有违禁品的话），当场收缴不需先扣押。<br />
+黄赌毒不适用于当场处罚。（传播淫秽信息不算在内）</p>
+<span id="more"></span>
+<h2 id="当场处罚"><a class="markdownIt-Anchor" href="#当场处罚"></a> 当场处罚</h2>
+<h3 id="处罚内容"><a class="markdownIt-Anchor" href="#处罚内容"></a> 处罚内容</h3>
+<p>罚款：200元以下对个人，3000以下对组织或法人，<strong>不当场取走</strong> 警告：书面警告<br />
+罚款在三十五日内提交，逾期每日加处3%，加处罚款数额不超本金。</p>
+<h4 id="当场处罚决定书"><a class="markdownIt-Anchor" href="#当场处罚决定书"></a> 当场处罚决定书</h4>
+<p>一式两份，一份被处罚人，一份公机备案。有被侵害人的话，复印一份送达被侵害人。</p>
+<h3 id="实施顺序"><a class="markdownIt-Anchor" href="#实施顺序"></a> 实施顺序</h3>
+<ol>
+<li>表明执法身份</li>
+<li>收集证据</li>
+<li>口头告知行为人拟作出处罚决定的内容于事实、理由、依据，告知其有陈述权、申辩权。</li>
+<li>听取陈述、申辩</li>
+<li>填写当场处罚决定书并当场交付被处罚人。</li>
+<li>当场收缴罚款的，同时填写罚款收据并交付。</li>
+</ol>
+<h3 id="24h原则"><a class="markdownIt-Anchor" href="#24h原则"></a> 24h原则</h3>
+<p>**民警当场作出处罚决定后，在24h内将决定书送达所属公机备案。**例外：交警为二日内。<br />
+在旅客列车、民航飞机、水上作出决定的，在返回后的24h内上交备案。</p>
+<h2 id="当场收缴"><a class="markdownIt-Anchor" href="#当场收缴"></a> 当场收缴</h2>
+<h3 id="情形"><a class="markdownIt-Anchor" href="#情形"></a> 情形</h3>
+<ol>
+<li>50元以下的</li>
+<li>被处罚人向指定银行缴纳确有困难，经被处罚人提出。</li>
+<li>被处罚人在当地无固定住所，不当场收缴后难以执行。</li>
+</ol>
+<h3 id="2日原则"><a class="markdownIt-Anchor" href="#2日原则"></a> 2日原则</h3>
+<p><strong>收款后2日内上交，在水上或车上收缴的在返回后2日内上交</strong>。公机收款后2日内交入指定银行</p>
+<p><strong>当场处罚的罚款不当场收走，与当场收缴相反。</strong></p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>行政执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-行政执法能力-证据保全</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E8%AF%81%E6%8D%AE%E4%BF%9D%E5%85%A8/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="先行登记保存"><a class="markdownIt-Anchor" href="#先行登记保存"></a> 先行登记保存</h2>
+<p>证据可能灭失或以后难以取得的情况下，经公机<strong>办案部门负责人</strong>批准，可先行登记保存</p>
+<h2 id="要点"><a class="markdownIt-Anchor" href="#要点"></a> 要点</h2>
+<p>文书：<strong>《证据保全决定书》附《证据保全清单》</strong><br />
+期限：三十日，经县级以上公机负责人批准可延长三十日</p>
+<span id="more"></span>
+<h3 id="扣押-收缴-追缴的关系与区别"><a class="markdownIt-Anchor" href="#扣押-收缴-追缴的关系与区别"></a> 扣押、收缴、追缴的关系与区别</h3>
+<p>扣押是收缴与追缴的前置程序。<br />
+<strong>无没收的说法</strong><br />
+扣押与现场挂钩，收缴/追缴不是。收缴/追缴在《行政处罚决定书》中体现。</p>
+<h4 id="收缴"><a class="markdownIt-Anchor" href="#收缴"></a> 收缴</h4>
+<p>对象：违禁品或非法财物。如黄赌毒作案工具、伪造/变造的票、证等、实施毒品违法行为的资金。<br />
+<strong>特例：嫖资属追缴的范围。</strong><br />
+决定：县级以上公机决定。<br />
+派出所可收缴的范围：违禁品、管制器具、吸食/注射毒品的工具、500元以下非法财物，且当事人无异议。</p>
+<h4 id="追缴"><a class="markdownIt-Anchor" href="#追缴"></a> 追缴</h4>
+<p>对象：违法所得。如盗窃所得物。<br />
+决定：县级以上公机。<br />
+派出所可收缴范围：应退还被害人的财物。</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>行政执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-刑事执法能力-刑事强制措施</title>
+    <url>/2024/02/18/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="拘传"><a class="markdownIt-Anchor" href="#拘传"></a> 拘传</h2>
+<h3 id="决定"><a class="markdownIt-Anchor" href="#决定"></a> 决定</h3>
+<p>公检法都能决定、执行。<strong>谁决定谁执行</strong>。</p>
+<h3 id="对象"><a class="markdownIt-Anchor" href="#对象"></a> 对象</h3>
+<p>未被羁押的嫌犯<br />
+可拘传到其所在市县内的公机执法办案场所讯问</p>
+<span id="more"></span>
+<h3 id="审批"><a class="markdownIt-Anchor" href="#审批"></a> 审批</h3>
+<ol>
+<li>部门作《呈请拘传报告书》，经县级以上公机负责人批准，向目标出示拘传证。<strong>不能补证</strong>。</li>
+<li>向目标出示拘传证后，责令其在拘传证上签名、按指印。</li>
+<li>目标到案后，责令其在拘传证上填写到案时间。拘传结束后写拘传结束时间。</li>
+<li>和传唤的区别：
+<ul>
+<li>主体不同：拘传是县以上公机负责人，<strong>传唤是办案部门负责人</strong></li>
+<li>拘传可以直接用约束性警械。</li>
+</ul>
+</li>
+</ol>
+<h3 id="时间"><a class="markdownIt-Anchor" href="#时间"></a> 时间</h3>
+<p>&lt;12h,重大复杂、要拘留逮捕的，经县级以上公机负责人批准，可&lt;24h<br />
+不得连续拘传</p>
+<blockquote>
+<p>讯问询问、询问查证、口头传唤、书面传唤、拘传都是12-24</p>
+</blockquote>
+<h2 id="取保候审"><a class="markdownIt-Anchor" href="#取保候审"></a> 取保候审</h2>
+<h3 id="决定-执行-期限"><a class="markdownIt-Anchor" href="#决定-执行-期限"></a> 决定、执行、期限</h3>
+<p><strong>公检法都能决定，公安执行。</strong><br />
+<strong>期限：12个月</strong><br />
+执行：被取保候审人居住地派出所，办案部门可协助。被取保人在期间搬家，执行机关随之更换。</p>
+<h3 id="条件"><a class="markdownIt-Anchor" href="#条件"></a> 条件</h3>
+<ul>
+<li><strong>可能判处有期徒刑以下的</strong>（管制、拘役、独立适用附加刑的）</li>
+<li>不致发生社会危险性的、可能判有期及以上：
+<ul>
+<li>有严重疾病</li>
+<li>生活不能自理</li>
+<li>孕妇或正在哺乳</li>
+</ul>
+</li>
+<li>羁押期满案件尚未办结的。</li>
+</ul>
+<h3 id="禁止条件"><a class="markdownIt-Anchor" href="#禁止条件"></a> 禁止条件</h3>
+<p>累犯、集团主犯、自伤自残逃避侦查的、严重暴力的。但以下情况除外：</p>
+<ul>
+<li>有严重疾病</li>
+<li>生活不能自理</li>
+<li>孕妇或正在哺乳</li>
+<li>羁押期满但案未办结</li>
+</ul>
+<h3 id="保证金"><a class="markdownIt-Anchor" href="#保证金"></a> 保证金</h3>
+<ul>
+<li>数额：<strong>1000元以上</strong>。数额由决定机关来决定。</li>
+<li><strong>针对未成年人优先适用人保</strong>，保证金起点500元。</li>
+<li>只能是人民币。</li>
+<li>提供保证金的人将钱存入执行机关指定的银行账户。</li>
+<li>退还：未违反规定的，取保候审解除后可携带相关文书到银行领取。</li>
+<li>对没收保证金不服的，可同级复议上级复核</li>
+</ul>
+<h3 id="保证人"><a class="markdownIt-Anchor" href="#保证人"></a> 保证人</h3>
+<ul>
+<li>适用情况
+<ul>
+<li>无力缴纳保证金的</li>
+<li>未成年人、年满75的</li>
+</ul>
+</li>
+<li>保证人条件
+<ul>
+<li>与本案无牵连</li>
+<li>享有政治权利，人身自由未受限</li>
+<li>有固定住处、收入。</li>
+</ul>
+</li>
+<li>保证人责任：
+<ul>
+<li>行政责任：<strong>违约处1000元以上2万元以下罚款</strong></li>
+<li>刑事责任</li>
+<li>无民事责任</li>
+</ul>
+</li>
+<li>保证人对罚款不服的，可同级复议上级复核</li>
+</ul>
+<h3 id="法定义务"><a class="markdownIt-Anchor" href="#法定义务"></a> 法定义务：</h3>
+<ul>
+<li>随叫随到</li>
+<li>未经执行机关批准不得离开市县</li>
+<li>传讯时及时到案</li>
+<li>不得已任何形式干扰证人作证</li>
+<li>不得毁证、伪证、串供</li>
+</ul>
+<h3 id="酌定义务"><a class="markdownIt-Anchor" href="#酌定义务"></a> 酌定义务</h3>
+<ul>
+<li>不得进入特定场所</li>
+<li>不得与特定人员会见、通信</li>
+<li>不得从事特定活动</li>
+<li>将护照等出入境证件、驾驶证交执行机关保存</li>
+</ul>
+<h2 id="监视居住"><a class="markdownIt-Anchor" href="#监视居住"></a> 监视居住</h2>
+<p>公检法决定，公安执行。<br />
+执行机关：被监视居住人住处或特定居所所在地派出所。<br />
+期限：6个月</p>
+<h3 id="适用条件"><a class="markdownIt-Anchor" href="#适用条件"></a> 适用条件</h3>
+<ul>
+<li>有严重疾病、生活不能自理、孕妇或哺乳期妇女</li>
+<li>是生活不能自理的人的唯一抚养人</li>
+<li>办案需要的特殊情况</li>
+<li>羁押期满未办结的</li>
+<li>无保证金也无保证人的</li>
+</ul>
+<h3 id="监视地址"><a class="markdownIt-Anchor" href="#监视地址"></a> 监视地址</h3>
+<ul>
+<li>在其住所。无固定住所的，在制定住所执行。</li>
+<li>涉嫌国恐，在住处有碍侦查的，经上级公机批准可在指定居所。<strong>（没有黑、毒）</strong></li>
+</ul>
+<h3 id="通知义务"><a class="markdownIt-Anchor" href="#通知义务"></a> 通知义务</h3>
+<p>24h内通知家属。除非无家属、联系不上家属、不可抗力阻碍、告知家属有碍案件公正办理的。</p>
+<h3 id="被监视居住人义务"><a class="markdownIt-Anchor" href="#被监视居住人义务"></a> 被监视居住人义务</h3>
+<ul>
+<li>不得擅自离开（经执行机关负责人或办案部门负责人批准可以）</li>
+<li>不得擅自会见他人或通信，共同居住人、律师除外（经执行机关负责人或办案部门负责人批准可以）</li>
+<li>护照、身份证、驾驶证交执行机关保存</li>
+<li>···</li>
+</ul>
+<h3 id="违反规定的后果"><a class="markdownIt-Anchor" href="#违反规定的后果"></a> 违反规定的后果</h3>
+<p>责令被监视居住人具结悔过或给予治安管理处罚<br />
+情节严重的可逮捕（可先行拘留）</p>
+<h3 id="折抵刑期"><a class="markdownIt-Anchor" href="#折抵刑期"></a> 折抵刑期</h3>
+<p>条件：在特定居所监视居住。<br />
+被判处管制的，监视居住一日折抵刑期一日<br />
+被判处拘役、有期的，每二日折抵一日</p>
+<h2 id="刑事拘留"><a class="markdownIt-Anchor" href="#刑事拘留"></a> 刑事拘留</h2>
+<h3 id="决定与执行"><a class="markdownIt-Anchor" href="#决定与执行"></a> 决定与执行</h3>
+<p>公检决定，公安执行</p>
+<h3 id="对象-2"><a class="markdownIt-Anchor" href="#对象-2"></a> 对象</h3>
+<p>现行犯、重大嫌疑分子</p>
+<h3 id="情形"><a class="markdownIt-Anchor" href="#情形"></a> 情形</h3>
+<ul>
+<li>计谋在计划实施和事后被即使发觉的（东窗事发）</li>
+<li>被人指认</li>
+<li>证据在旁</li>
+<li>逃跑自杀</li>
+<li>毁证串供</li>
+<li>身份虚假</li>
+<li>重大流窜</li>
+</ul>
+<h3 id="文书"><a class="markdownIt-Anchor" href="#文书"></a> 文书</h3>
+<pre class="mermaid">flowchart LR
+A[办案部门作呈请拘留报告书] --> B[县级以上公机批准] --> C[制作拘留证]</pre>
+<blockquote>
+<p>所有的呈请类文书都属于侦查卷，不移交检察院</p>
+</blockquote>
+<p><strong>执行拘留时必须出示拘留证</strong></p>
+<h3 id="24h内的三项义务"><a class="markdownIt-Anchor" href="#24h内的三项义务"></a> 24h内的三项义务</h3>
+<ul>
+<li>送看守所，异地24h内无法送到的，在24h内送抓获地看守所羁押</li>
+<li>通知家属，送《拘留通知书》，犯国恐案件的除外</li>
+<li>24h讯问</li>
+</ul>
+<h3 id="期限"><a class="markdownIt-Anchor" href="#期限"></a> 期限</h3>
+<ul>
+<li>刑拘起算时间：从拘留证宣布时间起算</li>
+<li>从拘留证签发时间至宣布时间之间无期限限制</li>
+<li>延长期限文书《呈请延长拘留期限报告书》</li>
+<li><strong>一般：3+7，复杂：7+7，多次（3次以上），结伙（2人以上）、流窜：30+7</strong></li>
+</ul>
+<h2 id="逮捕"><a class="markdownIt-Anchor" href="#逮捕"></a> 逮捕</h2>
+<h3 id="决定与执行-2"><a class="markdownIt-Anchor" href="#决定与执行-2"></a> 决定与执行</h3>
+<p>公检决定，公安执行</p>
+<h3 id="执行要求"><a class="markdownIt-Anchor" href="#执行要求"></a> 执行要求</h3>
+<ul>
+<li>必须出示逮捕证，县级以上公安负责人签发</li>
+<li>2人以上执行，立即送到看守所羁押</li>
+<li>24h内将原因和位置通知家属（国恐也要通知）</li>
+<li>24h内讯问</li>
+<li>异地执行的，通知所在地公安配合</li>
+</ul>
+<h2 id="补充侦查"><a class="markdownIt-Anchor" href="#补充侦查"></a> 补充侦查</h2>
+<h3 id="批捕阶段"><a class="markdownIt-Anchor" href="#批捕阶段"></a> 批捕阶段</h3>
+<p>无期限、次数限制</p>
+<h3 id="审查起诉阶段"><a class="markdownIt-Anchor" href="#审查起诉阶段"></a> 审查起诉阶段</h3>
+<p>主体：公机或检察院自侦部门<br />
+期限：2次为限，一次一个月<br />
+后果：</p>
+<ul>
+<li>经过一次补充侦查，证据仍然不足的，可不起诉</li>
+<li>经过两次补充侦查，证据仍然不足的，应不起诉<br />
+期限计算：补充侦查完毕，审查起诉期限应重新计算。</li>
+</ul>
+<h2 id="补充"><a class="markdownIt-Anchor" href="#补充"></a> 补充</h2>
+<p>公机因认为强制措施不当而释放被逮捕或变更逮捕措施的，应当通知批捕的检察院</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>刑事执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-行政执法能力-行政处理决定</title>
+    <url>/2023/12/05/ga/%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E8%A1%8C%E6%94%BF%E5%A4%84%E7%90%86%E5%86%B3%E5%AE%9A/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
+<p>本篇内容存在省略。</p>
+</blockquote>
+<h2 id="行政处罚"><a class="markdownIt-Anchor" href="#行政处罚"></a> 行政处罚</h2>
+<p>一般处罚都是由县级以上公机作出。警告和500以下罚款为派出所。</p>
+<p>一人有两种以上违法行为的，合并执行，制作一份决定书即可。<br />
+一案有多个行为人的，分别决定，制一式多份决定书。</p>
+<span id="more"></span>
+<h3 id="罚款不同于罚金"><a class="markdownIt-Anchor" href="#罚款不同于罚金"></a> 罚款（不同于罚金）</h3>
+<h4 id="范围"><a class="markdownIt-Anchor" href="#范围"></a> 范围</h4>
+<ol>
+<li>个人罚最高：5000</li>
+<li>个人可听证：2000</li>
+<li>派出所最高：500</li>
+<li>适用简易程序：200</li>
+<li>当场收缴（无异议）：50<br />
+15日内到银行交，逾期每日加处3%，加处金额不得超过本金。</li>
+</ol>
+<h3 id="行政拘留"><a class="markdownIt-Anchor" href="#行政拘留"></a> 行政拘留</h3>
+<p>最长15天，多项违法行为合并执行的不超过20天。<br />
+文书：行政处罚决定书。刑拘的文书是拘留证。<strong>行政拘留无拘留证。</strong><br />
+不送拘留所执行的情形：</p>
+<ol>
+<li>已满14未满16的</li>
+<li>已满16未满18岁的，且为初犯</li>
+<li>70岁及以上的</li>
+<li>孕妇或哺乳期妇女</li>
+</ol>
+<h3 id="吊销公机发放的许可证"><a class="markdownIt-Anchor" href="#吊销公机发放的许可证"></a> 吊销公机发放的许可证</h3>
+<p>许可证指特种行业许可（旅馆、典当、印章、废品回收…）、枪支管理工作许可等。<br />
+<strong>营业执照不属于该范围。</strong></p>
+<h3 id="从轻减轻不予处罚从重"><a class="markdownIt-Anchor" href="#从轻减轻不予处罚从重"></a> 从轻/减轻/不予处罚/从重</h3>
+<h4 id="从轻减轻不予处罚的情形"><a class="markdownIt-Anchor" href="#从轻减轻不予处罚的情形"></a> 从轻减轻/不予处罚的情形：</h4>
+<ol>
+<li>主动消除或减轻后果，取得被害人谅解</li>
+<li>受胁迫或诱骗的</li>
+<li>盲人或<strong>又聋又哑</strong>的。</li>
+</ol>
+<h4 id="从重的情形"><a class="markdownIt-Anchor" href="#从重的情形"></a> 从重的情形</h4>
+<ol>
+<li>6个月内曾受治安处罚或一年内因同类（同类指大类，如“治安管理”“出入境管理”）行为受两次以上公安行政处罚的。</li>
+<li>刑罚执行完毕三个月内或在缓刑期间</li>
+<li>阻碍民警执行公务</li>
+</ol>
+<h4 id="关于减轻处罚"><a class="markdownIt-Anchor" href="#关于减轻处罚"></a> 关于减轻处罚：</h4>
+<p>规定拘留并处罚款：可单独降拘留、单独降罚款、拘留罚款同时降、单独拘留，不可单独罚款。<br />
+规定拘留<strong>可以</strong>并处罚款：只降拘留，不再罚款。</p>
+<h2 id="追溯时效"><a class="markdownIt-Anchor" href="#追溯时效"></a> 追溯时效</h2>
+<p>违反治安管理行为的：六个月。<br />
+其它违法行为：二年。<br />
+期限计算：从违法发生日起计算。持续性违法行为从结束日起算</p>
+<h2 id="办案期限"><a class="markdownIt-Anchor" href="#办案期限"></a> 办案期限</h2>
+<p>三十日，经上级公机批准可延长三十日<br />
+无限延长期限：行为人逃跑、不明等客观因素导致案件在法定期限内无法作出行政处理决定的。</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>行政执法能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-刑事执法能力-刑事案件管辖</title>
+    <url>/2023/12/07/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%E7%AE%A1%E8%BE%96/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="一般刑事案件"><a class="markdownIt-Anchor" href="#一般刑事案件"></a> 一般刑事案件</h2>
+<p>由犯罪地（行为地/结果地）公安管辖。<br />
+若由犯罪嫌疑人居住地公安管辖更合适的话亦可。</p>
+<blockquote>
+<p>居住地包括：户籍所在地、经常居住地、主要营业地或主要办事机构。</p>
+</blockquote>
+<span id="more"></span>
+<p>对于多个公机都有权管辖的案件，由最<strong>初受理公机</strong>管辖。必要时可由<strong>主要犯罪地</strong>公安管辖。</p>
+<h2 id="计算机网络犯罪"><a class="markdownIt-Anchor" href="#计算机网络犯罪"></a> 计算机网络犯罪</h2>
+<p>相关、沾边的地点就能管。</p>
+<h2 id="行驶中的交通工具"><a class="markdownIt-Anchor" href="#行驶中的交通工具"></a> 行驶中的交通工具</h2>
+<p>由交通工具<strong>最初停靠地</strong>公安管辖；<br />
+必要时，始发地、途经地、到达地公安也可管辖。</p>
+<h2 id="与监委会互涉案件的管辖"><a class="markdownIt-Anchor" href="#与监委会互涉案件的管辖"></a> 与监委会互涉案件的管辖</h2>
+<p><strong>仅针对刑事案件</strong><br />
+一般由<strong>监察机关</strong>为主调查，公机予以协助。</p>
+<h2 id="市局及以上管辖的案件"><a class="markdownIt-Anchor" href="#市局及以上管辖的案件"></a> 市局及以上管辖的案件</h2>
+<ul>
+<li>危害国家安全犯罪</li>
+<li>恐怖活动犯罪</li>
+<li>涉外犯罪</li>
+<li>经济犯罪</li>
+<li>集团犯罪</li>
+<li>跨区域犯罪</li>
+</ul>
+<h2 id="倒卖伪造变造火车票刑事案件"><a class="markdownIt-Anchor" href="#倒卖伪造变造火车票刑事案件"></a> 倒卖伪造变造火车票刑事案件</h2>
+<p>由<strong>最初受理案件</strong>的铁路公安或地方公安管辖，<br />
+必要时可移送<strong>主要犯罪地</strong>的铁路公安或地方公安管辖。</p>
+<blockquote>
+<p>口诀：黄牛倒票刑事案，铁路地方都能管，谁先抓到谁先管<br />
+列车上刑事案，铁路公安管，先在哪下哪里管</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>刑事执法能力</tag>
       </tags>
   </entry>
   <entry>
@@ -2011,276 +2309,6 @@ D --> E[救济途径]</pre>
       </tags>
   </entry>
   <entry>
-    <title>公专要点-刑事执法能力-刑事强制措施</title>
-    <url>/2024/02/18/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="拘传"><a class="markdownIt-Anchor" href="#拘传"></a> 拘传</h2>
-<h3 id="决定"><a class="markdownIt-Anchor" href="#决定"></a> 决定</h3>
-<p>公检法都能决定、执行。<strong>谁决定谁执行</strong>。</p>
-<h3 id="对象"><a class="markdownIt-Anchor" href="#对象"></a> 对象</h3>
-<p>未被羁押的嫌犯<br />
-可拘传到其所在市县内的公机执法办案场所讯问</p>
-<span id="more"></span>
-<h3 id="审批"><a class="markdownIt-Anchor" href="#审批"></a> 审批</h3>
-<ol>
-<li>部门作《呈请拘传报告书》，经县级以上公机负责人批准，向目标出示拘传证。<strong>不能补证</strong>。</li>
-<li>向目标出示拘传证后，责令其在拘传证上签名、按指印。</li>
-<li>目标到案后，责令其在拘传证上填写到案时间。拘传结束后写拘传结束时间。</li>
-<li>和传唤的区别：
-<ul>
-<li>主体不同：拘传是县以上公机负责人，<strong>传唤是办案部门负责人</strong></li>
-<li>拘传可以直接用约束性警械。</li>
-</ul>
-</li>
-</ol>
-<h3 id="时间"><a class="markdownIt-Anchor" href="#时间"></a> 时间</h3>
-<p>&lt;12h,重大复杂、要拘留逮捕的，经县级以上公机负责人批准，可&lt;24h<br />
-不得连续拘传</p>
-<blockquote>
-<p>讯问询问、询问查证、口头传唤、书面传唤、拘传都是12-24</p>
-</blockquote>
-<h2 id="取保候审"><a class="markdownIt-Anchor" href="#取保候审"></a> 取保候审</h2>
-<h3 id="决定-执行-期限"><a class="markdownIt-Anchor" href="#决定-执行-期限"></a> 决定、执行、期限</h3>
-<p><strong>公检法都能决定，公安执行。</strong><br />
-<strong>期限：12个月</strong><br />
-执行：被取保候审人居住地派出所，办案部门可协助。被取保人在期间搬家，执行机关随之更换。</p>
-<h3 id="条件"><a class="markdownIt-Anchor" href="#条件"></a> 条件</h3>
-<ul>
-<li><strong>可能判处有期徒刑以下的</strong>（管制、拘役、独立适用附加刑的）</li>
-<li>不致发生社会危险性的、可能判有期及以上：
-<ul>
-<li>有严重疾病</li>
-<li>生活不能自理</li>
-<li>孕妇或正在哺乳</li>
-</ul>
-</li>
-<li>羁押期满案件尚未办结的。</li>
-</ul>
-<h3 id="禁止条件"><a class="markdownIt-Anchor" href="#禁止条件"></a> 禁止条件</h3>
-<p>累犯、集团主犯、自伤自残逃避侦查的、严重暴力的。但以下情况除外：</p>
-<ul>
-<li>有严重疾病</li>
-<li>生活不能自理</li>
-<li>孕妇或正在哺乳</li>
-<li>羁押期满但案未办结</li>
-</ul>
-<h3 id="保证金"><a class="markdownIt-Anchor" href="#保证金"></a> 保证金</h3>
-<ul>
-<li>数额：<strong>1000元以上</strong>。数额由决定机关来决定。</li>
-<li><strong>针对未成年人优先适用人保</strong>，保证金起点500元。</li>
-<li>只能是人民币。</li>
-<li>提供保证金的人将钱存入执行机关指定的银行账户。</li>
-<li>退还：未违反规定的，取保候审解除后可携带相关文书到银行领取。</li>
-<li>对没收保证金不服的，可同级复议上级复核</li>
-</ul>
-<h3 id="保证人"><a class="markdownIt-Anchor" href="#保证人"></a> 保证人</h3>
-<ul>
-<li>适用情况
-<ul>
-<li>无力缴纳保证金的</li>
-<li>未成年人、年满75的</li>
-</ul>
-</li>
-<li>保证人条件
-<ul>
-<li>与本案无牵连</li>
-<li>享有政治权利，人身自由未受限</li>
-<li>有固定住处、收入。</li>
-</ul>
-</li>
-<li>保证人责任：
-<ul>
-<li>行政责任：<strong>违约处1000元以上2万元以下罚款</strong></li>
-<li>刑事责任</li>
-<li>无民事责任</li>
-</ul>
-</li>
-<li>保证人对罚款不服的，可同级复议上级复核</li>
-</ul>
-<h3 id="法定义务"><a class="markdownIt-Anchor" href="#法定义务"></a> 法定义务：</h3>
-<ul>
-<li>随叫随到</li>
-<li>未经执行机关批准不得离开市县</li>
-<li>传讯时及时到案</li>
-<li>不得已任何形式干扰证人作证</li>
-<li>不得毁证、伪证、串供</li>
-</ul>
-<h3 id="酌定义务"><a class="markdownIt-Anchor" href="#酌定义务"></a> 酌定义务</h3>
-<ul>
-<li>不得进入特定场所</li>
-<li>不得与特定人员会见、通信</li>
-<li>不得从事特定活动</li>
-<li>将护照等出入境证件、驾驶证交执行机关保存</li>
-</ul>
-<h2 id="监视居住"><a class="markdownIt-Anchor" href="#监视居住"></a> 监视居住</h2>
-<p>公检法决定，公安执行。<br />
-执行机关：被监视居住人住处或特定居所所在地派出所。<br />
-期限：6个月</p>
-<h3 id="适用条件"><a class="markdownIt-Anchor" href="#适用条件"></a> 适用条件</h3>
-<ul>
-<li>有严重疾病、生活不能自理、孕妇或哺乳期妇女</li>
-<li>是生活不能自理的人的唯一抚养人</li>
-<li>办案需要的特殊情况</li>
-<li>羁押期满未办结的</li>
-<li>无保证金也无保证人的</li>
-</ul>
-<h3 id="监视地址"><a class="markdownIt-Anchor" href="#监视地址"></a> 监视地址</h3>
-<ul>
-<li>在其住所。无固定住所的，在制定住所执行。</li>
-<li>涉嫌国恐，在住处有碍侦查的，经上级公机批准可在指定居所。<strong>（没有黑、毒）</strong></li>
-</ul>
-<h3 id="通知义务"><a class="markdownIt-Anchor" href="#通知义务"></a> 通知义务</h3>
-<p>24h内通知家属。除非无家属、联系不上家属、不可抗力阻碍、告知家属有碍案件公正办理的。</p>
-<h3 id="被监视居住人义务"><a class="markdownIt-Anchor" href="#被监视居住人义务"></a> 被监视居住人义务</h3>
-<ul>
-<li>不得擅自离开（经执行机关负责人或办案部门负责人批准可以）</li>
-<li>不得擅自会见他人或通信，共同居住人、律师除外（经执行机关负责人或办案部门负责人批准可以）</li>
-<li>护照、身份证、驾驶证交执行机关保存</li>
-<li>···</li>
-</ul>
-<h3 id="违反规定的后果"><a class="markdownIt-Anchor" href="#违反规定的后果"></a> 违反规定的后果</h3>
-<p>责令被监视居住人具结悔过或给予治安管理处罚<br />
-情节严重的可逮捕（可先行拘留）</p>
-<h3 id="折抵刑期"><a class="markdownIt-Anchor" href="#折抵刑期"></a> 折抵刑期</h3>
-<p>条件：在特定居所监视居住。<br />
-被判处管制的，监视居住一日折抵刑期一日<br />
-被判处拘役、有期的，每二日折抵一日</p>
-<h2 id="刑事拘留"><a class="markdownIt-Anchor" href="#刑事拘留"></a> 刑事拘留</h2>
-<h3 id="决定与执行"><a class="markdownIt-Anchor" href="#决定与执行"></a> 决定与执行</h3>
-<p>公检决定，公安执行</p>
-<h3 id="对象-2"><a class="markdownIt-Anchor" href="#对象-2"></a> 对象</h3>
-<p>现行犯、重大嫌疑分子</p>
-<h3 id="情形"><a class="markdownIt-Anchor" href="#情形"></a> 情形</h3>
-<ul>
-<li>计谋在计划实施和事后被即使发觉的（东窗事发）</li>
-<li>被人指认</li>
-<li>证据在旁</li>
-<li>逃跑自杀</li>
-<li>毁证串供</li>
-<li>身份虚假</li>
-<li>重大流窜</li>
-</ul>
-<h3 id="文书"><a class="markdownIt-Anchor" href="#文书"></a> 文书</h3>
-<pre class="mermaid">flowchart LR
-A[办案部门作呈请拘留报告书] --> B[县级以上公机批准] --> C[制作拘留证]</pre>
-<blockquote>
-<p>所有的呈请类文书都属于侦查卷，不移交检察院</p>
-</blockquote>
-<p><strong>执行拘留时必须出示拘留证</strong></p>
-<h3 id="24h内的三项义务"><a class="markdownIt-Anchor" href="#24h内的三项义务"></a> 24h内的三项义务</h3>
-<ul>
-<li>送看守所，异地24h内无法送到的，在24h内送抓获地看守所羁押</li>
-<li>通知家属，送《拘留通知书》，犯国恐案件的除外</li>
-<li>24h讯问</li>
-</ul>
-<h3 id="期限"><a class="markdownIt-Anchor" href="#期限"></a> 期限</h3>
-<ul>
-<li>刑拘起算时间：从拘留证宣布时间起算</li>
-<li>从拘留证签发时间至宣布时间之间无期限限制</li>
-<li>延长期限文书《呈请延长拘留期限报告书》</li>
-<li><strong>一般：3+7，复杂：7+7，多次（3次以上），结伙（2人以上）、流窜：30+7</strong></li>
-</ul>
-<h2 id="逮捕"><a class="markdownIt-Anchor" href="#逮捕"></a> 逮捕</h2>
-<h3 id="决定与执行-2"><a class="markdownIt-Anchor" href="#决定与执行-2"></a> 决定与执行</h3>
-<p>公检决定，公安执行</p>
-<h3 id="执行要求"><a class="markdownIt-Anchor" href="#执行要求"></a> 执行要求</h3>
-<ul>
-<li>必须出示逮捕证，县级以上公安负责人签发</li>
-<li>2人以上执行，立即送到看守所羁押</li>
-<li>24h内将原因和位置通知家属（国恐也要通知）</li>
-<li>24h内讯问</li>
-<li>异地执行的，通知所在地公安配合</li>
-</ul>
-<h2 id="补充侦查"><a class="markdownIt-Anchor" href="#补充侦查"></a> 补充侦查</h2>
-<h3 id="批捕阶段"><a class="markdownIt-Anchor" href="#批捕阶段"></a> 批捕阶段</h3>
-<p>无期限、次数限制</p>
-<h3 id="审查起诉阶段"><a class="markdownIt-Anchor" href="#审查起诉阶段"></a> 审查起诉阶段</h3>
-<p>主体：公机或检察院自侦部门<br />
-期限：2次为限，一次一个月<br />
-后果：</p>
-<ul>
-<li>经过一次补充侦查，证据仍然不足的，可不起诉</li>
-<li>经过两次补充侦查，证据仍然不足的，应不起诉<br />
-期限计算：补充侦查完毕，审查起诉期限应重新计算。</li>
-</ul>
-<h2 id="补充"><a class="markdownIt-Anchor" href="#补充"></a> 补充</h2>
-<p>公机因认为强制措施不当而释放被逮捕或变更逮捕措施的，应当通知批捕的检察院</p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>刑事执法能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>公专要点-刑事执法能力-刑事案件管辖</title>
-    <url>/2023/12/07/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%E7%AE%A1%E8%BE%96/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="一般刑事案件"><a class="markdownIt-Anchor" href="#一般刑事案件"></a> 一般刑事案件</h2>
-<p>由犯罪地（行为地/结果地）公安管辖。<br />
-若由犯罪嫌疑人居住地公安管辖更合适的话亦可。</p>
-<blockquote>
-<p>居住地包括：户籍所在地、经常居住地、主要营业地或主要办事机构。</p>
-</blockquote>
-<span id="more"></span>
-<p>对于多个公机都有权管辖的案件，由最<strong>初受理公机</strong>管辖。必要时可由<strong>主要犯罪地</strong>公安管辖。</p>
-<h2 id="计算机网络犯罪"><a class="markdownIt-Anchor" href="#计算机网络犯罪"></a> 计算机网络犯罪</h2>
-<p>相关、沾边的地点就能管。</p>
-<h2 id="行驶中的交通工具"><a class="markdownIt-Anchor" href="#行驶中的交通工具"></a> 行驶中的交通工具</h2>
-<p>由交通工具<strong>最初停靠地</strong>公安管辖；<br />
-必要时，始发地、途经地、到达地公安也可管辖。</p>
-<h2 id="与监委会互涉案件的管辖"><a class="markdownIt-Anchor" href="#与监委会互涉案件的管辖"></a> 与监委会互涉案件的管辖</h2>
-<p><strong>仅针对刑事案件</strong><br />
-一般由<strong>监察机关</strong>为主调查，公机予以协助。</p>
-<h2 id="市局及以上管辖的案件"><a class="markdownIt-Anchor" href="#市局及以上管辖的案件"></a> 市局及以上管辖的案件</h2>
-<ul>
-<li>危害国家安全犯罪</li>
-<li>恐怖活动犯罪</li>
-<li>涉外犯罪</li>
-<li>经济犯罪</li>
-<li>集团犯罪</li>
-<li>跨区域犯罪</li>
-</ul>
-<h2 id="倒卖伪造变造火车票刑事案件"><a class="markdownIt-Anchor" href="#倒卖伪造变造火车票刑事案件"></a> 倒卖伪造变造火车票刑事案件</h2>
-<p>由<strong>最初受理案件</strong>的铁路公安或地方公安管辖，<br />
-必要时可移送<strong>主要犯罪地</strong>的铁路公安或地方公安管辖。</p>
-<blockquote>
-<p>口诀：黄牛倒票刑事案，铁路地方都能管，谁先抓到谁先管<br />
-列车上刑事案，铁路公安管，先在哪下哪里管</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>刑事执法能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>公专要点-法律基础知识-监察法</title>
-    <url>/2024/04/17/ga/%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%9B%91%E5%AF%9F%E6%B3%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="总则"><a class="markdownIt-Anchor" href="#总则"></a> 总则</h1>
-<p>监察委对所有行使公权力的公职人员进行监察，调查职务违法和职务犯罪。<br />
-监察委依照法律规定独立行使监察权，不受行政机关、社会团体和个人干涉。<br />
-与审判、检查、执法部门互相配合、互相制约。</p>
-<span id="more"></span>
-<h1 id="监察机关及其职责"><a class="markdownIt-Anchor" href="#监察机关及其职责"></a> 监察机关及其职责</h1>
-<p><strong>国家监察委由全国人大产生，主任由全国人大选举</strong><br />
-<strong>主任连续任职不得超过两届</strong><br />
-上级监察委领导（不是指导）下级监察委<br />
-地方各级监察委由本级人大产生，<strong>其主任每届任期同本级人大每届任期相同</strong><br />
-职责：监督、调查、处置。</p>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>法律基础知识</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>公专要点-刑事执法能力-刑法分则</title>
     <url>/2023/12/06/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%88%91%E6%B3%95%E5%88%86%E5%88%99/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="亲告罪"><a class="markdownIt-Anchor" href="#亲告罪"></a> 亲告罪</h2>
@@ -2501,48 +2529,39 @@ A[办案部门作呈请拘留报告书] --> B[县级以上公机批准] --> C[�
       </tags>
   </entry>
   <entry>
-    <title>公专要点-刑事执法能力-刑法基本原则</title>
-    <url>/2023/12/06/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%88%91%E6%B3%95%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="基本原则"><a class="markdownIt-Anchor" href="#基本原则"></a> 基本原则</h2>
-<ol>
-<li>罪刑法定原则；</li>
-<li>法律面前人人平等；</li>
-<li>罪责刑相适应原则；
-<blockquote>
-<p>刑罚要犯罪性质相适应、又与犯罪情节相适应、犯罪人的人身危险性相适应。</p>
-</blockquote>
-</li>
-</ol>
+    <title>公专要点-刑事执法能力-刑罚量刑</title>
+    <url>/2023/12/06/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%88%91%E7%BD%9A%E9%87%8F%E5%88%91/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="累犯"><a class="markdownIt-Anchor" href="#累犯"></a> 累犯</h2>
+<p>对于累犯，应从重，不得缓释/假释。</p>
 <span id="more"></span>
-<h2 id="适用范围"><a class="markdownIt-Anchor" href="#适用范围"></a> 适用范围</h2>
-<h3 id="空间效力"><a class="markdownIt-Anchor" href="#空间效力"></a> 空间效力</h3>
-<h4 id="属地管辖中国境内"><a class="markdownIt-Anchor" href="#属地管辖中国境内"></a> 属地管辖（中国境内）</h4>
+<h3 id="累犯行为种类"><a class="markdownIt-Anchor" href="#累犯行为种类"></a> 累犯行为种类</h3>
+<h4 id="一般累犯"><a class="markdownIt-Anchor" href="#一般累犯"></a> 一般累犯</h4>
+<p>条件</p>
+<ol>
+<li>前后两罪都是故意犯罪；</li>
+<li>前后两罪都处以有期以上刑罚；</li>
+<li>后罪在前罪的刑罚执行完毕或赦免后的5年内；</li>
+<li>不满18者不成立。<br />
+注意</li>
+<li>假释/缓刑考验期内犯新罪，不构成累犯，应撤销假释/缓刑，适用数罪并罚。</li>
+<li>假释考验期满5年内又犯，构成</li>
+<li>缓刑考验期内犯，不构成</li>
+</ol>
+<h4 id="特别累犯"><a class="markdownIt-Anchor" href="#特别累犯"></a> 特别累犯</h4>
 <ul>
-<li>属地
+<li>前后两罪都是国（危害国家安全）、恐、黑犯罪；</li>
+<li>对前后两罪的刑罚内容无要求，有主刑则以其为主；</li>
+<li>后罪在前罪刑罚执行完毕或赦免后的任何期限内均可；</li>
+<li>未满18不成立。</li>
+</ul>
+<h2 id="自首-坦白-立功"><a class="markdownIt-Anchor" href="#自首-坦白-立功"></a> 自首、坦白、立功</h2>
+<p>可从轻减轻。情节较轻者可免除刑罚。</p>
+<h3 id="定义"><a class="markdownIt-Anchor" href="#定义"></a> 定义</h3>
 <ul>
-<li>领域：领陆、领水、领空、地下层、驻外使领馆、船舶（中国登记的船上）、航空层（中国登记的飞机上）。</li>
-<li><strong>犯罪地：行为地、结果地之一即可</strong>。</li>
+<li>自首：供述公安机关未掌握的本人罪行。</li>
+<li>坦白：供述公安机关已掌握的本人罪行。</li>
+<li>立功：揭发他人。</li>
 </ul>
-</li>
-<li>例外
-<ul>
-<li>有外交特权和豁免特权的外国人在境内犯罪，通过外交途径解决。</li>
-<li><strong>民族自治区、港澳台地区的犯罪适用本地区刑法，不适用大陆刑法</strong>。</li>
-</ul>
-</li>
-</ul>
-<h4 id="属人管辖中国人在国外犯罪"><a class="markdownIt-Anchor" href="#属人管辖中国人在国外犯罪"></a> 属人管辖（中国人在国外犯罪）</h4>
-<p><strong>最高刑为3年以下有期的可不追究。</strong><br />
-我国的国家工作人员和军人一律追究。</p>
-<h4 id="保护管辖外国人在国外对我国公民犯罪"><a class="markdownIt-Anchor" href="#保护管辖外国人在国外对我国公民犯罪"></a> 保护管辖（外国人在国外对我国公民犯罪）</h4>
-<p>重罪原则：最低刑为3年以上有期。<br />
-双重犯罪原则：依照犯罪地法律也应受刑罚处罚。</p>
-<h3 id="时间效力"><a class="markdownIt-Anchor" href="#时间效力"></a> 时间效力</h3>
-<p>从旧兼从轻<br />
-《中华人民共和国刑法》相关具体内容：</p>
-<blockquote>
-<p>第十二条　【溯及力】中华人民共和国成立以后本法施行以前的行为，如果当时的法律不认为是犯罪的，适用当时的法律;如果当时的法律认为是犯罪的，依照本法总则第四章第八节的规定应当追诉的，按照当时的法律追究刑事责任，但是如果本法不认为是犯罪或者处刑较轻的，适用本法。</p>
-</blockquote>
 ]]></content>
       <categories>
         <category>笔记</category>
@@ -2595,39 +2614,48 @@ A[办案部门作呈请拘留报告书] --> B[县级以上公机批准] --> C[�
       </tags>
   </entry>
   <entry>
-    <title>公专要点-刑事执法能力-刑罚量刑</title>
-    <url>/2023/12/06/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%88%91%E7%BD%9A%E9%87%8F%E5%88%91/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="累犯"><a class="markdownIt-Anchor" href="#累犯"></a> 累犯</h2>
-<p>对于累犯，应从重，不得缓释/假释。</p>
-<span id="more"></span>
-<h3 id="累犯行为种类"><a class="markdownIt-Anchor" href="#累犯行为种类"></a> 累犯行为种类</h3>
-<h4 id="一般累犯"><a class="markdownIt-Anchor" href="#一般累犯"></a> 一般累犯</h4>
-<p>条件</p>
+    <title>公专要点-刑事执法能力-刑法基本原则</title>
+    <url>/2023/12/06/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E5%88%91%E6%B3%95%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="基本原则"><a class="markdownIt-Anchor" href="#基本原则"></a> 基本原则</h2>
 <ol>
-<li>前后两罪都是故意犯罪；</li>
-<li>前后两罪都处以有期以上刑罚；</li>
-<li>后罪在前罪的刑罚执行完毕或赦免后的5年内；</li>
-<li>不满18者不成立。<br />
-注意</li>
-<li>假释/缓刑考验期内犯新罪，不构成累犯，应撤销假释/缓刑，适用数罪并罚。</li>
-<li>假释考验期满5年内又犯，构成</li>
-<li>缓刑考验期内犯，不构成</li>
+<li>罪刑法定原则；</li>
+<li>法律面前人人平等；</li>
+<li>罪责刑相适应原则；
+<blockquote>
+<p>刑罚要犯罪性质相适应、又与犯罪情节相适应、犯罪人的人身危险性相适应。</p>
+</blockquote>
+</li>
 </ol>
-<h4 id="特别累犯"><a class="markdownIt-Anchor" href="#特别累犯"></a> 特别累犯</h4>
+<span id="more"></span>
+<h2 id="适用范围"><a class="markdownIt-Anchor" href="#适用范围"></a> 适用范围</h2>
+<h3 id="空间效力"><a class="markdownIt-Anchor" href="#空间效力"></a> 空间效力</h3>
+<h4 id="属地管辖中国境内"><a class="markdownIt-Anchor" href="#属地管辖中国境内"></a> 属地管辖（中国境内）</h4>
 <ul>
-<li>前后两罪都是国（危害国家安全）、恐、黑犯罪；</li>
-<li>对前后两罪的刑罚内容无要求，有主刑则以其为主；</li>
-<li>后罪在前罪刑罚执行完毕或赦免后的任何期限内均可；</li>
-<li>未满18不成立。</li>
-</ul>
-<h2 id="自首-坦白-立功"><a class="markdownIt-Anchor" href="#自首-坦白-立功"></a> 自首、坦白、立功</h2>
-<p>可从轻减轻。情节较轻者可免除刑罚。</p>
-<h3 id="定义"><a class="markdownIt-Anchor" href="#定义"></a> 定义</h3>
+<li>属地
 <ul>
-<li>自首：供述公安机关未掌握的本人罪行。</li>
-<li>坦白：供述公安机关已掌握的本人罪行。</li>
-<li>立功：揭发他人。</li>
+<li>领域：领陆、领水、领空、地下层、驻外使领馆、船舶（中国登记的船上）、航空层（中国登记的飞机上）。</li>
+<li><strong>犯罪地：行为地、结果地之一即可</strong>。</li>
 </ul>
+</li>
+<li>例外
+<ul>
+<li>有外交特权和豁免特权的外国人在境内犯罪，通过外交途径解决。</li>
+<li><strong>民族自治区、港澳台地区的犯罪适用本地区刑法，不适用大陆刑法</strong>。</li>
+</ul>
+</li>
+</ul>
+<h4 id="属人管辖中国人在国外犯罪"><a class="markdownIt-Anchor" href="#属人管辖中国人在国外犯罪"></a> 属人管辖（中国人在国外犯罪）</h4>
+<p><strong>最高刑为3年以下有期的可不追究。</strong><br />
+我国的国家工作人员和军人一律追究。</p>
+<h4 id="保护管辖外国人在国外对我国公民犯罪"><a class="markdownIt-Anchor" href="#保护管辖外国人在国外对我国公民犯罪"></a> 保护管辖（外国人在国外对我国公民犯罪）</h4>
+<p>重罪原则：最低刑为3年以上有期。<br />
+双重犯罪原则：依照犯罪地法律也应受刑罚处罚。</p>
+<h3 id="时间效力"><a class="markdownIt-Anchor" href="#时间效力"></a> 时间效力</h3>
+<p>从旧兼从轻<br />
+《中华人民共和国刑法》相关具体内容：</p>
+<blockquote>
+<p>第十二条　【溯及力】中华人民共和国成立以后本法施行以前的行为，如果当时的法律不认为是犯罪的，适用当时的法律;如果当时的法律认为是犯罪的，依照本法总则第四章第八节的规定应当追诉的，按照当时的法律追究刑事责任，但是如果本法不认为是犯罪或者处刑较轻的，适用本法。</p>
+</blockquote>
 ]]></content>
       <categories>
         <category>笔记</category>
@@ -2953,46 +2981,6 @@ A --不属公机职责范围--> E["通知原机关，说明理由"]</pre>
       </tags>
   </entry>
   <entry>
-    <title>公专要点-刑事执法能力-讯问与询问</title>
-    <url>/2023/12/07/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E8%AE%AF%E9%97%AE%E4%B8%8E%E8%AF%A2%E9%97%AE/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="讯问嫌疑人"><a class="markdownIt-Anchor" href="#讯问嫌疑人"></a> 讯问嫌疑人</h2>
-<ul>
-<li>主体：人民检察院或公安机关的<strong>侦查人员</strong>。</li>
-<li>地点：可传唤到<strong>指定地点或目标住处</strong>。</li>
-</ul>
-<span id="more"></span>
-<ul>
-<li><strong>期限：12h。案情重大复杂，可能拘留、逮捕的则24h。</strong></li>
-<li>讯问未成年人：<br />
-通知其法定代理人到场。若为女性，则需要有女性工作人员在场。</li>
-<li><strong>第一次讯问时</strong>或对<strong>嫌犯采取强制措施之日</strong>起，嫌犯可聘请律师提供法律咨询、代理申诉与控告。</li>
-<li>嫌犯被逮捕的，律师可申请取保候审。</li>
-<li><strong>有坦白从宽，但无抗拒从严</strong></li>
-<li>嫌犯要求自行书写供述的，应准许。</li>
-<li>录音录像
-<ul>
-<li>可以对过程录音录像。<strong>无期、死刑、或其他重大犯罪案件应该同步录音录像。</strong></li>
-<li>录音录像不得无故中断</li>
-</ul>
-</li>
-<li>笔录做完后，没有问题则需要逐页签名 <strong>并</strong> 按手印。治安案件是签名 <strong>或</strong> 按手印。<br />
-在末页签上“以上笔录我看过，和我说的相符”</li>
-</ul>
-<h2 id="询问证人与被害人"><a class="markdownIt-Anchor" href="#询问证人与被害人"></a> 询问证人与被害人</h2>
-<ul>
-<li>主体：侦查人员</li>
-<li>询问未成年证人/被害人需要通知其<strong>法定代理人</strong>到场。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>刑事执法能力</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>公专要点-刑事执法能力-证据（行政、刑事通用）</title>
     <url>/2024/02/18/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E8%AF%81%E6%8D%AE/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="概念"><a class="markdownIt-Anchor" href="#概念"></a> 概念</h2>
@@ -3061,45 +3049,35 @@ A --不属公机职责范围--> E["通知原机关，说明理由"]</pre>
       </tags>
   </entry>
   <entry>
-    <title>公专要点-公安基础知识-公安工作根本原则与根本路线</title>
-    <url>/2024/04/11/ga/%E5%85%AC%E5%AE%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%85%AC%E5%AE%89%E5%B7%A5%E4%BD%9C%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%88%99%E4%B8%8E%E6%A0%B9%E6%9C%AC%E8%B7%AF%E7%BA%BF/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="根本原则"><a class="markdownIt-Anchor" href="#根本原则"></a> 根本原则</h2>
-<p><strong>坚持党对公安工作的绝对领导</strong><br />
-体现在：</p>
+    <title>公专要点-刑事执法能力-讯问与询问</title>
+    <url>/2023/12/07/ga/%E5%88%91%E4%BA%8B%E6%89%A7%E6%B3%95%E8%83%BD%E5%8A%9B/%E8%AE%AF%E9%97%AE%E4%B8%8E%E8%AF%A2%E9%97%AE/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="讯问嫌疑人"><a class="markdownIt-Anchor" href="#讯问嫌疑人"></a> 讯问嫌疑人</h2>
 <ul>
-<li>政治领导</li>
-<li>思想领导</li>
-<li>组织领导</li>
-<li>决策领导</li>
+<li>主体：人民检察院或公安机关的<strong>侦查人员</strong>。</li>
+<li>地点：可传唤到<strong>指定地点或目标住处</strong>。</li>
 </ul>
 <span id="more"></span>
-<blockquote>
-<p>做题技巧</p>
 <ul>
-<li>题干提到党的纲领/路线/方针/政策，则秒杀政治领导</li>
-<li>提到马列主义/毛泽东思想/邓小平理论/三个代表重要思想/习近平特···主义理论秒杀思想领导</li>
-<li>提到领导管理、公安队伍建设、抓好党内组织生活秒杀组织领导</li>
-<li>决策领导一般是组织对重大问题作出了必要批示</li>
+<li><strong>期限：12h。案情重大复杂，可能拘留、逮捕的则24h。</strong></li>
+<li>讯问未成年人：<br />
+通知其法定代理人到场。若为女性，则需要有女性工作人员在场。</li>
+<li><strong>第一次讯问时</strong>或对<strong>嫌犯采取强制措施之日</strong>起，嫌犯可聘请律师提供法律咨询、代理申诉与控告。</li>
+<li>嫌犯被逮捕的，律师可申请取保候审。</li>
+<li><strong>有坦白从宽，但无抗拒从严</strong></li>
+<li>嫌犯要求自行书写供述的，应准许。</li>
+<li>录音录像
+<ul>
+<li>可以对过程录音录像。<strong>无期、死刑、或其他重大犯罪案件应该同步录音录像。</strong></li>
+<li>录音录像不得无故中断</li>
 </ul>
-</blockquote>
-<h2 id="根本路线"><a class="markdownIt-Anchor" href="#根本路线"></a> 根本路线</h2>
-<p><strong>群众路线是公安工作的根本路线</strong><br />
-三懂四会原则：</p>
-<ul>
-<li>三懂：懂群众心理、懂群众语言、懂沟通技巧</li>
-<li>四会：会化解矛盾、回调处纠纷、会主动服务、会宣传发动</li>
+</li>
+<li>笔录做完后，没有问题则需要逐页签名 <strong>并</strong> 按手印。治安案件是签名 <strong>或</strong> 按手印。<br />
+在末页签上“以上笔录我看过，和我说的相符”</li>
 </ul>
-<h2 id="基本方针"><a class="markdownIt-Anchor" href="#基本方针"></a> 基本方针</h2>
-<p><strong>党委领导下的专门机关与广大群众相结合</strong></p>
-<h2 id="易混淆"><a class="markdownIt-Anchor" href="#易混淆"></a> 易混淆</h2>
+<h2 id="询问证人与被害人"><a class="markdownIt-Anchor" href="#询问证人与被害人"></a> 询问证人与被害人</h2>
 <ul>
-<li><strong>根本宗旨：全心全意为人民服务</strong></li>
-<li><strong>根本路线：群众路线</strong></li>
-<li>根本原则：党对公安工作的绝对领导</li>
-<li>基本方针：党委领导下的专门机关与广大群众相结合</li>
-<li>初心使命：人民公安为人民</li>
-<li>执法思想的核心：执法为民</li>
-<li>最大的政治优势、做好公安工作的根本保证：人民群众的支持</li>
+<li>主体：侦查人员</li>
+<li>询问未成年证人/被害人需要通知其<strong>法定代理人</strong>到场。</li>
 </ul>
 ]]></content>
       <categories>
@@ -3107,7 +3085,7 @@ A --不属公机职责范围--> E["通知原机关，说明理由"]</pre>
       </categories>
       <tags>
         <tag>公安专业知识</tag>
-        <tag>公安基础知识</tag>
+        <tag>刑事执法能力</tag>
       </tags>
   </entry>
   <entry>
@@ -3164,27 +3142,45 @@ A --不属公机职责范围--> E["通知原机关，说明理由"]</pre>
       </tags>
   </entry>
   <entry>
-    <title>公专要点-公安基础知识-公安工作的主要内容</title>
-    <url>/2024/04/11/ga/%E5%85%AC%E5%AE%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%85%AC%E5%AE%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%B8%BB%E8%A6%81%E5%86%85%E5%AE%B9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="公安专业工作"><a class="markdownIt-Anchor" href="#公安专业工作"></a> 公安专业工作</h2>
-<blockquote>
-<p>该部分内容存在省略</p>
-</blockquote>
-<h3 id="保卫工作"><a class="markdownIt-Anchor" href="#保卫工作"></a> 保卫工作</h3>
+    <title>公专要点-公安基础知识-公安工作根本原则与根本路线</title>
+    <url>/2024/04/11/ga/%E5%85%AC%E5%AE%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%85%AC%E5%AE%89%E5%B7%A5%E4%BD%9C%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%88%99%E4%B8%8E%E6%A0%B9%E6%9C%AC%E8%B7%AF%E7%BA%BF/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="根本原则"><a class="markdownIt-Anchor" href="#根本原则"></a> 根本原则</h2>
+<p><strong>坚持党对公安工作的绝对领导</strong><br />
+体现在：</p>
 <ul>
-<li>机关团体保卫工作</li>
-<li>企业保卫工作</li>
-<li>事业单位保卫工作</li>
-<li>部门系统保卫工作</li>
-<li>监督管理计算机信息系统的安全保护工作</li>
+<li>政治领导</li>
+<li>思想领导</li>
+<li>组织领导</li>
+<li>决策领导</li>
 </ul>
 <span id="more"></span>
-<h3 id="法制工作"><a class="markdownIt-Anchor" href="#法制工作"></a> 法制工作</h3>
 <blockquote>
-<p>该部分内容存在省略</p>
-</blockquote>
+<p>做题技巧</p>
 <ul>
-<li>执法过错责任追究等内部执法监督工作 <strong>（归法制，不归督察）</strong></li>
+<li>题干提到党的纲领/路线/方针/政策，则秒杀政治领导</li>
+<li>提到马列主义/毛泽东思想/邓小平理论/三个代表重要思想/习近平特···主义理论秒杀思想领导</li>
+<li>提到领导管理、公安队伍建设、抓好党内组织生活秒杀组织领导</li>
+<li>决策领导一般是组织对重大问题作出了必要批示</li>
+</ul>
+</blockquote>
+<h2 id="根本路线"><a class="markdownIt-Anchor" href="#根本路线"></a> 根本路线</h2>
+<p><strong>群众路线是公安工作的根本路线</strong><br />
+三懂四会原则：</p>
+<ul>
+<li>三懂：懂群众心理、懂群众语言、懂沟通技巧</li>
+<li>四会：会化解矛盾、回调处纠纷、会主动服务、会宣传发动</li>
+</ul>
+<h2 id="基本方针"><a class="markdownIt-Anchor" href="#基本方针"></a> 基本方针</h2>
+<p><strong>党委领导下的专门机关与广大群众相结合</strong></p>
+<h2 id="易混淆"><a class="markdownIt-Anchor" href="#易混淆"></a> 易混淆</h2>
+<ul>
+<li><strong>根本宗旨：全心全意为人民服务</strong></li>
+<li><strong>根本路线：群众路线</strong></li>
+<li>根本原则：党对公安工作的绝对领导</li>
+<li>基本方针：党委领导下的专门机关与广大群众相结合</li>
+<li>初心使命：人民公安为人民</li>
+<li>执法思想的核心：执法为民</li>
+<li>最大的政治优势、做好公安工作的根本保证：人民群众的支持</li>
 </ul>
 ]]></content>
       <categories>
@@ -3218,6 +3214,38 @@ A --不属公机职责范围--> E["通知原机关，说明理由"]</pre>
 </li>
 <li>严：严格、严厉、严肃</li>
 <li>济：救济、协调、并行</li>
+</ul>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>公安基础知识</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-公安基础知识-公安工作的主要内容</title>
+    <url>/2024/04/11/ga/%E5%85%AC%E5%AE%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%85%AC%E5%AE%89%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%B8%BB%E8%A6%81%E5%86%85%E5%AE%B9/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="公安专业工作"><a class="markdownIt-Anchor" href="#公安专业工作"></a> 公安专业工作</h2>
+<blockquote>
+<p>该部分内容存在省略</p>
+</blockquote>
+<h3 id="保卫工作"><a class="markdownIt-Anchor" href="#保卫工作"></a> 保卫工作</h3>
+<ul>
+<li>机关团体保卫工作</li>
+<li>企业保卫工作</li>
+<li>事业单位保卫工作</li>
+<li>部门系统保卫工作</li>
+<li>监督管理计算机信息系统的安全保护工作</li>
+</ul>
+<span id="more"></span>
+<h3 id="法制工作"><a class="markdownIt-Anchor" href="#法制工作"></a> 法制工作</h3>
+<blockquote>
+<p>该部分内容存在省略</p>
+</blockquote>
+<ul>
+<li>执法过错责任追究等内部执法监督工作 <strong>（归法制，不归督察）</strong></li>
 </ul>
 ]]></content>
       <categories>
@@ -3328,54 +3356,41 @@ A --不属公机职责范围--> E["通知原机关，说明理由"]</pre>
       </tags>
   </entry>
   <entry>
-    <title>公专要点-公安基础知识-公安机关的组织管理</title>
-    <url>/2024/04/11/ga/%E5%85%AC%E5%AE%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E7%9A%84%E7%BB%84%E7%BB%87%E7%AE%A1%E7%90%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="公安机关的管理体制"><a class="markdownIt-Anchor" href="#公安机关的管理体制"></a> 公安机关的管理体制</h2>
-<h3 id="领导体制"><a class="markdownIt-Anchor" href="#领导体制"></a> 领导体制</h3>
-<p>统一领导（党的领导）、分级管理、条块结合（以块为主）</p>
+    <title>公专要点-公安基础知识-公安机关的性质</title>
+    <url>/2024/03/07/ga/%E5%85%AC%E5%AE%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%85%AC%E6%9C%BA%E6%80%A7%E8%B4%A8/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="基本属性"><a class="markdownIt-Anchor" href="#基本属性"></a> 基本属性</h2>
+<ul>
+<li>阶级属性（根本属性/政治属性）：人民民主专政的重要工具
+<ul>
+<li><strong>公安机关具有鲜明的阶级性</strong>，在国家政权中占据重要地位，国家意志的忠实执行者。</li>
+</ul>
+</li>
+<li>组织属性：武装<strong>性质</strong>的国家治安行政力量和刑事司法力量
+<ul>
+<li>公机可执行部分刑罚（拘役、余期3月有期、剥夺政治权利、驱逐出境）<br />
+<strong>性质决定一切，而非其它决定性质</strong></li>
+</ul>
+</li>
+</ul>
 <span id="more"></span>
-<h3 id="警衔制度"><a class="markdownIt-Anchor" href="#警衔制度"></a> 警衔制度</h3>
-<p>警员-警司-警督-警监</p>
-<h3 id="组织机构与职务序列"><a class="markdownIt-Anchor" href="#组织机构与职务序列"></a> 组织机构与职务序列</h3>
+<h2 id="公机职责使命"><a class="markdownIt-Anchor" href="#公机职责使命"></a> 公机职责使命</h2>
+<h3 id="职责定位"><a class="markdownIt-Anchor" href="#职责定位"></a> 职责定位</h3>
 <ul>
-<li>组织机构
+<li>维护国家<strong>政治安全</strong>：政法工作的<strong>首要任务</strong></li>
+<li>确保<strong>社会大局稳定</strong>：政法工作的<strong>基本任务</strong></li>
+<li>促进<strong>社会公平正义</strong>：政法工作的<strong>核心价值追求</strong></li>
+<li>保障<strong>人民安居乐业</strong>：政法工作的<strong>根本目标</strong></li>
+</ul>
+<h3 id="使命任务"><a class="markdownIt-Anchor" href="#使命任务"></a> 使命任务</h3>
 <ul>
-<li>公安部</li>
-<li>公安厅</li>
-<li>市公安局</li>
-<li>分县局</li>
+<li>坚决捍卫政治安全：<strong>党和国家安全的生命线、公安机关的首要职责</strong></li>
+<li>全力维护社会安定：公机的<strong>重大责任</strong></li>
+<li>现实保障人民安宁：公安机关的<strong>根本任务</strong></li>
 </ul>
-</li>
-<li>职务序列
-<ul>
-<li>警官
-<ul>
-<li>主管政治工作的警官：政治委员、教导员、指导员</li>
-</ul>
-</li>
-<li>警员（警长）</li>
-<li>警务技术
-<ul>
-<li>等级由高至低：一～二级总监、一～四级主任、一～四级主管、技术员</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>内设机构
-<ul>
-<li>综合管理（处、室、部）</li>
-<li>执法勤务：
-<ul>
-<li>总队（省厅）</li>
-<li>支队（市局）</li>
-<li>大队（分局）</li>
-<li>中队（派出所）</li>
-<li>指挥中心</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<blockquote>
+<p><strong>“根本保证” -&gt; 对党</strong><br />
+“根本目标”、“根本任务”、“···” -&gt; 对人民</p>
+</blockquote>
 ]]></content>
       <categories>
         <category>笔记</category>
@@ -3476,51 +3491,6 @@ A --不属公机职责范围--> E["通知原机关，说明理由"]</pre>
       </tags>
   </entry>
   <entry>
-    <title>公专要点-公安基础知识-公安机关的性质</title>
-    <url>/2024/03/07/ga/%E5%85%AC%E5%AE%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%85%AC%E6%9C%BA%E6%80%A7%E8%B4%A8/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="基本属性"><a class="markdownIt-Anchor" href="#基本属性"></a> 基本属性</h2>
-<ul>
-<li>阶级属性（根本属性/政治属性）：人民民主专政的重要工具
-<ul>
-<li><strong>公安机关具有鲜明的阶级性</strong>，在国家政权中占据重要地位，国家意志的忠实执行者。</li>
-</ul>
-</li>
-<li>组织属性：武装<strong>性质</strong>的国家治安行政力量和刑事司法力量
-<ul>
-<li>公机可执行部分刑罚（拘役、余期3月有期、剥夺政治权利、驱逐出境）<br />
-<strong>性质决定一切，而非其它决定性质</strong></li>
-</ul>
-</li>
-</ul>
-<span id="more"></span>
-<h2 id="公机职责使命"><a class="markdownIt-Anchor" href="#公机职责使命"></a> 公机职责使命</h2>
-<h3 id="职责定位"><a class="markdownIt-Anchor" href="#职责定位"></a> 职责定位</h3>
-<ul>
-<li>维护国家<strong>政治安全</strong>：政法工作的<strong>首要任务</strong></li>
-<li>确保<strong>社会大局稳定</strong>：政法工作的<strong>基本任务</strong></li>
-<li>促进<strong>社会公平正义</strong>：政法工作的<strong>核心价值追求</strong></li>
-<li>保障<strong>人民安居乐业</strong>：政法工作的<strong>根本目标</strong></li>
-</ul>
-<h3 id="使命任务"><a class="markdownIt-Anchor" href="#使命任务"></a> 使命任务</h3>
-<ul>
-<li>坚决捍卫政治安全：<strong>党和国家安全的生命线、公安机关的首要职责</strong></li>
-<li>全力维护社会安定：公机的<strong>重大责任</strong></li>
-<li>现实保障人民安宁：公安机关的<strong>根本任务</strong></li>
-</ul>
-<blockquote>
-<p><strong>“根本保证” -&gt; 对党</strong><br />
-“根本目标”、“根本任务”、“···” -&gt; 对人民</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>笔记</category>
-      </categories>
-      <tags>
-        <tag>公安专业知识</tag>
-        <tag>公安基础知识</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>公专要点-公安基础知识-公安机关基本职能</title>
     <url>/2024/03/07/ga/%E5%85%AC%E5%AE%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%85%AC%E6%9C%BA%E5%9F%BA%E6%9C%AC%E8%81%8C%E8%83%BD/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="公安机关的基本职能"><a class="markdownIt-Anchor" href="#公安机关的基本职能"></a> 公安机关的基本职能</h2>
@@ -3546,6 +3516,64 @@ B --基础--> A</pre>
 <p>口诀：打/范/教/管/建/造 -&gt; 赵犯贱打管教</p>
 </blockquote>
 <p>社会治安综合治理方针：<strong>打防结合，预防为主</strong>。</p>
+]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>公安专业知识</tag>
+        <tag>公安基础知识</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公专要点-公安基础知识-公安机关的组织管理</title>
+    <url>/2024/04/11/ga/%E5%85%AC%E5%AE%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E7%9A%84%E7%BB%84%E7%BB%87%E7%AE%A1%E7%90%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="公安机关的管理体制"><a class="markdownIt-Anchor" href="#公安机关的管理体制"></a> 公安机关的管理体制</h2>
+<h3 id="领导体制"><a class="markdownIt-Anchor" href="#领导体制"></a> 领导体制</h3>
+<p>统一领导（党的领导）、分级管理、条块结合（以块为主）</p>
+<span id="more"></span>
+<h3 id="警衔制度"><a class="markdownIt-Anchor" href="#警衔制度"></a> 警衔制度</h3>
+<p>警员-警司-警督-警监</p>
+<h3 id="组织机构与职务序列"><a class="markdownIt-Anchor" href="#组织机构与职务序列"></a> 组织机构与职务序列</h3>
+<ul>
+<li>组织机构
+<ul>
+<li>公安部</li>
+<li>公安厅</li>
+<li>市公安局</li>
+<li>分县局</li>
+</ul>
+</li>
+<li>职务序列
+<ul>
+<li>警官
+<ul>
+<li>主管政治工作的警官：政治委员、教导员、指导员</li>
+</ul>
+</li>
+<li>警员（警长）</li>
+<li>警务技术
+<ul>
+<li>等级由高至低：一～二级总监、一～四级主任、一～四级主管、技术员</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>内设机构
+<ul>
+<li>综合管理（处、室、部）</li>
+<li>执法勤务：
+<ul>
+<li>总队（省厅）</li>
+<li>支队（市局）</li>
+<li>大队（分局）</li>
+<li>中队（派出所）</li>
+<li>指挥中心</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 ]]></content>
       <categories>
         <category>笔记</category>
